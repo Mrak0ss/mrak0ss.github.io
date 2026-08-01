@@ -664,6 +664,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "horse+human": "centaur",
 
 "desert+horse": "camel",
+  "animal+desert": "camel",
 
 "sugar+time": "candy",
 
