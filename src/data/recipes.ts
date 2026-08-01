@@ -4799,4 +4799,5 @@ export const recipes: Record<string, RecipeOutput> = {
 "dragon+immortality": "ouroboros",
 "immortality+snake": "ouroboros",
 "jormungandr+small": "ouroboros",
+  "glasses+sun": "sunglasses",
 };
