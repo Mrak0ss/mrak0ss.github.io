@@ -136,6 +136,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "reed+tool": "paper",
 "grass+swamp": "reed",
 "metal+tool": "sword",
+  "blade+metal": "sword",
 "human+sword": "warrior",
 "warrior+sword": "knight",
 "warrior+warrior": "war",
