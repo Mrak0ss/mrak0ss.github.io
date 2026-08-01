@@ -1990,7 +1990,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "stone+wood": "hammer",
 "bird+wind": "hawk",
 "plant+water": "seaweed",
-"blade+plane": "helicopter",
+  "plant+sea": "seaweed",
+  "blade+plane": "helicopter",
 "glacier+ship": "titanic",
 
 "big+wolf": "fenrir",
