@@ -3185,4 +3185,5 @@ export const elements: {
 { id: "anglerfish", name: "Anglerfish", emoji: "🐟" },
 { id: "eldorado", name: "El Dorado", emoji: "🏛️" },
 { id: "ouroboros", name: "Ouroboros", emoji: "🐍" },
+  { id: "sunglasses", name: "Sunglasses", emoji: "👓" },
 ];
