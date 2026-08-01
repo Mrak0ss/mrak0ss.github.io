@@ -381,6 +381,7 @@ export const elements: {
 { id: "toucan", name: "Toucan", emoji: "🐦" },
 { id: "sandstone", name: "Sandstone", emoji: "🏖️" },
 { id: "plant", name: "Plant", emoji: "☘️" },
+  { id: "lily", name: "Lily", emoji: "☘️" },
 { id: "ill", name: "Ill", emoji: "🤒" },
 { id: "hospital", name: "Hospital", emoji: "🏥" },
 { id: "ambulance", name: "Ambulance", emoji: "🚑" },
