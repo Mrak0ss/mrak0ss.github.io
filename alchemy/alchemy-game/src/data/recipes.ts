@@ -4804,4 +4804,44 @@ export const recipes: Record<string, RecipeOutput> = {
 "jormungandr+small": "ouroboros",
     "glasses+sun": "sunglasses",
   "earth+explosion": "mine_bomb",
+  "squirrel+tree": "nut",
+  "butter+nuts": "peanut_butter",
+"nuts+pressure": "peanut_butter",
+  "canvas+paint": "painting",
+"canvas+painter": "painting",
+"human+painting": "painter",
+  "dinosaur+human": "paleontologist",
+"dinosaur+science": "paleontologist",
+"fossil+human": "paleontologist",
+"fossil+science": "paleontologist",
+  "flute+flute": "pan_flute",
+"human+pan_flute": "musician",
+"musician+pan_flute": "music",
+  "airplane+hang_glider": "paraglider",
+"bird+hang_glider": "paraglider",
+"pilot+hang_glider": "paraglider",
+
+"grass+house": "park",
+"grass+city": "park",
+
+"bird+rainbow": "peacock",
+"bird+pride": "peacock",
+
+"blade+pencil": "pencil_sharpener",
+"metal+pencil": "pencil_sharpener",
+
+"rock+small": "pebble",
+"stone+small": "pebble",
+
+"electricity+liquid": "plasma",
+"energy+liquid": "plasma",
+"fire+science": "plasma",
+
+"field+tool": "plow",
+"farmer+tool": "plow",
+"metal+wood": "plow",
+
+"fire+hero": "prometheus",
+"fire+legend": "prometheus",
+"fire+mount_olympus": "prometheus",
 };
