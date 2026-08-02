@@ -2692,6 +2692,7 @@ export const elements: {
 { id: "voice", name: "Voice", emoji: "🗣️" },
 { id: "wish", name: "Wish", emoji: "🌠" },
 { id: "work", name: "Work", emoji: "⚙️" },
+  { id: "worker", name: "Worker", emoji: "⚙️" },
 { id: "young", name: "Young", emoji: "🧒" },
 { id: "icarus", name: "Icarus", emoji: "🪶" },
 { id: "ice_sculpture", name: "Ice Sculpture", emoji: "🧊" },
