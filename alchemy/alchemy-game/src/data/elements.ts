@@ -1359,6 +1359,7 @@ export const elements: {
 { id: "immortality", name: "Immortality", emoji: "♾️" },
 { id: "hay", name: "Hay", emoji: "🍁" },
 { id: "meat", name: "Meat", emoji: "🥩" },
+  { id: "butcher", name: "Butcher", emoji: "🥩" },
 { id: "river", name: "River", emoji: "R" },
 { id: "needle", name: "Needle", emoji: "I" },
 
