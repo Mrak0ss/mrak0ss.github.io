@@ -4805,15 +4805,11 @@ export const recipes: Record<string, RecipeOutput> = {
     "glasses+sun": "sunglasses",
   "earth+explosion": "mine_bomb",
   "squirrel+tree": "nut",
-  "butter+nuts": "peanut_butter",
-"nuts+pressure": "peanut_butter",
+  "butter+nut": "peanut_butter",
+"nut+pressure": "peanut_butter",
   "canvas+paint": "painting",
 "canvas+painter": "painting",
-"human+painting": "painter",
-  "dinosaur+human": "paleontologist",
-"dinosaur+science": "paleontologist",
-"fossil+human": "paleontologist",
-"fossil+science": "paleontologist",
+ 
   "flute+flute": "pan_flute",
 "human+pan_flute": "musician",
 "musician+pan_flute": "music",
@@ -4821,7 +4817,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "bird+hang_glider": "paraglider",
 "pilot+hang_glider": "paraglider",
 
-"grass+house": "park",
 "grass+city": "park",
 
 "bird+rainbow": "peacock",
@@ -4838,10 +4833,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "fire+science": "plasma",
 
 "field+tool": "plow",
-"farmer+tool": "plow",
-"metal+wood": "plow",
 
-"fire+hero": "prometheus",
 "fire+legend": "prometheus",
 "fire+mount_olympus": "prometheus",
 };
