@@ -3188,4 +3188,5 @@ export const elements: {
 { id: "ouroboros", name: "Ouroboros", emoji: "🐍" },
     { id: "sunglasses", name: "Sunglasses", emoji: "🕶️" },
   { id: "mine_bomb", name: "Mine Bomb", emoji: "💣" },
+  { id: "jewelry", name: "Jewelry", emoji: "🪙" },
 ];
