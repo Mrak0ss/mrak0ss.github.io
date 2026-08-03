@@ -3744,7 +3744,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "evil+witchcraft": "sacrifice",
 "rowan+witchcraft": "sacrifice",
 
-"deity+sacrifice": "camazotz",
+"god+sacrifice": "camazotz",
 
 "house+sacrifice": "hell",
 
@@ -3802,7 +3802,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "griffin+myth": "anzu",
 
-"immortality+myth": "deity",
+"immortality+myth": "god",
 
 "evil+myth": "demon",
 
@@ -4836,4 +4836,54 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "fire+legend": "prometheus",
 "fire+mount_olympus": "prometheus",
+
+  "animal+carrot": "rabbit",
+
+"god+double_rainbow": "rainbow_serpent",
+"god+rain": "rainbow_serpent",
+"god+rainbow": "rainbow_serpent",
+"joermungandr+rainbow": "rainbow_serpent",
+
+"bakery+newspaper": "recipe",
+"bakery+paper": "recipe",
+"baker+newspaper": "recipe",
+"baker+paper": "recipe",
+"cook+paper": "recipe",
+"flour+newspaper": "recipe",
+"flour+paper": "recipe",
+"fruit+newspaper": "recipe",
+"fruit+paper": "recipe",
+"meat+newspaper": "recipe",
+"meat+paper": "recipe",
+"newspaper+vegetable": "recipe",
+"paper+vegetable": "recipe",
+
+"animal+christmas_stocking": "reindeer",
+"animal+christmas_tree": "reindeer",
+"animal+santa": "reindeer",
+"christmas_tree+livestock": "reindeer",
+"livestock+santa": "reindeer",
+
+"cook+house": "restaurant",
+  "broom+robot": "robot_vacuum",
+"robot+vacuum": "robot_vacuum",
+
+"eagle+giant": "roc",
+
+"airplane+atmosphere": "rocket",
+"atmosphere+boat": "rocket",
+"atmosphere+car": "rocket",
+"atmosphere+machine": "rocket",
+"atmosphere+metal": "rocket",
+"atmosphere+pirate_ship": "rocket",
+"atmosphere+steamboat": "rocket",
+"atmosphere+steel": "rocket",
+"atmosphere+train": "rocket",
+
+"blade+flower": "rose",
+"blade+plant": "rose",
+"flower+love": "rose",
+"love+plant": "rose",
+
+"pencil+wood": "ruler",
 };
