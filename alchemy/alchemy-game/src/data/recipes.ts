@@ -3202,7 +3202,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "human+painting": "painter",
 "priest+sword": "paladin",
 "love+human": "philanthropist",
-"airplane+human": "pilot",
+"plane+human": "pilot",
 "sailor+thief": "pirate",
 "shower+work": "plumber",
 "hunter+private_property": "poacher",
@@ -4377,7 +4377,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "clothing+female": "dress",
 
-"airplane+robot": "drone",
+"plane+robot": "drone",
 
 "leather+wood": "drum",
 
@@ -4661,12 +4661,12 @@ export const recipes: Record<string, RecipeOutput> = {
 "fence+plant": "hedge",
 "fence+leaf": "hedge",
 
-"airplane+blade": "helicopter",
-"airplane+windmill": "helicopter",
+"plane+blade": "helicopter",
+"plane+windmill": "helicopter",
 
 "line+pentagon": "hexagon",
 
-"blade+airplane": "helicopter",
+"blade+plane": "helicopter",
 
 "wind+flower": "helicopter_seed",
 
@@ -4813,7 +4813,7 @@ export const recipes: Record<string, RecipeOutput> = {
   "flute+flute": "pan_flute",
 "human+pan_flute": "musician",
 "musician+pan_flute": "music",
-  "airplane+hang_glider": "paraglider",
+  "plane+hang_glider": "paraglider",
 "bird+hang_glider": "paraglider",
 "pilot+hang_glider": "paraglider",
 
@@ -4870,7 +4870,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "eagle+giant": "roc",
 
-"airplane+atmosphere": "rocket",
+"plane+atmosphere": "rocket",
 "atmosphere+boat": "rocket",
 "atmosphere+car": "rocket",
 "atmosphere+machine": "rocket",
