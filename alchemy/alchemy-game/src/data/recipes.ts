@@ -2664,7 +2664,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "india+sport": "cricket",
 
-"plane+star": "starship",
+"plane+star": "rocket",
 
 "euro+continent": "europe",
 
@@ -4377,8 +4377,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "clothing+female": "dress",
 
-"plane+robot": "drone",
-
 "leather+wood": "drum",
 
 
@@ -4661,7 +4659,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "fence+plant": "hedge",
 "fence+leaf": "hedge",
 
-"plane+blade": "helicopter",
+
 "plane+windmill": "helicopter",
 
 "line+pentagon": "hexagon",
@@ -4813,9 +4811,9 @@ export const recipes: Record<string, RecipeOutput> = {
   "flute+flute": "pan_flute",
 "human+pan_flute": "musician",
 "musician+pan_flute": "music",
-  "plane+hang_glider": "paraglider",
+  "hang_glider+plane": "paraglider",
 "bird+hang_glider": "paraglider",
-"pilot+hang_glider": "paraglider",
+"hang_glider+pilot": "paraglider",
 
 "grass+city": "park",
 
@@ -4842,7 +4840,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "god+double_rainbow": "rainbow_serpent",
 "god+rain": "rainbow_serpent",
 "god+rainbow": "rainbow_serpent",
-"joermungandr+rainbow": "rainbow_serpent",
+"jormungandr+rainbow": "rainbow_serpent",
 
 "bakery+newspaper": "recipe",
 "bakery+paper": "recipe",
