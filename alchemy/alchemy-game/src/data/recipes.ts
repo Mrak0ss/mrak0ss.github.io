@@ -3201,7 +3201,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "human+painting": "painter",
 "priest+sword": "paladin",
 "love+human": "philanthropist",
-"plane+human": "pilot",
+"human+plane": "pilot",
 "sailor+thief": "pirate",
 "shower+work": "plumber",
 "hunter+private_property": "poacher",
@@ -4867,7 +4867,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "eagle+giant": "roc",
 
-"plane+atmosphere": "rocket",
+"atmosphere+plane": "rocket",
 "atmosphere+boat": "rocket",
 "atmosphere+car": "rocket",
 "atmosphere+machine": "rocket",
