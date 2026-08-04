@@ -1992,7 +1992,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "bird+wind": "hawk",
 "plant+water": "seaweed",
   "plant+sea": "seaweed",
-  "blade+plane": "helicopter",
 "glacier+ship": "titanic",
 
 "big+wolf": "fenrir",
