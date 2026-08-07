@@ -4023,8 +4023,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "beach+umbrella": "beach_umbrella",
 "sun+umbrella": "beach_umbrella",
 
-"human+sleep": "bed",
-
 "crayon+robot": "bender",
 "pencil+robot": "bender",
 
@@ -4164,8 +4162,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "blade+glass": "blender",
 
 "glasses+horizon": "binoculars",
-
-"brain+spoon": "bent_spoon",
 
 
 "human+sleep": "bed",
