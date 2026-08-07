@@ -4014,30 +4014,28 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "analysis+fruit": "banana",
 
-"wire+fence": "barbed_wire",
+"fence+wire": "barbed_wire",
 
-"ship+gun": "battleship",
+"gun+ship": "battleship",
 
-"beach+ball": "beach_ball",
+"ball+beach": "beach_ball",
 
 "beach+umbrella": "beach_umbrella",
 "sun+umbrella": "beach_umbrella",
 
-"sleep+human": "bed",
+"human+sleep": "bed",
 
-"robot+crayon": "bender",
+"crayon+robot": "bender",
 "pencil+robot": "bender",
 
-"spoon+brain": "bent_spoon",
+"brain+spoon": "bent_spoon",
 
 "glass+horizon": "binoculars",
 
-"egg+air": "bird",
+
 "air+life": "bird",
 
 "bird+house": "birdhouse",
-
-"internet+coin": "bitcoin",
 
 "ash+paint": "black",
 "night+paint": "black",
@@ -4441,7 +4439,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "book+tablet": "e_reader",
 
-"coin+internet": "ethereum",
+"coin+internet": ["ethereum", "bitcoin"],
 
 "money+spain": "euro",
 "money+italy": "euro",
