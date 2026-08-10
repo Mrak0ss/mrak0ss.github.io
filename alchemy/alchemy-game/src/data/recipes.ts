@@ -1394,7 +1394,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "animal+china": "panda",
 "animal+tree": "giraffe",
 "horse+savannah+tree": "giraffe",
-"panda+country": "china",
+"country+panda": "china",
 "oyster+sand": "pearl",
 "sand+shells": "pearl",
 "pearl+necklace": "jewelry",
