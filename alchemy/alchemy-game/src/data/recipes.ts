@@ -2062,7 +2062,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "livestock+tool": "milk",
 "barn+livestock": "cow",
 "axe+cow": "meat",
-"axe+livestock": "milk",
 "mountain+rain": "river",
 "metal+thread": "needle",
 
