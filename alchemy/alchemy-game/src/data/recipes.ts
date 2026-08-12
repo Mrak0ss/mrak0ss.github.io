@@ -681,6 +681,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "metal+rope": "chain",
 
 "egg+life": "chicken",
+  "bird+egg": "chicken",
 
 "fireplace+house": "chimney",
 
