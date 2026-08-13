@@ -5138,7 +5138,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "animal+wire": "snake",
 "electric_eel+land": "snake",
 
-"cold+steam": "snow",
 "mountain_range+rain": "river",
 
 "blizzard+crystal_ball": "snow_globe",
