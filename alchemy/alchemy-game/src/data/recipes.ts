@@ -2657,7 +2657,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "plane+star": "spaceship",
 
-"euro+continent": "europe",
+"continent+euro": "europe",
 
 "germany+money": "euro",
 "italy+money": "euro",
@@ -4426,7 +4426,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "coin+internet": ["ethereum", "bitcoin"],
 
 "money+spain": "euro",
-"money+italy": "euro",
 
 "rock+sword": "excalibur",
 
