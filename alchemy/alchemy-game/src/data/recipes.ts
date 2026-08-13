@@ -136,7 +136,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "reed+tool": "paper",
 "grass+swamp": "reed",
 "metal+tool": "sword",
-  "blade+metal": "sword",
 "human+sword": "warrior",
 "warrior+sword": "knight",
 "warrior+warrior": "war",
@@ -240,7 +239,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "earthquake+house": "ruins",
 "brick+time": "ruins",
 "brick+storm": "ruins",
-"bacteria+human": "illness",
 "life+stone": "egg",
 "egg+swamp": "lizard",
 "fire+lizard": "dragon",
@@ -606,8 +604,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "beer+house": "bar",
 "house+tequila": "bar",
 "house+vodka": "bar",
-
-"fire+meat": "barbeque",
 
 "bird+vampire": "bat",
 
@@ -1557,7 +1553,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "container+water": "bottle",
 "book+immortality": "book_of_the_dead",
 "small+tree": "bonsai_tree",
-"corpse+time": "bone",
+"corpse+time": ["bone", "skeleton"],
 "blood+container": "blood_bag",
 "snow+storm": "blizzard",
 "snow+wind": "blizzard",
@@ -1804,7 +1800,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "bread+electricity": "toaster",
 "fish+wood": "fishing_rod",
-"human+snow": "snowman",
 "bonfire+wood": "campfire",
 "bread+cheese": "pizza",
 "fire+lamp": "lantern",
@@ -1981,7 +1976,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "ship+ship": "fleet",
 "board+house": "floor",
 "soap+water": "foam",
-"animal+time": "fossil",
 "oil+potato": "french_fries",
 "brick+wood": "furnace",
 "screw+wood": "furniture",
@@ -1992,7 +1986,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "stone+wood": "hammer",
 "bird+wind": "hawk",
 "plant+water": "seaweed",
-  "plant+sea": "seaweed",
 "glacier+ship": "titanic",
 
 "big+wolf": "fenrir",
@@ -2425,7 +2418,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "electricity+mouse": "pikachu",
 "muraena+sturgeon": "pike",
 "flamingo+jaguar": "pink_panther",
-"blood+fish": "piranha",
+"blood+fish": ["piranha", "shark"],
 "bee+gremlin": "pixie",
 
 "cartoon+horse": "pony",
@@ -2610,7 +2603,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "light+energy": "laser",
 "moon+machine": "satellite",
-"human+rocket": "astronaut",
+"human+spaceship": "astronaut",
 
 "uranium+radiation": "plutonium",
 "uranus+metal": "uranium",
@@ -2663,7 +2656,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "india+sport": "cricket",
 
-"plane+star": "rocket",
+"plane+star": "spaceship",
 
 "euro+continent": "europe",
 
@@ -2862,7 +2855,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "blade+paper": "confetti",
 "paper+scissors": "confetti",
 
-"confetti+philosophy": "small",
 "utensil+wood": "rolling-pin",
 
 "life+metal": "metal_golem",
@@ -2934,7 +2926,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "storm+thunder": "thunderstorm",
 "storm+storm": "tornado",
 "north+wind": "tramontane",
-"heat+water": "vapour",
+"heat+water": ["steam", "vapour"],
 "air+movement": "wind",
 
 "movement+planet": "astronomy",
@@ -3106,7 +3098,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "giant+ice": "jotunn",
 "giant+snow": "jotunn",
 "big+planet": "jupiter",
-"planet+sun": "jupiter",
 "ice+milk": "ice_cream",
 "milk+snow": "ice_cream",
 
@@ -3933,7 +3924,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "earth+hammer": "ore",
 "hammer+mountain": "ore",
 "hammer+rock": "ore",
-"hammer+stone": "ore",
+"hammer+stone": ["ore", "statue"],
 
 "life+science": ["organic_matter", "biology"],
 "bacteria+death": "organic_matter",
@@ -4082,7 +4073,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "sun+snowman": "carrot",
 
 
-"smartphone+car": "carpool",
+"car+phone": "carpool",
 "taxi+taxi": "carpool",
 
 "oxygen+human": "carbon_dioxide",
@@ -4206,7 +4197,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "clothing+house": "closet",
 
-"fabric+human": "clothing",
+"cloth+human": "clothing",
 
 
 
@@ -4681,7 +4672,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "horse+metal": "horseshoe",
 
-"house+sickness": "hospital",
+
 "ambulance+house": "hospital",
 
 "cacao+milk": "hot_cocoa",
@@ -4793,7 +4784,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "dragon+immortality": "ouroboros",
 "immortality+snake": "ouroboros",
 "jormungandr+small": "ouroboros",
-    "glasses+sun": "sunglasses",
   "earth+explosion": "mine_bomb",
   "squirrel+tree": "nut",
   "butter+nut": "peanut_butter",
@@ -4861,15 +4851,15 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "eagle+giant": "roc",
 
-"atmosphere+plane": "rocket",
-"atmosphere+boat": "rocket",
-"atmosphere+car": "rocket",
-"atmosphere+machine": "rocket",
-"atmosphere+metal": "rocket",
-"atmosphere+pirate_ship": "rocket",
-"atmosphere+steamboat": "rocket",
-"atmosphere+steel": "rocket",
-"atmosphere+train": "rocket",
+"atmosphere+plane": "spaceship",
+"atmosphere+boat": "spaceship",
+"atmosphere+car": "spaceship",
+"atmosphere+machine": "spaceship",
+"atmosphere+metal": "spaceship",
+"atmosphere+pirate_ship": "spaceship",
+"atmosphere+steamboat": "spaceship",
+"atmosphere+steel": "spaceship",
+"atmosphere+train": "spaceship",
 
 "blade+flower": "rose",
 "blade+plant": "rose",
@@ -4877,4 +4867,552 @@ export const recipes: Record<string, RecipeOutput> = {
 "love+plant": "rose",
 
 "pencil+wood": "ruler",
+
+  "container+flour": "sack",
+  "container+letter": "sack",
+  "container+salt": "sack",
+
+
+"horse+skin": "saddle",
+"horse+tool": "saddle",
+
+"container+gold": "safe",
+"container+gun": "safe",
+"gold+metal": "safe",
+"gold+steel": "safe",
+"metal+money": "safe",
+"money+steel": "safe",
+
+"armor+glasses": "safety_glasses",
+"bulletproof_vest+glasses": "safety_glasses",
+"engineer+glasses": "safety_glasses",
+"explosion+glasses": "safety_glasses",
+"glasses+tool": "safety_glasses",
+
+
+"boat+wind": "sailboat",
+"cloth+steamboat": "sailboat",
+"steamboat+wind": "sailboat",
+
+
+"human+lake": "sailor",
+"human+sailboat": "sailor",
+"human+steamboat": "sailor",
+
+"fire+monster": "salamander",
+"lava+monster": "salamander",
+"lizard+monster": "salamander",
+"monster+volcano": "salamander",
+
+"fire+ocean": "salt",
+"mineral+ocean": "salt",
+"mineral+sea": "salt",
+"ocean+sun": "salt",
+
+"air+pebble": "sand",
+"air+rock": "sand",
+"pebble+small": "sand",
+"pebble+wind": "sand",
+"rock+wind": "sand",
+
+"beach+castle": "sand_castle",
+"castle+desert": "sand_castle",
+"castle+dune": "sand_castle",
+
+"good+mara": "sandman",
+"monster+sand": "sandman",
+
+"earth+sand": "sandstone",
+"rock+sand": "sandstone",
+
+"desert+motion": "sandstorm",
+"desert+storm": "sandstorm",
+"desert+tornado": "sandstorm",
+"motion+sand": "sandstorm",
+"sand+tornado": "sandstorm",
+
+"bacon+bread": "sandwich",
+"bread+ham": "sandwich",
+"bread+vegetable": "sandwich",
+
+"christmas_stocking+human": "santa",
+"christmas_stocking+legend": "santa",
+"christmas_stocking+story": "santa",
+"christmas_tree+human": "santa",
+"christmas_tree+legend": "santa",
+"christmas_tree+story": "santa",
+
+"jupiter+small": "saturn",
+"planet+ring": "saturn",
+
+"ambulance+blade": "scalpel",
+"ambulance+sword": "scalpel",
+"blade+doctor": "scalpel",
+"blade+hospital": "scalpel",
+"doctor+sword": "scalpel",
+"hospital+sword": "scalpel",
+
+"barn+statue": "scarecrow",
+"farm+statue": "scarecrow",
+"golem+hay": "scarecrow",
+"hay+sack": "scarecrow",
+"hay+statue": "scarecrow",
+"jack_o_lantern+sack": "scarecrow",
+"pumpkin+sack": "scarecrow",
+
+"human+microscope": "science",
+"human+universe": "science",
+
+"blade+sword": "scissors",
+"paper+sword": "scissors",
+"sword+sword": "scissors",
+
+"animal+dune": "scorpion",
+"animal+sand": "scorpion",
+"desert+spider": "scorpion",
+"dune+spider": "scorpion",
+"sand+spider": "scorpion",
+
+"air+container": "scuba_tank",
+"atmosphere+container": "scuba_tank",
+"container+oxygen": "scuba_tank",
+
+"axe+grass": "scythe",
+"axe+wheat": "scythe",
+"blade+grass": "scythe",
+"blade+wheat": "scythe",
+"grass+sword": "scythe",
+"sword+wheat": "scythe",
+
+"big+lake": "sea",
+"lake+lake": "sea",
+"ocean+small": "sea",
+
+"beach+bird": "seagull",
+"beach+pigeon": "seagull",
+"bird+ocean": "seagull",
+"bird+sea": "seagull",
+"ocean+pigeon": "seagull",
+"pigeon+sea": "seagull",
+
+"fish+horse": "seahorse",
+"horse+lake": "seahorse",
+"horse+ocean": "seahorse",
+"horse+sea": "seahorse",
+
+"arctic+dog": "seal",
+"dog+lake": "seal",
+"dog+ocean": "seal",
+"dog+sea": "seal",
+"dog+water": "seal",
+
+"airplane+lake": "seaplane",
+"airplane+ocean": "seaplane",
+"airplane+sea": "seaplane",
+"airplane+water": "seaplane",
+
+"boat+illness": "seasickness",
+"illness+lake": "seasickness",
+"illness+ocean": "seasickness",
+"illness+sailboat": "seasickness",
+"illness+sea": "seasickness",
+"illness+steamboat": "seasickness",
+
+"grass+ocean": "seaweed",
+"grass+sea": "seaweed",
+"lake+plant": "seaweed",
+"plant+sea": "seaweed",
+
+"bee+pollen": "seed",
+"flower+time": "seed",
+"plant+pollen": "seed",
+
+"monster+seal": "selkie",
+
+"electricity+needle": "sewing_machine",
+"electricity+thread": "sewing_machine",
+"machine+needle": "sewing_machine",
+"needle+robot": "sewing_machine",
+"robot+thread": "sewing_machine",
+
+"blood+sea": "shark",
+"fish+wolf": "shark",
+"ocean+wolf": "shark",
+"sea+wolf": "shark",
+
+"cloud+livestock": "sheep",
+"hill+livestock": "sheep",
+"land+livestock": "sheep",
+"livestock+wool": "sheep",
+
+"book+music": "sheet_music",
+"music+paper": "sheet_music",
+
+"boat+kraken": "shipwreck",
+"kraken+pirate_ship": "shipwreck",
+"kraken+sailboat": "shipwreck",
+"kraken+steamboat": "shipwreck",
+
+"blade+ninja": "shuriken",
+"blade+star": "shuriken",
+"metal+star": "shuriken",
+"star+steel": "shuriken",
+"star+sword": "shuriken",
+
+"bacteria+human": "illness",
+"human+swamp": "illness",
+
+"bank+wheat": "silo",
+"barn+wheat": "silo",
+"container+wheat": "silo",
+"farm+wheat": "silo",
+"house+wheat": "silo",
+"safe+wheat": "silo",
+"wall+wheat": "silo",
+
+"ski_goggles+wheel": "skateboard",
+"skier+wheel": "skateboard",
+"snowboard+wheel": "skateboard",
+
+"bone+bone": "skeleton",
+"bone+corpse": "skeleton",
+
+"glacier+glasses": "ski_goggles",
+"glacier+sunglasses": "ski_goggles",
+"glasses+skier": "ski_goggles",
+"glasses+snow": "ski_goggles",
+"skier+sunglasses": "ski_goggles",
+"snow+sunglasses": "ski_goggles",
+
+"human+ski_goggles": "skier",
+
+"atmosphere+cloud": "sky",
+"atmosphere+sun": "sky",
+
+"big+house": "skyscraper",
+"cloud+house": "skyscraper",
+"house+sky": "skyscraper",
+"sky+village": "skyscraper",
+
+"antarctica+cart": "sleigh",
+"antarctica+wagon": "sleigh",
+"arctic+cart": "sleigh",
+"arctic+wagon": "sleigh",
+"cart+ice": "sleigh",
+"cart+snow": "sleigh",
+"ice+wagon": "sleigh",
+"snow+wagon": "sleigh",
+
+"animal+time": "sloth",
+"manatee+tree": "sloth",
+
+"bacteria+philosophy": "small",
+"bee+philosophy": "small",
+"carbon_dioxide+philosophy": "small",
+"confetti+philosophy": "small",
+"oxygen+philosophy": "small",
+"ozone+philosophy": "small",
+"pebble+philosophy": "small",
+"philosophy+rivulet": "small",
+"philosophy+scorpion": "small",
+"philosophy+seahorse": "small",
+"philosophy+spider": "small",
+
+"small+tablet": "phone",
+
+"air+city": "smog",
+"atmosphere+city": "smog",
+
+"campfire+storm": "smoke",
+"campfire+time": "smoke",
+"campfire+water": "smoke",
+"earth+gas": "smoke",
+"fire+grass": "smoke",
+"fire+plant": "smoke",
+
+"campfire+cloth": "smoke_signal",
+"cloth+smoke": "smoke_signal",
+"letter+smoke": "smoke_signal",
+
+"blender+fruit": "smoothie",
+"fruit+ice": "smoothie",
+
+"animal+rope": "snake",
+"animal+wire": "snake",
+"electric_eel+land": "snake",
+
+"cold+steam": "snow",
+"mountain_range+rain": "river",
+
+"blizzard+crystal_ball": "snow_globe",
+"blizzard+glass": "snow_globe",
+"christmas_stocking+crystal_ball": "snow_globe",
+"christmas_stocking+glass": "snow_globe",
+"christmas_tree+crystal_ball": "snow_globe",
+"christmas_tree+glass": "snow_globe",
+"crystal_ball+ice": "snow_globe",
+"crystal_ball+santa": "snow_globe",
+"crystal_ball+snow": "snow_globe",
+"crystal_ball+snowball": "snow_globe",
+"crystal_ball+snowman": "snow_globe",
+"crystal_ball+snowmobile": "snow_globe",
+"glass+santa": "snow_globe",
+"glass+snow": "snow_globe",
+"glass+snowball": "snow_globe",
+"glass+snowman": "snow_globe",
+"glass+snowmobile": "snow_globe",
+
+"earth+snow": "snowball",
+"rock+snow": "snowball",
+"snow+stone": "snowball",
+
+"ice+surfer": "snowboard",
+"ice+wood": "snowboard",
+"mountain+surfer": "snowboard",
+"mountain_range+surfer": "snowboard",
+"snow+surfer": "snowboard",
+"snow+wood": "snowboard",
+
+"human+snowboard": "snowboarder",
+
+"carrot+snow": "snowman",
+"carrot+snowball": "snowman",
+"coal+snow": "snowman",
+"coal+snowball": "snowman",
+"human+snow": ["snowman", "snowball"],
+"snowball+snowball": "snowman",
+
+"car+glacier": "snowmobile",
+"car+ice": "snowmobile",
+"car+snow": "snowmobile",
+"glacier+motorcycle": "snowmobile",
+"ice+motorcycle": "snowmobile",
+"motorcycle+snow": "snowmobile",
+
+"ash+oil": "soap",
+"ash+wax": "soap",
+"clay+oil": "soap",
+"clay+wax": "soap",
+"oil+wax": "soap",
+
+"carbon_dioxide+juice": "soda",
+"carbon_dioxide+tea": "soda",
+
+"earth+life": "soil",
+"land+life": "soil",
+"land+organic_matter": "soil",
+
+"electricity+sun": "solar_cell",
+"energy+sun": "solar_cell",
+"machine+sun": "solar_cell",
+
+"container+jupiter": "solar_system",
+"container+mars": "solar_system",
+"container+mercury": "solar_system",
+"container+planet": "solar_system",
+"container+saturn": "solar_system",
+"container+sun": "solar_system",
+"container+venus": "solar_system",
+"planet+sun": "solar_system",
+
+"wave+wolf": "sound",
+
+"moon+star": "space",
+"night+solar_system": "space",
+"sky+solar_system": "space",
+"sky+star": "space",
+"star+sun": "space",
+
+"atmosphere+house": "space_station",
+"atmosphere+village": "space_station",
+"atmosphere+wall": "space_station",
+"house+space": "space_station",
+"space+village": "space_station",
+"space+wall": "space_station",
+
+"airplane+space": "spaceship",
+"astronaut+container": "spaceship",
+"boat+space": "spaceship",
+"car+space": "spaceship",
+"metal+space": "spaceship",
+"pirate_ship+space": "spaceship",
+"space+steamboat": "spaceship",
+"space+steel": "spaceship",
+
+"pasta+thread": "spaghetti",
+"pasta+wire": "spaghetti",
+
+"desert+statue": "sphinx",
+"lion+stone": "sphinx",
+"pyramid+statue": "sphinx",
+
+"animal+net": "spider",
+"animal+thread": "spider",
+"animal+web": "spider",
+
+"shovel+small": "spoon",
+
+"light+machine": "spotlight",
+"light+metal": "spotlight",
+"light+steel": "spotlight",
+
+"double_rainbow+sugar": "sprinkles",
+"paint+sugar": "sprinkles",
+
+"animal+nut": "squirrel",
+"mouse+nut": "squirrel",
+"mouse+plant": "squirrel",
+"mouse+tree": "squirrel",
+
+"night+sky": "star",
+"night+space": "star",
+"night+telescope": "star",
+"sky+space": "star",
+"space+sun": "star",
+"space+telescope": "star",
+
+"ocean+star": "starfish",
+"sea+star": "starfish",
+
+"astronaut+medusa": "statue",
+"baker+medusa": "statue",
+"boulder+hammer": "statue",
+"butcher+medusa": "statue",
+"doctor+medusa": "statue",
+"drunk+medusa": "statue",
+"engineer+medusa": "statue",
+"farmer+medusa": "statue",
+"firefighter+medusa": "statue",
+"hacker+medusa": "statue",
+"human+medusa": "statue",
+"lumberjack+medusa": "statue",
+"medusa+mirror": "statue",
+"medusa+pilot": "statue",
+"medusa+sailor": "statue",
+"medusa+surfer": "statue",
+
+"bbq+cow": "steak",
+"bbq+meat": "steak",
+"cow+fire": "steak",
+"fire+meat": "steak",
+
+"gas+water": "steam",
+
+"boiler+wheel": "steam_engine",
+"machine+steam": "steam_engine",
+"steam+wheel": "steam_engine",
+
+"boat+steam_engine": "steamboat",
+"ocean+steam_engine": "steamboat",
+"pirate_ship+steam_engine": "steamboat",
+"sailboat+steam_engine": "steamboat",
+"sea+steam_engine": "steamboat",
+
+"ash+metal": "steel",
+"metal+mineral": "steel",
+
+"metal+wool": "steel_wool",
+"steel+wool": "steel_wool",
+"wire+wool": "steel_wool",
+
+"doctor+drum": "stethoscope",
+"doctor+sound": "stethoscope",
+"doctor+tool": "stethoscope",
+"hospital+tool": "stethoscope",
+"sound+tool": "stethoscope",
+
+"earth+solid": "stone",
+
+"atmosphere+electricity": "lightning",
+"rain+wind": "storm",
+
+"big+rivulet": "stream",
+"motion+pond": "stream",
+"river+small": "stream",
+
+"cup+thread": "string_phone",
+"cup+wire": "string_phone",
+
+"bow+electricity": "taser",
+"bow+energy": "taser",
+"energy+gun": "taser",
+"gun+wire": "taser",
+
+"alcohol+energy": "sugar",
+"beer+energy": "sugar",
+"beer+fire": "sugar",
+"energy+fruit": "sugar",
+"energy+juice": "sugar",
+"energy+wine": "sugar",
+"fire+fruit": "sugar",
+"fire+wine": "sugar",
+
+"day+light": "sun",
+"day+sky": "sun",
+"day+space": "sun",
+"fire+planet": "sun",
+"fire+sky": "sun",
+"light+planet": "sun",
+"light+sky": "sun",
+
+"god+monkey": "wukong",
+"immortality+monkey": "wukong",
+"monkey+peach_of_immortality": "wukong",
+
+"clock+light": "sundial",
+"clock+sun": "sundial",
+"day+tool": "sundial",
+"day+wheel": "sundial",
+"light+watch": "sundial",
+"light+wheel": "sundial",
+"sun+tool": "sundial",
+"sun+watch": "sundial",
+"sun+wheel": "sundial",
+
+"beach+glasses": "sunglasses",
+"day+glasses": "sunglasses",
+"glasses+light": "sunglasses",
+"glasses+sky": "sunglasses",
+"glasses+sun": "sunglasses",
+
+"explosion+galaxy": "supernova",
+"explosion+star": "supernova",
+"explosion+sun": "supernova",
+
+"beach+human": "surfer",
+"human+wave": "surfer",
+
+"caviar+seaweed": "sushi",
+
+"algae+lake": "swamp",
+"algae+pond": "swamp",
+"grass+mud": "swamp",
+"lake+reed": "swamp",
+"mud+reed": "swamp",
+"mud+tree": "swamp",
+"pond+reed": "swamp",
+
+"glasses+lake": "swim_goggles",
+"glasses+ocean": "swim_goggles",
+"glasses+river": "swim_goggles",
+"glasses+sea": "swim_goggles",
+"glasses+water": "swim_goggles",
+"lake+sunglasses": "swim_goggles",
+"ocean+sunglasses": "swim_goggles",
+"river+sunglasses": "swim_goggles",
+"sea+sunglasses": "swim_goggles",
+"sunglasses+water": "swim_goggles",
+
+"human+pond": "swimmer",
+"human+swimming_pool": "swimmer",
+
+"house+lake": "swimming_pool",
+"house+swimmer": "swimming_pool",
+
+"blade+metal": "sword",
+"blade+steel": "sword",
+
+"blade+fish": "swordfish",
+"blade+shark": "swordfish",
+"shark+sword": "swordfish",
 };
