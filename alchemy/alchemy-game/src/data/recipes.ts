@@ -4197,8 +4197,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "clothing+house": "closet",
 
-"cloth+human": "clothing",
-
 
 
 "cloud+hdd": "cloud_storage",
