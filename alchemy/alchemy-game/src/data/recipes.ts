@@ -5411,4 +5411,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "blade+fish": "swordfish",
 "blade+shark": "swordfish",
 "shark+sword": "swordfish",
+
+  "court+heirloom": "feud",
+"feud+football": "derby",
 };
