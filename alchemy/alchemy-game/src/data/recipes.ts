@@ -443,7 +443,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "cloth+tea": "teabag",
 "cloth+pilot": "parachute",
 "cloth+cotton": "pillow",
-"cloth+campfire": "smoke_signal",
 "cloth+wood": "drum",
 "cloth+house": "tent",
 "cloth+rain": "umbrella",
@@ -1163,8 +1162,8 @@ export const recipes: Record<string, RecipeOutput> = {
 
 // EXTRA SCOTLAND RESULTS
 
-"scotland+cloth": "kilt",
-"scotland+music": "bagpipe",
+"cloth+scotland": "kilt",
+"music+scotland": "bagpipe",
 
 // RELATED SOURCE CHAINS
 
