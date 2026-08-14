@@ -4033,15 +4033,13 @@ export const recipes: Record<string, RecipeOutput> = {
 "bird+farmer": "chicken",
 "bird+farm": "chicken",
 
-"tree+christmas": "christmas_tree",
-"tree+santa": "christmas_tree",
+"christmas+tree": "christmas_tree",
+"santa+tree": "christmas_tree",
 
-"house+christmas_tree": "christmas",
-"snow+christmas_tree": "christmas",
+"christmas_tree+house": "christmas",
+"christmas_tree+snow": "christmas",
 
-"sugar+christmas_tree": "candy_cane",
-
-"day+christmas": "christmas_eve",
+"christmas+day": "christmas_eve",
 
 "cloud+electricity": "lightning",
 "storm+electricity": "lightning",
