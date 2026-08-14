@@ -727,7 +727,6 @@ export const elements: {
 
 { id: "cocktail", name: "Cocktail", emoji: "🍸" },
 
-{ id: "whisky", name: "Whisky", emoji: "🥃" },
 { id: "leech", name: "Leech", emoji: "🪱🩸" },
 
 { id: "lightning_rod", name: "Lightning Rod", emoji: "⚡🪵" },
