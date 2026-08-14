@@ -1165,9 +1165,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "cloth+scotland": "kilt",
 "music+scotland": "bagpipe",
 
-// RELATED SOURCE CHAINS
 
-"alcohol+grain": "whisky",
 // LEECH
 
 "blood+worm": "leech",
