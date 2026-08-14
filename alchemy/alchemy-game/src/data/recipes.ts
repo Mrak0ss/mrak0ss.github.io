@@ -4259,8 +4259,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "baby+bed": "crib",
 
-"sugar+dough": "croissant",
-
 "bird+scarecrow": "crow",
 
 "gold+head": "crown",
