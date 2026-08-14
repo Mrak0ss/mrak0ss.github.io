@@ -3327,7 +3327,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "blowtorch+glass": "test_tube",
 "cyclops+neptune": "trident",
 "ash+pot": "urn",
-"ceramic+flower": "vase",
+"ceramics+flower": "vase",
 "magician+stick": "wand",
 "house+view": "window",
 
