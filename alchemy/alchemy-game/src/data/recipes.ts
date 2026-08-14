@@ -4073,8 +4073,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "oxygen+human": "carbon_dioxide",
 
-"sugar+fire": "caramel",
-
 "car+rain": "car_wipers",
 "car+soap": "car_wash",
 
