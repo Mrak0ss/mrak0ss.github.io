@@ -5405,4 +5405,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "court+heirloom": "feud",
 "feud+football": "derby",
+  "alcohol+water": "vodka",
+"alcohol+pirate": "rum",
 };
