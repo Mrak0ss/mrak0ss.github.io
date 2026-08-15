@@ -3273,4 +3273,5 @@ export const elements: {
   { id: "feud", name: "Feud", emoji: "⚔️" },
 { id: "derby", name: "Derby", emoji: "🏇" },
 { id: "vassalage", name: "Vassalage", emoji: "🏰" },
+{ id: "rum", name: "Rum", emoji: "🥃" },
 ];
