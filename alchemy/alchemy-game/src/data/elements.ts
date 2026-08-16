@@ -3288,4 +3288,5 @@ export const elements: {
 { id: "tunnel", name: "Tunnel", emoji: "🚇" },
 { id: "twilight", name: "Twilight", emoji: "🌆" },
 { id: "tyrannosaurus_rex", name: "Tyrannosaurus Rex", emoji: "🦖" },
+  { id: "double_rainbow", name: "Double Rainbow!", emoji: "🌈" },
 ];
