@@ -5407,4 +5407,140 @@ export const recipes: Record<string, RecipeOutput> = {
 "feud+football": "derby",
   "alcohol+water": "vodka",
 "alcohol+pirate": "rum",
+
+  "laptop+small": "tablet",
+
+"armor+car": "tank",
+"car+metal": "tank",
+"car+steel": "tank",
+
+"god+hippo": "tawaret",
+"hippo+immortality": "tawaret",
+
+"heat+leaf": "tea",
+"human+leaf": "tea",
+"leaf+water": "tea",
+
+"galaxy+glass": "telescope",
+"galaxy_cluster+glass": "telescope",
+"glass+jupiter": "telescope",
+"glass+mars": "telescope",
+"glass+mercury": "telescope",
+"glass+moon": "telescope",
+"glass+planet": "telescope",
+"glass+saturn": "telescope",
+"glass+sky": "telescope",
+"glass+space": "telescope",
+"glass+star": "telescope",
+"glass+supernova": "telescope",
+"glass+universe": "telescope",
+
+"bird+demon": "tengu",
+"bird+monster": "tengu",
+
+"cloth+village": "tent",
+"cloth+wall": "tent",
+
+"magic+ring": "the_one_ring",
+
+
+"god+lightning": "thor",
+"god+storm": "thor",
+
+"cotton+cotton": "thread",
+"cotton+machine": "thread",
+"cotton+wheel": "thread",
+
+"ocean+time": "tide",
+"sea+time": "tide",
+
+"boat+iceberg": "titanic",
+"iceberg+legend": "titanic",
+"iceberg+steamboat": "titanic",
+"legend+steamboat": "titanic",
+
+"fire+sandwich": "toast",
+
+"human+rock": "tool",
+"human+steel": "tool",
+"human+stone": "tool",
+"rock+wood": "tool",
+
+"box+chain": "toolbox",
+"box+hammer": "toolbox",
+"box+ruler": "toolbox",
+"box+steel_wool": "toolbox",
+"chain+container": "toolbox",
+"container+hammer": "toolbox",
+"container+ruler": "toolbox",
+"container+steel_wool": "toolbox",
+"safe+tool": "toolbox",
+
+"big+wind": "tornado",
+"motion+storm": "tornado",
+"motion+wind": "tornado",
+"storm+wind": "tornado",
+
+"bird+double_rainbow": "toucan",
+"owl+palm": "toucan",
+"palm+pigeon": "toucan",
+"palm+seagull": "toucan",
+
+"car+farmer": "tractor",
+"car+field": "tractor",
+"cow+wagon": "tractor",
+"farmer+wagon": "tractor",
+"field+wagon": "tractor",
+
+"metal+steam_engine": "train",
+"steam_engine+steel": "train",
+"steam_engine+wagon": "train",
+"steam_engine+wheel": "train",
+
+"container+train": "trainyard",
+"garage+train": "trainyard",
+"house+train": "trainyard",
+"train+wall": "trainyard",
+
+"big+plant": "tree",
+"container+nest": "tree",
+"plant+wood": "tree",
+
+"house+tree": "treehouse",
+"tree+wood": "treehouse",
+
+"horse+machine": "trojan_horse",
+"horse+statue": "trojan_horse",
+"horse+wood": "trojan_horse",
+
+"bridge+giant": "troll",
+"bridge+monster": "troll",
+"cave+giant": "troll",
+"cave+monster": "troll",
+"giant+mountain": "troll",
+"giant+mountain_range": "troll",
+"monster+mountain": "troll",
+"monster+mountain_range": "troll",
+
+"earthquake+ocean": "tsunami",
+"explosion+ocean": "tsunami",
+"explosion+sea": "tsunami",
+"meteor+ocean": "tsunami",
+"meteor+sea": "tsunami",
+
+"cave+hill": "tunnel",
+"cave+mountain": "tunnel",
+"cave+mountain_range": "tunnel",
+"engineer+hill": "tunnel",
+"engineer+mountain": "tunnel",
+"engineer+mountain_range": "tunnel",
+"hill+train": "tunnel",
+"mountain+train": "tunnel",
+"mountain_range+train": "tunnel",
+
+"day+time": "twilight",
+
+"blood+dinosaur": "tyrannosaurus_rex",
+"dinosaur+meat": "tyrannosaurus_rex",
+"dinosaur+monarch": "tyrannosaurus_rex",
 };
