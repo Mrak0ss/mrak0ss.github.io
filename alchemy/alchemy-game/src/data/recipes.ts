@@ -2723,7 +2723,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "ant+termite": "insect",
 
-"insects+jungle": "mantis",
+"insect+jungle": "mantis",
 
 "ant+wood": "termite",
 
