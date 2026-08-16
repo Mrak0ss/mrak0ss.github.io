@@ -5319,6 +5319,9 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "cup+thread": "string_phone",
 "cup+wire": "string_phone",
+  "paper_cup+thread": "string_phone",
+"paper_cup+wire": "string_phone",
+  "cup+paper": "paper_cup",
 
 "bow+electricity": "taser",
 "bow+energy": "taser",
