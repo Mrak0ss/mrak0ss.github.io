@@ -5543,4 +5543,5 @@ export const recipes: Record<string, RecipeOutput> = {
 "blood+dinosaur": "tyrannosaurus_rex",
 "dinosaur+meat": "tyrannosaurus_rex",
 "dinosaur+king": "tyrannosaurus_rex",
+  "rainbow+rainbow": "double_rainbow",
 };
