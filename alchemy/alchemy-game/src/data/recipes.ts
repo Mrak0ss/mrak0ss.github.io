@@ -3851,7 +3851,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "castle+story": "fairy_tale",
 "knight+story": "fairy_tale",
-"monarch+story": "fairy_tale",
+"king+story": "fairy_tale",
 "story+unicorn": "fairy_tale",
 
 "clay+story": "golem",
@@ -4426,7 +4426,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "company+house": "factory",
 
 
-"king+story": "fairy_tale",
+
 
 "human_torch+the_thing": "fantastic_four",
 
@@ -5542,5 +5542,5 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "blood+dinosaur": "tyrannosaurus_rex",
 "dinosaur+meat": "tyrannosaurus_rex",
-"dinosaur+monarch": "tyrannosaurus_rex",
+"dinosaur+king": "tyrannosaurus_rex",
 };
