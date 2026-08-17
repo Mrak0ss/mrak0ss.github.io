@@ -4291,8 +4291,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "brain+problem": "decomposition",
 
-"forest+wild_animal": "deer",
-
 "box+car": "delivery_truck",
 
 "octahedron+octahedron": "deltohedron",
@@ -4323,8 +4321,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "doctor+tardis": "doctor_who",
 
 "deltohedron+deltohedron": "dodecahedron",
-
-"human+wild_animal": "dog",
+  
 "bone+wolf": "dog",
 
 "human+wool": "doll",
@@ -4370,8 +4367,8 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "ear+ring": "earrings",
 
-"earth+wild_animal": "earthworm",
-"field+wild_animal": "earthworm",
+"animal+earth": "earthworm",
+"animal+field": "earthworm",
 
 "earth+energy": "earthquake",
 "earth+wave": "earthquake",
@@ -4469,7 +4466,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "dinosaur+rock": "fossil",
 
 
-"chicken+wild_animal": "fox",
+"animal+chicken": "fox",
 
 "country+croissant": "france",
 "cheese+country": "france",
@@ -4481,8 +4478,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "electricity+cold": "fridge",
 "ice+metal": "fridge",
-
-"pond+wild_animal": "frog",
 
 "alcohol+fruit": "fruit_punch",
 "alcohol+beach": "fruit_punch",
@@ -4516,7 +4511,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "gingerbread_man+house": "gingerbread_house",
 
-"skyscraper+wild_animal": "giraffe",
+"animal+skyscraper": "giraffe",
 
 "baby+doll": "girl",
 
