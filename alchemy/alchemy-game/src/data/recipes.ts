@@ -5695,7 +5695,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "beehive+blade": "wax",
 "beehive+sword": "wax",
 "beehive+tool": ["honey", "wax"],
-"beehive+wall": "wax",
 "bee+beehive": ["honey", "wax"],
 
 "cotton+spider": "web",
@@ -5738,10 +5737,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "broom+human": "witch",
 "broom+legend": "witch",
 "broom+magic": "witch",
-"broom+story": "witch",
 "broom+wizard": "witch",
 "cauldron+legend": "witch",
-"cauldron+story": "witch",
 
 "double_rainbow+human": "wizard",
 "human+rainbow": "wizard",
