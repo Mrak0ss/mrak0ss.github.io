@@ -130,7 +130,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "water+wood": "paper",
 "grass+life": "insect",
 "bird+hunter": ["feather", "blood", "meat"],
-"bow+human": "hunter",
+"bow+human": ["hunter", "warrior"],
 "bullet+metal": "gun",
 "dust+fire": "gunpowder",
 "reed+tool": "paper",
@@ -1897,7 +1897,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "stick+sulfur": "matches",
 "egg+fish": "caviar",
 "fish+stone": "shell",
-"flower+lake": "lily",
 "glass+house": "skyscraper",
 "glass+metal": "mirror",
 "gold+mirror": "silver",
@@ -5547,4 +5546,266 @@ export const recipes: Record<string, RecipeOutput> = {
 "dinosaur+meat": "tyrannosaurus_rex",
 "dinosaur+king": "tyrannosaurus_rex",
   "rainbow+rainbow": "double_rainbow",
+
+  // U
+
+"alien+container": "ufo",
+"alien+sky": "ufo",
+"alien+space_station": "ufo",
+"alien+spaceship": "ufo",
+
+"cloth+storm": "umbrella",
+"rain+tool": "umbrella",
+"storm+tool": "umbrella",
+
+"double_rainbow+horse": "unicorn",
+
+"container+galaxy_cluster": "universe",
+"container+space": "universe",
+"galaxy_cluster+galaxy_cluster": "universe",
+
+
+// V
+
+"broom+electricity": "vacuum_cleaner",
+"broom+machine": "vacuum_cleaner",
+
+"heaven+valkyrie": "valhalla",
+"house+thor": "valhalla",
+"house+valkyrie": "valhalla",
+
+"valhalla+warrior": "valkyrie",
+
+"bottle+flower": "vase",
+"bottle+plant": "vase",
+"bottle+rose": "vase",
+"container+flower": "vase",
+"container+rose": "vase",
+"flower+pottery": "vase",
+"plant+pottery": "vase",
+"pottery+rose": "vase",
+
+"big+safe": "vault",
+
+"farmer+forest": "vegetable",
+"field+plant": "vegetable",
+
+"acid_rain+planet": "venus",
+"planet+smog": "venus",
+"planet+volcano": "venus",
+
+"bakery+container": "village",
+"bakery+house": "village",
+"container+house": "village",
+"family+family": "village",
+
+"rainforest+rope": "vine",
+"rainforest+thread": "vine",
+"rainforest+wire": "vine",
+"jungle+thread": "vine",
+"jungle+wire": "vine",
+
+"air+wine": "vinegar",
+"oxygen+wine": "vinegar",
+"time+wine": "vinegar",
+
+"frog+monster": "vodyanoy",
+
+"container+lava": "volcano",
+"earth+lava": "volcano",
+"fire+hill": "volcano",
+"fire+mountain": "volcano",
+"hill+lava": "volcano",
+"hill+pressure": "volcano",
+"lava+mountain": "volcano",
+"mountain+pressure": "volcano",
+
+"fire+god": "vulcan",
+"god+metal": "vulcan",
+"god+steel": "vulcan",
+"god+volcano": "vulcan",
+
+"bird+corpse": "vulture",
+"chicken+corpse": "vulture",
+"corpse+duck": "vulture",
+"corpse+eagle": "vulture",
+"corpse+hummingbird": "vulture",
+"corpse+owl": "vulture",
+"corpse+penguin": "vulture",
+"corpse+pigeon": "vulture",
+"desert+duck": "vulture",
+"desert+eagle": "vulture",
+"desert+hummingbird": "vulture",
+"desert+owl": "vulture",
+"desert+penguin": "vulture",
+"desert+pigeon": "vulture",
+
+
+// W
+
+"cart+cow": "wagon",
+"cart+horse": "wagon",
+"cart+house": "wagon",
+"cart+wall": "wagon",
+
+"stone+stone": "wall",
+"wood+wood": "wall",
+
+"pencil+wizard": "wand",
+"sword+wizard": "wand",
+"tool+wizard": "wand",
+"wizard+wood": "wand",
+
+"air+heat": "warmth",
+"heat+human": "warmth",
+
+"clock+human": "watch",
+"clock+small": "watch",
+
+"heat+ice": "water",
+"heat+snow": "water",
+
+"gun+puddle": "watergun",
+"gun+stream": "watergun",
+
+"flower+lake": "water_lily",
+"flower+pond": "water_lily",
+"flower+puddle": "water_lily",
+"flower+stream": "water_lily",
+
+"pipe+water": "water_pipe",
+
+"hill+lake": "waterfall",
+"hill+river": "waterfall",
+"lake+mountain": "waterfall",
+"lake+mountain_range": "waterfall",
+"mountain_range+river": "waterfall",
+"mountain+river": "waterfall",
+
+"hurricane+lake": "wave",
+"hurricane+ocean": "wave",
+"hurricane+sea": "wave",
+"lake+storm": "wave",
+"lake+wind": "wave",
+"ocean+storm": "wave",
+"ocean+wind": "wave",
+"sea+storm": "wave",
+
+"beehive+beekeeper": ["honey", "wax"],
+"beehive+blade": "wax",
+"beehive+sword": "wax",
+"beehive+tool": ["honey", "wax"],
+"beehive+wall": "wax",
+"bee+beehive": ["honey", "wax"],
+
+"cotton+spider": "web",
+"cloth+spider": "web",
+"net+spider": "web",
+
+"metal+motion": "wheel",
+"motion+steel": "wheel",
+"motion+stone": "wheel",
+"motion+tool": "wheel",
+"river+tool": "wheel",
+"stream+tool": "wheel",
+"tool+water": "wheel",
+
+"animal+pig": "boar",
+"hill+pig": "boar",
+
+"light_bulb+monster": "will_o_the_wisp",
+
+"atmosphere+motion": "wind",
+
+"electrician+windmill": "wind_turbine",
+"electricity+wind": "wind_turbine",
+"electricity+windmill": "wind_turbine",
+"machine+windmill": "wind_turbine",
+
+"flour+wind": "windmill",
+"house+wind": "windmill",
+"wall+wheel": "windmill",
+"wheat+wind": "windmill",
+"wheel+wind": "windmill",
+
+"surfer+wind": "windsurfer",
+
+"alcohol+juice": "wine",
+
+"electricity+steel": "wire",
+
+"broom+cauldron": "witch",
+"broom+human": "witch",
+"broom+legend": "witch",
+"broom+magic": "witch",
+"broom+story": "witch",
+"broom+wizard": "witch",
+"cauldron+legend": "witch",
+"cauldron+story": "witch",
+
+"double_rainbow+human": "wizard",
+"human+rainbow": "wizard",
+"human+unicorn": "wizard",
+
+"animal+dog": "wolf",
+"blood+dog": "wolf",
+"dog+forest": "wolf",
+
+"flying_squirrel+jackalope": "wolpertinger",
+"flying_squirrel+monster": "wolpertinger",
+"jackalope+squirrel": "wolpertinger",
+"monster+squirrel": "wolpertinger",
+
+"axe+forest": "wood",
+"chainsaw+forest": "wood",
+"chainsaw+tree": "wood",
+"forest+lumberjack": "wood",
+"forest+tool": "wood",
+"lumberjack+tree": "wood",
+"sword+tree": "wood",
+
+"bird+forest": "woodpecker",
+"bird+wood": "woodpecker",
+
+"blade+sheep": "wool",
+"scissors+sheep": "wool",
+
+"god+turtle": "world_turtle",
+"giant+turtle": "world_turtle",
+
+"christmas_stocking+paper": "wrapping_paper",
+"christmas_tree+paper": "wrapping_paper",
+"paper+santa": "wrapping_paper",
+
+"book+human": "writer",
+"human+pencil": "writer",
+
+
+// Y
+
+"antarctica+legend": "yeti",
+"glacier+legend": "yeti",
+"legend+mountain": "yeti",
+"legend+mountain_range": "yeti",
+"mountain_range+story": "yeti",
+
+"heaven+tree": "yggdrasil",
+"immortality+tree": "yggdrasil",
+
+"bacteria+ice_cream": "yogurt",
+
+
+// Z
+
+"god+mount_olympus": "zeus",
+"god+sky": "zeus",
+
+"big+griffin": "ziz",
+"big+phoenix": "ziz",
+
+"bacteria+corpse": "zombie",
+"human+zombie": "zombie",
+
+"animal+cage": "zoo",
+"animal+container": "zoo",
 };
