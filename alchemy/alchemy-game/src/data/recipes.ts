@@ -671,7 +671,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "house+knight": "castle",
 
-"mountain+house": "cave",
+"house+mountain": "cave",
 
 "metal+rope": "chain",
 
