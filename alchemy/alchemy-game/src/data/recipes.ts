@@ -5816,4 +5816,34 @@ export const recipes: Record<string, RecipeOutput> = {
 "metal+metal": "alloy",
 "air+volcano": "ash",
 "gravity+satellite": "moon",
+
+"oxygen+water": "bleach",
+
+"cloud+drop": "rain",
+
+"breathing+oxygen": "carbon_dioxide",
+
+"air+wind": "cold",
+
+"ocean+river": "currents",
+
+"cloud+gravity": "fog",
+
+"volcano+water": "geyser",
+
+"air+infinity": "heaven",
+
+"fusion+star": "helium",
+
+"ocean+tornado": "hurricane",
+
+"sunrise+wind": "levanter",
+
+"gas+swamp": "methane",
+
+"roman_empire+wind": "mistral",
+
+"south+wind": "ostro",
+
+"oxygen+oxygen": "ozone",
 };
