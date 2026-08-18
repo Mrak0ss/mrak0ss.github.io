@@ -3370,4 +3370,11 @@ export const elements: {
 { id: "spark", name: "Spark", emoji: "✨" },
 
 { id: "alloy", name: "Alloy", emoji: "🔩" },
+  { id: "ostro", name: "Ostro", emoji: "💨" },
+  { id: "mistral", name: "Mistral", emoji: "💨" },
+  { id: "methane", name: "Methane", emoji: "💨" },
+  { id: "levanter", name: "Levanter", emoji: "💨" },
+  { id: "currents", name: "Currents", emoji: "🌊" },
+  { id: "cold", name: "Cold", emoji: "🥶" },
+  { id: "bleach", name: "Bleach", emoji: "🧴" },
 ];
