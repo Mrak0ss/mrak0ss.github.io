@@ -2934,7 +2934,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "gravity+light": "black_hole",
 "opposite+yin_yang": "chaos",
 "compass+pencil": "circle",
-"currents+precipitation": "climate",
+"current+precipitation": "climate",
 "rotation+clock": "clockwise",
 "water+rotation": "coriolis_effect",
 "clockwise+time_machine": "counter_clockwise",
@@ -5825,7 +5825,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "air+wind": "cold",
 
-"ocean+river": "currents",
+"ocean+river": "current",
 
 "cloud+gravity": "fog",
 
