@@ -3361,4 +3361,13 @@ export const elements: {
 { id: "ziz", name: "Ziz", emoji: "🦅" },
 { id: "zombie", name: "Zombie", emoji: "🧟" },
 { id: "zoo", name: "Zoo", emoji: "🦁" },
+
+
+{ id: "limelight", name: "Limelight", emoji: "💡" },
+{ id: "napalm", name: "Napalm", emoji: "🔥" },
+{ id: "pulsar", name: "Pulsar", emoji: "🌟" },
+{ id: "shooting_star", name: "Shooting Star", emoji: "🌠" },
+{ id: "spark", name: "Spark", emoji: "✨" },
+
+{ id: "alloy", name: "Alloy", emoji: "🔩" },
 ];
