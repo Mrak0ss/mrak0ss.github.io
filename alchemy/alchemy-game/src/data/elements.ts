@@ -560,7 +560,6 @@ export const elements: {
 
 { id: "gasoline", name: "Gasoline", emoji: "⛽" },
 
-{ id: "zombie", name: "Zombie", emoji: "🧟" },
 { id: "mummy", name: "Mummy", emoji: "🧻" },
 { id: "frankenstein", name: "Frankenstein", emoji: "⚡🧟" },
 { id: "undead", name: "Undead", emoji: "☠️" },
@@ -2124,7 +2123,7 @@ export const elements: {
 { id: "rice_cooker", name: "Rice Cooker", emoji: "🍚" },
 { id: "milkshake", name: "Milkshake", emoji: "🥤" },
 
-{ id: "cold", name: "Cold", emoji: "🥶" },
+
 { id: "chill", name: "Chill", emoji: "🧊" },
 { id: "penguin", name: "Penguin", emoji: "🐧" },
 { id: "dry_ice", name: "Dry Ice", emoji: "🧊" },
@@ -2137,7 +2136,6 @@ export const elements: {
 { id: "popsicle", name: "Popsicle", emoji: "🍧" },
 { id: "ice_cream", name: "Ice Cream", emoji: "🍨" },
 { id: "arctic", name: "Arctic", emoji: "❄️" },
-{ id: "current", name: "Current", emoji: "🌊" },
 { id: "iced_tea", name: "Iced Tea", emoji: "🧋" },
 { id: "frozen_yogurt", name: "Frozen Yogurt", emoji: "🍦" },
 
@@ -2899,7 +2897,6 @@ export const elements: {
 { id: "coconut", name: "Coconut", emoji: "🥥" },
 { id: "coconut_milk", name: "Coconut Milk", emoji: "🥛" },
 { id: "coffin", name: "Coffin", emoji: "⚰️" },
-{ id: "cold", name: "Cold", emoji: "🤧" },
 { id: "comb", name: "Comb", emoji: "🪮" },
 { id: "comet", name: "Comet", emoji: "☄️" },
 { id: "comic_book", name: "Comic Book", emoji: "📚" },
@@ -3359,14 +3356,10 @@ export const elements: {
 // Z
 { id: "zeus", name: "Zeus", emoji: "⚡" },
 { id: "ziz", name: "Ziz", emoji: "🦅" },
-{ id: "zombie", name: "Zombie", emoji: "🧟" },
-{ id: "zoo", name: "Zoo", emoji: "🦁" },
-
 
 { id: "limelight", name: "Limelight", emoji: "💡" },
 { id: "napalm", name: "Napalm", emoji: "🔥" },
 { id: "pulsar", name: "Pulsar", emoji: "🌟" },
-{ id: "shooting_star", name: "Shooting Star", emoji: "🌠" },
 { id: "spark", name: "Spark", emoji: "✨" },
 
 { id: "alloy", name: "Alloy", emoji: "🔩" },
@@ -3374,7 +3367,5 @@ export const elements: {
   { id: "mistral", name: "Mistral", emoji: "💨" },
   { id: "methane", name: "Methane", emoji: "💨" },
   { id: "levanter", name: "Levanter", emoji: "💨" },
-  { id: "currents", name: "Currents", emoji: "🌊" },
-  { id: "cold", name: "Cold", emoji: "🥶" },
   { id: "bleach", name: "Bleach", emoji: "🧴" },
 ];
