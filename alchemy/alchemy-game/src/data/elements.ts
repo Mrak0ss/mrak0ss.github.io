@@ -16,6 +16,7 @@ export const elements: {
   { id: "lava", name: "Lava", emoji: "🌋" },
   { id: "sea", name: "Sea", emoji: "🌊" },
   { id: "salt", name: "Salt", emoji: "🧂" },
+  { id: "soil", name: "Soil", emoji: "🪨" },
 
   // extended elements
   { id: "mud", name: "Mud", emoji: "🟫" },
