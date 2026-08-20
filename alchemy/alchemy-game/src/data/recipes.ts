@@ -5873,7 +5873,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "fish+rooster": "cockerel_fish",
 "lizard+sand": "varan",
-"continent+yin_and_yang": "china",
+"country+yin_and_yang": "china",
 
 "fire+vodka": "sambuca",
 "glass+vodka": "shot_glass",
