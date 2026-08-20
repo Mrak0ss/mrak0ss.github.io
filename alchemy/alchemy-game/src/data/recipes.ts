@@ -6030,7 +6030,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "hockey_stick+skates": "hockey",
 "hockey_stick+ice": "hockey_puck",
 "distance+globe": "equator",
-"cane+jungle": "bamboo",
+"reed+jungle": "bamboo",
 "bamboo+bear": "panda",
 "bamboo+monkey": "lemur",
 "caterpillar+time": "butterfly",
