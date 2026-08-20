@@ -253,7 +253,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "hero+lightsaber": "jedi",
 "light+sword": "lightsaber",
 "jedi+swamp": "yoda",
-"milk+time": "cheese",
+"milk+time": ["cheese", "cream"],
 "cheese+hamburger": "cheeseburger",
 "cheese+pasta": "macandcheese",
 "fruit+yogurt": "dessert",
