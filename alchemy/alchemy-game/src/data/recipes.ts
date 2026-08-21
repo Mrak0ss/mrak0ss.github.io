@@ -4575,8 +4575,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "human+scythe": "grim_reaper",
 "corpse+scythe": "grim_reaper",
 
-"love+man": "groom",
-
 "hero+wood": "groot",
 
 "earth+surface": "ground",
