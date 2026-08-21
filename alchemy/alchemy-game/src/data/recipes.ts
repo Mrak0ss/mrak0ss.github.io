@@ -6039,7 +6039,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "caravan+dog": "dog_sled",
 
 "coal+sand": "filter",
-"sulfur+wood": "match",
+"sulfur+wood": "matches",
 "steel+stone": "flint",
 "coal+flint": "bonfire",
 "fish+water": "fish_soup",
