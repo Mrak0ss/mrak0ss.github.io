@@ -1180,7 +1180,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "corpse+electricity": "frankenstein",
 
-"worm+swamp": "snake",
+
 // LIMESTONE
 
 "shells+stone": "limestone",
