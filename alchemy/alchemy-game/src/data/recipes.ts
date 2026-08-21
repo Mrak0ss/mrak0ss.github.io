@@ -1183,7 +1183,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 // LIMESTONE
 
-"shells+stone": "limestone",
+"shell+stone": "limestone",
 
 // LIME
 
@@ -1390,7 +1390,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "horse+savannah+tree": "giraffe",
 "country+panda": "china",
 "oyster+sand": "pearl",
-"sand+shells": "pearl",
+"sand+shell": "pearl",
 "pearl+necklace": "jewelry",
 "bird+ice": "penguin",
 "doctor+mold": "penicillin",
@@ -1411,7 +1411,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "carbon_dioxide+water": "soda_water",
 "soda_water+syrup": "soda",
 "sugar+water": "syrup",
-"shells+worm": "snail",
+"shell+worm": "snail",
 "metal+moon": "silver",
 "pressure+sand": "silicon",
 "electricity+silicon": "transistor",
@@ -1503,7 +1503,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "god+shield": "aegis",
 "hero+immortality": "achilles",
 "fire+mud": "brick",
-"plankton+stone": "shells",
+"plankton+stone": "shell",
 "butterfly+lamp": "moth",
 "butterfly+moon": "moth",
 "life+water": "algae",
