@@ -2904,7 +2904,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "can+recycling": "aluminium",
 "river+stone": "boulder",
-"time+shell": "chalk",
+"shell+time": "chalk",
 "metal+stone_age": "copper",
 "chalk+pressure": "flint",
 "mineral+superman": "kryptonite",
