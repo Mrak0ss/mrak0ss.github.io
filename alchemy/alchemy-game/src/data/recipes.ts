@@ -3288,7 +3288,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "dead_snow_white+prince": "snow_white",
 "alien+nerd": "spock",
 "basket+chicken": "swedish_chef",
-"jungle+human": "tarzan",
+"human+jungle": "tarzan",
 "ninja+turtle": "ninja_turtle",
 "mutation+turtle": "ninja_turtle",
 "robot+time_machine": "terminator",
