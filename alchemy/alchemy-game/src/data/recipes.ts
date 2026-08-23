@@ -4772,7 +4772,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "bird+hang_glider": "paraglider",
 "hang_glider+pilot": "paraglider",
 
-"grass+city": "park",
+"city+grass": "park",
 
 "bird+rainbow": "peacock",
 "bird+pride": "peacock",
