@@ -4553,7 +4553,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "needle+sound": "gramophone",
 
 
-"decomposition+wine": "grapes",
+"decomposition+wine": "grape",
 
 "earth+plant": "grass",
 
