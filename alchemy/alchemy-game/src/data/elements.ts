@@ -56,6 +56,7 @@ export const elements: {
 { id: "swamp", name: "Swamp", emoji: "🟩" },
 { id: "smoke", name: "Smoke", emoji: "💨" },
 { id: "sun", name: "Sun", emoji: "☀️" },
+  { id: "sunset", name: "Sunset", emoji: "☀️" },
 { id: "bacteria", name: "Bacteria", emoji: "🦠" },
 { id: "flu", name: "Flu", emoji: "🤧" },
 { id: "microscope", name: "Microscope", emoji: "🔬" },
