@@ -1892,7 +1892,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "dragon+sea": "sea_serpent",
 "energy+fire": "energy",
 "energy+light": "laser",
-"feather+farm": "cotton",
+"farm+feather": "cotton",
 "stick+sulfur": "matches",
 "egg+fish": "caviar",
 "fish+stone": "shell",
