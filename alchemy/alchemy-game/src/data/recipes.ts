@@ -4724,7 +4724,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "clown+batman": "joker",
 
-"giraffe+country": "kenya",
+"country+giraffe": "kenya",
 
 "vase+tea": "kettle",
 "pottery+tea": "kettle",
