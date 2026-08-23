@@ -3158,7 +3158,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "house+thief": "burglar",
 "limo+human": "chauffer",
 "circus+cosmetics": "clown",
-"army+elder": "colonel",
+"army+old_man": "colonel",
 "fun+human": "comedian",
 "human+pain": "dentist",
 "human+medicine": "doctor",
