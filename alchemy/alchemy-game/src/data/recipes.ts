@@ -958,7 +958,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 // SALO
 
-"knife+pig": "salo",
+"knife+pig": ["fat", "salo"],
 
 // FERN
 
@@ -1929,7 +1929,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "cloth+fire": "balloon",
 "car+hospital": "ambulance",
 "egg+steam": "bird",
-"glass+electricity": "bulb",
 "grass+park": "bench",
 "house+wood": "bed",
 "feather+ink": "ballpen",
@@ -4158,7 +4157,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "fireplace+wool": "christmas_stocking",
 
-"light_bulb+tree": "christmas_tree",
+
 "star+tree": "christmas_tree",
 
 
@@ -4339,7 +4338,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "clothing+female": "dress",
 
-"leather+wood": "drum",
+"skin+wood": "drum",
 
 
 "beer+human": "drunk",
@@ -4672,8 +4671,8 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "dodecahedron+dodecahedron": "icosahedron",
 
-"human+light_bulb": "idea",
-"light_bulb+nerd": "idea",
+
+"lightbulb+nerd": "idea",
 
 "house+ice": "igloo",
 
@@ -5695,7 +5694,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "animal+pig": "boar",
 "hill+pig": "boar",
 
-"light_bulb+monster": "will_o_the_wisp",
+"lightbulb+monster": "will_o_the_wisp",
 
 "atmosphere+motion": "wind",
 
@@ -6167,4 +6166,166 @@ export const recipes: Record<string, RecipeOutput> = {
 "pressure+water": "fountain",
 "fish+fountain": "whale",
 "ice+whale": "orca",
+
+"human+wax": "hair",
+"hair+plastic": "comb",
+
+"electricity+energy": "battery",
+"life+mountain": "sheep",
+
+"gravity+gravity+gravity": "black_hole",
+"cacao+dough+milk": "cookie",
+"mouse+wheat": "hamster",
+"earthworm+electricity": "eel",
+
+"cardboard+cardboard": "box",
+
+"box+wood": "chest",
+"chest+gear": "lock",
+"lock+tool": "key",
+"coal+fire+stone": "furnace",
+"egg+flour+furnace": "pie",
+
+"flask+wind": "potion_of_speed",
+"flask+mountain": "potion_of_strength",
+"flask+life": "healing_potion",
+"flask+snake": "poison",
+
+"life+ocean": "bacteria",
+"grass+lake": "swamp",
+"earthworm+swamp": "leech",
+
+"metal+turtle": "tank",
+"desert+mountain": "pyramid",
+"grass+soil+sun": "savannah",
+
+"jungle+life": "tiger",
+"human+tiger": "cat",
+"bird+jungle": "parrot",
+
+"board+wall": "door",
+"door+wall+window": "house",
+"plastic+wax": "vinyl_disk",
+"needle+vinyl_disk": "music",
+"hydrogen+oxygen+sulfur": "sulfuric_acid",
+"human+kettlebell": "sport",
+
+"bow+metal": "crossbow",
+"cloth+scissors": "ribbon",
+"glue+ribbon": "adhesive_tape",
+"board+pencil": "ruler",
+"ribbon+ruler": "tape_measure",
+"battery+time": "clock",
+"gem+water": "pearl",
+"plastic+water": "bottle",
+
+"cloth+ribbon": "bandage",
+"bandage+human": "mummy",
+
+"fish+scissors": "crab",
+"forest+horse": "deer",
+
+"candy+stick": "lollipop",
+
+"comb+stick": "rake",
+
+"electricity+glass+light": "lightbulb",
+"lightbulb+lightbulb+lightbulb": "garland",
+"light+metal+paper": "photo_camera",
+"garland+road": "traffic_light",
+"lightbulb+insect": "firefly",
+"battery+light": "flashlight",
+
+"lens+sky": "telescope",
+"sky+telescope": "star",
+"garland+spruce+star": "christmas_tree",
+"star+stick": "wand",
+
+"asteroid+fire": "meteor",
+"horse+wand": "unicorn",
+
+"fish+vacuum": "octopus",
+"octopus+pressure": "ink",
+"ink+plastic": "pen",
+"rubber+stick+vacuum": "plunger",
+
+"book+cardboard+ink": "book",
+"flask+star": "mana_potion",
+
+"lens+life": "eye",
+"eye+lens+plastic": "glasses",
+"battery+human": "robot",
+"house+stone": "tower",
+
+"electricity+metal+plastic": "wire",
+"sound+stick": "microphone",
+"microphone+radio": "smartphone",
+
+"electricity+magnet": "compass",
+"compass+paper": "map",
+"road+water": "puddle",
+"stick+water": "paddle",
+"board+wave": "surfboard",
+"electricity+frost": "fridge",
+"cloth+house+stick": "tent",
+"dirt+life": "pig",
+"blade+pig": ["fat", "salo"],
+
+"hammer+pig": "skin",
+"cobweb+water": "net",
+"net+stick": "scoop_net",
+"human+human+love": "baby",
+"electricity+life": "neuron",
+"bone+neuron": "spine",
+"neuron+neuron+neuron": "brain",
+"bone+brain": "skull",
+"lens+pipe": "spyglass",
+
+"human+moon+wolf": "werewolf",
+"flask+steam+tobacco": "hookah",
+"chest+island": "treasure",
+  
+"needle+pencil": "dividers",
+"dividers+paper": "circle",
+"board+circle+metal": "barrel",
+"barrel+skin": "drum",
+"circle+metal": "ring",
+"tower+wall": "castle",
+"castle+river": "moat",
+"circle+gold": "coin",
+"coin+furnace": "silver",
+"silver+water": "quicksilver",
+"heat+quicksilver": "thermometer",
+
+"pipe+wind": "flute",
+"gear+stick": "lever",
+"chain+metal+water": "anchor",
+"sound+thread": "string",
+"string+string+wood": "guitar",
+"eye+water": "tear",
+"human+lion": "sphinx",
+"bow+string": "harp",
+"cave+pickaxe": "mine",
+"mine+pickaxe": "ore",
+"armor+human+sword": "knight",
+"electricity+electricity": "electron",
+"electron+gravity": "proton",
+"electron+proton": "neutron",
+"electron+neutron+proton": "atom",
+
+"rope+water+wood": "raft",
+"paddle+raft": "boat",
+"tree+savannah": "baobab",
+"chameleon+cloth": "camouflage",
+"hay+tool": "pitchfork",
+"pitchfork+steak": "fork",
+"needle+tooth": "toothpick",
+"coin+electricity": "bitcoin",
+"board+metal": "shield",
+"paper+time": "calendar",
+"tooth+tool": "toothbrush",
+"chain+stick+stick": "nunchaku",
+"ruler+time": "stopwatch",
+"air+paper": "hand_fan",
+"hair+hair": "wig",
 };
