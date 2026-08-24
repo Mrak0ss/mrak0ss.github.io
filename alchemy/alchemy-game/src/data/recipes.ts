@@ -5694,8 +5694,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "animal+pig": "boar",
 "hill+pig": "boar",
 
-"lightbulb+monster": "will_o_the_wisp",
-
 "atmosphere+motion": "wind",
 
 "electrician+windmill": "wind_turbine",
