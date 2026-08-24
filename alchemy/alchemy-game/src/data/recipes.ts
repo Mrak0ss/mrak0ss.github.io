@@ -6499,4 +6499,5 @@ export const recipes: Record<string, RecipeOutput> = {
 "jungle+water": "piranha",
 "blade+jungle": "machete",
 "air+blade": "shuriken",
+  "mars+metal": "iron",
 };
