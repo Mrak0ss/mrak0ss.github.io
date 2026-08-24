@@ -41,7 +41,7 @@ export const recipes: Record<string, RecipeOutput> = {
   "fire+stone": "metal",
 
   "metal+steam": "boiler",
-  "coal+fire": "energy",
+  "coal+fire": ["carbon", "energy"],
 
   "energy+mud": "life",
   "energy+swamp": "life",
@@ -1763,7 +1763,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "pressure+sunflower": "oil",
 "hero+windmill": "don_quixote",
 "goblin+house": "domovoi",
-"dog+house": "doghouse",
+"dog+house": ["doghouse", "kennel"],
 "dog+meme": "doge",
 "dog+internet": "doge",
 "human+scuba_tank": "diver",
@@ -2643,8 +2643,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "worker+worker": "company",
 
 "computer+mario": "video_game",
-
-"money+plastic": "creditcard",
 
 "india+sport": "cricket",
 
@@ -3576,10 +3574,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "earth+science": "solid",
 "earth+idea": "solid",
 
-"blade+tree": "sap",
-
-"heat+sap": "maple_syrup",
-"sap+sugar": "maple_syrup",
+"heat+resin": "maple_syrup",
+"resin+sugar": "maple_syrup",
 
 "car+letter": "mail_truck",
 "car+mailman": "mail_truck",
@@ -3990,7 +3986,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "dough+human": "baker",
 "flour+human": "baker",
 
-"circle+circle": "ball",
+"circle+circle": ["ball", "spiral"],
 
 "grass+wood": "bamboo",
 
@@ -4995,7 +4991,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "lake+plant": "seaweed",
 "plant+sea": "seaweed",
 
-"flower+time": "seed",
+
 "plant+pollen": "seed",
 
 "monster+seal": "selkie",
@@ -5714,7 +5710,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "electricity+steel": "wire",
 
 "broom+cauldron": "witch",
-"broom+human": "witch",
 "broom+legend": "witch",
 "broom+magic": "witch",
 "broom+wizard": "witch",
@@ -6326,4 +6321,149 @@ export const recipes: Record<string, RecipeOutput> = {
 "ruler+time": "stopwatch",
 "air+paper": "hand_fan",
 "hair+hair": "wig",
+
+  "air+soap": "bubble",
+"air+sugar+water": "soda",
+"gold+lock": "safe",
+"house+safe": "bank",
+
+"glue+paper+wall": "wallpaper",
+"glass+light+water": "mirror",
+
+"bear+jungle": "panda",
+"limestone+pencil": "chalk",
+"box+ribbon": "gift",
+"explosion+rocket": "fireworks",
+"dough+ice_cream": "cake",
+"balloon+cake+fireworks": "holiday",
+"human+holiday": "clown",
+"clown+house": "circus",
+"leaf+light": "photosynthesis",
+"fat+water": "oil",
+"tooth+tree": "beaver",
+
+"air+desert+heat": "mirage",
+"dirt+time": "dust",
+
+"air+droplet": "fog",
+"droplet+frost": "snowflake",
+
+"house+king": "palace",
+
+"bed+human": "sleep",
+"fish+kite": "manta_ray",
+"needle+paper": "punched_card",
+"gravity+soil": "planet",
+
+"money+skin": "wallet",
+"money+pig": "piggy_bank",
+
+"caterpillar+thread": "silk",
+"blade+tree": "resin",
+"resin+stone": "amber",
+"algae+bacteria+crab": "plankton",
+"blade+soil": "plough",
+"plough+soil": "field",
+
+
+"letter+pigeon": "mail",
+"mail+picture": "postage_stamp",
+"horse+sheep": "donkey",
+"donkey+horse": "mule",
+"plant+stone": "moss",
+"bacteria+bread": "yeast",
+
+"moss+mushroom": "mold",
+"air+moss": "spore",
+"flask+flower": "perfume",
+"money+plastic": "credit_card",
+"resin+tooth": "gum",
+"fang+tool": "saw",
+"saw+tree": "stump",
+"plant+spore": "fern",
+"cloth+wind": "sail",
+
+"chip+chip": "computer",
+"neutron+star": "neutron_star",
+"shovel+soil": "pit",
+"mountain+road": "tunnel",
+"soil+tunnel": "subway",
+"cloth+dirt": "rag",
+"ice+stick": "icicle",
+
+"glass+oil": "lantern",
+
+"fire+light": "laser",
+"metal+radio+stick": "antenna",
+"antenna+space": "satellite",
+"carbon+hydrogen": "hydrocarbon",
+"hydrocarbon+wax": "parrafin_wax",
+"oil+parrafin_wax": "vaseline",
+"air+swamp": "methane",
+"carbon+oxygen": "carbon_dioxide",
+"bubble+water": "foam",
+"fire+foam": "extinguisher",
+"bed+forest": "sleeping_bag",
+"satellite+satellite+satellite": "gps",
+"hay+stick": "broom",
+"broom+human": "janitor",
+"broom+human+wand": "witch",
+"plant+soil+water": "root",
+
+"footwear+horse": "horseshoe",
+
+"algae+mushroom": "lichen",
+"metal+oxygen": "rust",
+
+"bed+net": "hammock",
+
+"house+house+house": "city",
+
+"letter+letter": "alphabet",
+"electricity+letter": "bit",
+"bit+bit": "information",
+"brain+information": "memory",
+"memory+plastic": "floppy_disk",
+"plant+stick": "bamboo",
+"ice+soil": "arctic",
+
+"grape+heat": "raisin",
+"moon+sky": "night",
+"bird+night": "owl",
+"flask+owl": "potion_of_wisdom",
+
+
+"human+tree": "ent",
+"house+picture": "museum",
+"armor+limestone": "shell",
+"pearl+shell": "oyster",
+
+"metal+spiral": "metal_spring",
+
+"blade+lever": "meat_grinder",
+"heat+pressure+water": "boiling",
+"butterfly+human": "fairy",
+
+"droplet+grass": "dew",
+"fang+metal": "trap",
+"footwear+rope": "lace",
+
+"knot+rope": "noose",
+"brain+time": "reason",
+"reason+sky": "god",
+"air+board": "boomerang",
+
+"bit+reason": "ai",
+"scissors+tree": "branch",
+"bird+branch+egg": "nest",
+"branch+grass": "bush",
+"flower+time": "fruit",
+
+"apple+human": "health",
+"health+needle": "syringe",
+"bacteria+health": "medicine",
+"health+house": "hospital",
+"blade+health": "scalpel",
+"health+tooth": "toothpaste",
+"health+human": "doctor",
 };
