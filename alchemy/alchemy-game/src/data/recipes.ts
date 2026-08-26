@@ -541,7 +541,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "country+kangaroo": "australia",
 "continent+continent": "planet",
 "planet+woman": "venus",
-"venus+metal": "copper",
+"metal+venus": "copper",
 "copper+thread": "wire",
 "apple+phone": "iphone",
 "fruit+tree": "apple",
