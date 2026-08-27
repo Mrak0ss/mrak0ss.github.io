@@ -693,6 +693,7 @@ export const elements: {
 { id: "fiat", name: "Fiat", emoji: "🚗" },
 
 { id: "music", name: "Music", emoji: "🎵" },
+  { id: "concert", name: "Concert", emoji: "🎵" },
 
 { id: "kama_sutra", name: "Kama Sutra", emoji: "📖❤️" },
 
