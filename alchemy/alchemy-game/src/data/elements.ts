@@ -3860,4 +3860,6 @@ export const elements: {
 { id: "canned_food", name: "Canned Food", emoji: "🥫" },
 { id: "dragonfly", name: "Dragonfly", emoji: "🦋" },
 { id: "machete", name: "Machete", emoji: "🔪" },
+  { id: "wormy_compost", name: "Wormy Compost", emoji: "♻️" },
+{ id: "humus", name: "Humus", emoji: "🌱" },
 ];
