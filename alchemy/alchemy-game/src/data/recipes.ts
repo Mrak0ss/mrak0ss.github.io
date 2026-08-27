@@ -6500,4 +6500,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "blade+jungle": "machete",
 "air+blade": "shuriken",
   "mars+metal": "iron",
+  "grass+humus": "cereals",
+  "compost+worm": "wormy_compost",
+"earth+wormy_compost": "humus",
 };
