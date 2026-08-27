@@ -2080,7 +2080,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "candle+silver": "candlestick",
 "gambling+paper": "cards",
-"grain+milk": "cereals",
+"grain+milk": "cereal",
 "human+island": "castaway",
 "juice+tree": "caoutchouc",
 "knight+stone": "castle",
