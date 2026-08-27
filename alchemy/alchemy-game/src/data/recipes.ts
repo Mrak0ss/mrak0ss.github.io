@@ -6082,7 +6082,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "mountain+pickaxe": "gem",
   
 "river+shovel": "clay",
-"clay+heat": "ceramic",
+"clay+heat": "ceramics",
 "paper+tool": "brush",
 "brush+shovel+soil": "fossil",
 "shovel+soil+water": "wheat",
