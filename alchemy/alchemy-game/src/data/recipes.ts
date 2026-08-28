@@ -3990,8 +3990,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "grass+wood": "bamboo",
 
-"analysis+fruit": "banana",
-
 "fence+wire": "barbed_wire",
 
 "gun+ship": "battleship",
@@ -4692,9 +4690,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "egypt+hero": "isis",
 "egypt+princess": "isis",
 
-"fire+pumpkin": "jack_o_lantern",
 "blade+pumpkin": "jack_o_lantern",
-"candle+pumpkin": "jack_o_lantern",
 
 "country+origami": "japan",
 
@@ -4709,7 +4705,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "meat+salt": "jerky",
 
-"hero+netflix": "jessica_jones",
 "detective+netflix": "jessica_jones",
 
 "batman+clown": "joker",
