@@ -6243,7 +6243,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "electricity+metal+plastic": "wire",
 "sound+stick": "microphone",
-"microphone+radio": "smartphone",
+"microphone+radio": "phone",
 
 "electricity+magnet": "compass",
 "compass+paper": "map",
