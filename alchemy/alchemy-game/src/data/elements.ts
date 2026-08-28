@@ -3540,7 +3540,6 @@ export const elements: {
 { id: "earthworm", name: "Earthworm", emoji: "🪱" },
 { id: "fly", name: "Fly", emoji: "🪰" },
 { id: "spider", name: "Spider", emoji: "🕷️" },
-{ id: "cobweb", name: "Cobweb", emoji: "🕸️" },
 { id: "kite", name: "Kite", emoji: "🪁" },
 { id: "umbrella", name: "Umbrella", emoji: "☂️" },
 { id: "aircraft", name: "Aircraft", emoji: "✈️" },
