@@ -1024,7 +1024,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 // HYDROGEN
 
-"water+electricity": "hydrogen",
+"electricity+water": ["hydroelectricity", "hydrogen"],
 
 // EXTRA RESULTS FROM THESE ELEMENTS
 
@@ -1657,7 +1657,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "ceramics+glass": "cup",
 "container+tea": "cup",
 "bird+clock": "cuckoo",
-"god+octopus": "cthulhu",
+"god+": "cthulhu",
 "god+space": "cthulhu",
 "crystal+magic": "crystal_ball",
 "glass+magic": "crystal_ball",
@@ -4649,8 +4649,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "energy+wind": "hurricane",
 
-"electricity+water": "hydroelectricity",
-
 "super_potion+super_potion": "hyper_potion",
 
 "ice_cream+ladle": "ice_cream_scoop",
@@ -5971,6 +5969,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "tool+weed": "hoe",
 "flower+glass": "vase",
 "nautilus+starfish": "octopus",
+  "squid+water": "octopus",
 "milk+pressure": "separator",
 "cream+separator": ["butter", "sour_cream"],
 "animal+liana": "monkey",
@@ -6448,6 +6447,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "scissors+tree": "branch",
 "bird+branch+egg": "nest",
 "branch+grass": "bush",
+  "earth+fern": "bush",
 "flower+time": "fruit",
 
 "apple+human": "health",
@@ -6494,4 +6494,23 @@ export const recipes: Record<string, RecipeOutput> = {
   "grass+humus": "cereals",
   "compost+worm": "wormy_compost",
 "earth+wormy_compost": "humus",
+  "beer+great_britain": "ale",
+  "columbus+continent": "america",
+  "country+potato": "belarus",
+  "country+tree": "canada",
+  "bacteria+bacteria": "cell",
+  "juice+vodka": "cocktail",
+  "hero+sailboat": "columbus",
+  "fire+kefir": "cottage_cheese",
+  "field+flower": "flax",
+  "chariot+warrior": "gladiator",
+  "alcohol+berry": "liquor",
+  "water+yeast": "moonshine",
+  "cheese+sky": "moon",
+  "clam+sand": "mussels",
+  "plankton+swamp": "clam",
+  "saltpeter+oxygen": "nitrate",
+  "milk+rum": "pina_colada",
+  "human+mushroom": "shaman",
+  "bush+india": "tea",
 };
