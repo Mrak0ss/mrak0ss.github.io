@@ -150,7 +150,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "earth+earth": "earthquake",
 "earth+steam": "geyser",
 "earth+earthquake": "mountain",
-"island+island": "archipelago",
+"island+island": "arelago",
 "sea+volcano": "island",
 "lava+pressure": "volcano",
 "air+stone": "sand",
@@ -846,7 +846,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "coffin+earth": "grave",
 // E-BOOK
 
-"book+microchip": "e_book",
+"book+micro": "e_book",
 
 // EGYPT
 
@@ -6374,7 +6374,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "plant+spore": "fern",
 "cloth+wind": "sail",
 
-"chip+chip": "computer",
+"microchip+microchip": "computer",
 "neutron+star": "neutron_star",
 "shovel+soil": "pit",
 "mountain+road": "tunnel",
