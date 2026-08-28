@@ -6053,8 +6053,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "life+soil": "earthworm",
 "earthworm+soil": "insect",
 "insect+insect": "spider",
-"fly+spider": "cobweb",
-"cobweb+cobweb": "thread",
+"fly+spider": "web",
+"web+web": "thread",
 "air+cloth+rope": "kite",
 
 "air+metal": "plane",
@@ -6256,7 +6256,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "blade+pig": ["fat", "salo"],
 
 "hammer+pig": "skin",
-"cobweb+water": "net",
+"water+web": "net",
 "net+stick": "scoop_net",
 "human+human+love": "baby",
 "electricity+life": "neuron",
