@@ -3111,7 +3111,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "bonfire+village": "folklore",
 "fun+law_and_justice": "game",
 "life+wisdom": ["good_and_bad", "philosophy"],
-"news+telephone": "gossip",
+"news+phone": "gossip",
 "book+time": "history",
 "canada+rink": "hockey",
 "cow+gold": "idol",
@@ -4043,7 +4043,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "chain+saw": "chainsaw",
 "electricity+saw": "chainsaw",
 
-"satellite+sound": "cellphone",
+"satellite+sound": "phone",
 
 "floppy_disk+time": "cd",
 
