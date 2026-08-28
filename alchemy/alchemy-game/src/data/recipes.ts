@@ -4223,8 +4223,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "ruler+wall": "construction_ruler",
 
-"cookie+dough": "cookie",
-
 "cookie+pottery": "cookie_jar",
 
 "alien+cookie": "cookie_monster",
@@ -6336,7 +6334,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "explosion+rocket": "fireworks",
 "dough+ice_cream": "cake",
 "balloon+cake+fireworks": "holiday",
-"human+holiday": "clown",
+"holiday+human": "clown",
 "clown+house": "circus",
 "leaf+light": "photosynthesis",
 "fat+water": "oil",
