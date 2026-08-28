@@ -4665,7 +4665,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "dodecahedron+dodecahedron": "icosahedron",
 
-
 "lightbulb+nerd": "idea",
 
 "house+ice": "igloo",
@@ -4688,21 +4687,20 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "iphone+iphone": "ipad_mini",
 
-"cell_phone+fruit": "iphone",
+"fruit+phone": "iphone",
 
 "egypt+hero": "isis",
 "egypt+princess": "isis",
 
-"pumpkin+fire": "jack_o_lantern",
+"fire+pumpkin": "jack_o_lantern",
 "blade+pumpkin": "jack_o_lantern",
-"pumpkin+candle": "jack_o_lantern",
+"candle+pumpkin": "jack_o_lantern",
 
-
-"origami+country": "japan",
+"country+origami": "japan",
 
 "doll+japan": "japanese_dolls",
 
-"umbrella+japan": "japanese_umbrella",
+"japan+umbrella": "japanese_umbrella",
 
 "japan+money": "japanese_yen",
 
@@ -4711,29 +4709,29 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "meat+salt": "jerky",
 
-"netflix+hero": "jessica_jones",
-"netflix+detective": "jessica_jones",
+"hero+netflix": "jessica_jones",
+"detective+netflix": "jessica_jones",
 
-"clown+batman": "joker",
+"batman+clown": "joker",
 
 "country+giraffe": "kenya",
 
-"vase+tea": "kettle",
+"tea+vase": "kettle",
 "pottery+tea": "kettle",
 
-"wood+russia": "khokhloma",
+"russia+wood": "khokhloma",
 
-"dress+man": "kilt",
+"dress+human": "kilt",
 
-"man+crown": "king",
+"human+crown": "king",
 
-"love+lips": "kiss",
+"lips+love": "kiss",
 
-"sky+paper": "kite",
+"paper+sky": "kite",
 
-"kiwi_fruit+bird": "kiwi_bird",
+"bird+kiwi_fruit": "kiwi_bird",
 
-"fruit+analysis": "kiwi_fruit",
+"analysis+fruit": "kiwi_fruit",
 
 "rope+rope": "knot",
 
