@@ -1265,6 +1265,7 @@ export const elements: {
 { id: "castle", name: "Castle", emoji: "🏰" },
 { id: "cave", name: "Cave", emoji: "🕳️" },
 { id: "cd", name: "CD", emoji: "💿" },
+  { id: "dvd", name: "DVD", emoji: "💿" },
 { id: "chain", name: "Chain", emoji: "⛓️" },
 { id: "cheese", name: "Cheese", emoji: "🧀" },
 { id: "chicken", name: "Chicken", emoji: "🐔" },
