@@ -2465,6 +2465,7 @@ export const elements: {
 { id: "calamity_jane", name: "Calamity Jane", emoji: "🤠" },
 { id: "captain_jack_sparrow", name: "Captain Jack Sparrow", emoji: "🏴‍☠️" },
 { id: "charlie_brown", name: "Charlie Brown", emoji: "⚪" },
+  { id: "brown", name: "Brown", emoji: "🟫" },
 { id: "charlie_sheen", name: "Charlie Sheen", emoji: "🐅" },
 { id: "chuck_norris", name: "Chuck Norris", emoji: "👊" },
 { id: "cinderella", name: "Cinderella", emoji: "👠" },
