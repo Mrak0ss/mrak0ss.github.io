@@ -6216,7 +6216,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "lightbulb+lightbulb+lightbulb": "garland",
 "light+metal+paper": "photo_camera",
 "garland+road": "traffic_light",
-"lightbulb+insect": "firefly",
+"insect+lightbulb": "firefly",
 "battery+light": "flashlight",
 
 "lens+sky": "telescope",
