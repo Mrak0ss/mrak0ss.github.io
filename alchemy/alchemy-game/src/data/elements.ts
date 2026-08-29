@@ -1266,6 +1266,7 @@ export const elements: {
 { id: "cave", name: "Cave", emoji: "🕳️" },
 { id: "cd", name: "CD", emoji: "💿" },
   { id: "dvd", name: "DVD", emoji: "💿" },
+  { id: "blu_ray", name: "Blu-Ray", emoji: "💿" },
 { id: "chain", name: "Chain", emoji: "⛓️" },
 { id: "cheese", name: "Cheese", emoji: "🧀" },
 { id: "chicken", name: "Chicken", emoji: "🐔" },
