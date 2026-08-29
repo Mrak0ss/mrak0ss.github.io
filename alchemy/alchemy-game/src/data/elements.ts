@@ -2329,6 +2329,7 @@ export const elements: {
 { id: "autograph", name: "Autograph", emoji: "✍️" },
 { id: "bilingual", name: "Bilingual", emoji: "🗣️" },
 { id: "blues", name: "Blues", emoji: "🎵" },
+  { id: "blu-ray", name: "Blu-Ray", emoji: "💿" },
 { id: "calendar", name: "Calendar", emoji: "📅" },
 { id: "cannibalism", name: "Cannibalism", emoji: "🍖" },
 { id: "cards", name: "Cards", emoji: "🃏" },
