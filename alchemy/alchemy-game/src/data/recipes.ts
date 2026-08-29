@@ -4282,7 +4282,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "country+windmill": "denmark",
 "country+lego_brick": "denmark",
 
-
 "cactus+sand": "desert",
 
 "magnifying_glass+thief": "detective",
@@ -4291,8 +4290,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "angel+pitchfork": "devil",
 "angel+fire": "devil",
-
-
 
 "cube+dot": "dice",
 
@@ -4325,13 +4322,11 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "bed+bed": "double_bed",
 
-
 "dragon+pokemon": "dratini",
 
 "clothing+female": "dress",
 
 "skin+wood": "drum",
-
 
 "beer+human": "drunk",
 "human+wine": "drunk",
@@ -4339,13 +4334,9 @@ export const recipes: Record<string, RecipeOutput> = {
 "day+vampire": "dust",
 
 "time+vhs": "dvd",
-"time+cd": "dvd",
+"cd+time": "dvd",
 
 "ant+human": "dwarf",
-
-
-
-
 
 "decomposition+head": "ear",
 
