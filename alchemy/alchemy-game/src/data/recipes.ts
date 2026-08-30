@@ -319,6 +319,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "legend+ufo": "conspiracy",
 "air+car": "plane",
 "bird+metal": "plane",
+  "bird+city": "pigeon",
 "metal+plane": "aluminium",
 "navigation+plane": "airport",
 "aluminium+glass": "mirror",
