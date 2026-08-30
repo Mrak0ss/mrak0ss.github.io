@@ -734,8 +734,6 @@ export const elements: {
 
 { id: "lightning_rod", name: "Lightning Rod", emoji: "⚡🪵" },
 
-{ id: "thunder", name: "Thunder", emoji: "🌩️🔊" },
-
 { id: "limestone", name: "Limestone", emoji: "🪨" },
 
 { id: "lime", name: "Lime", emoji: "🪨" },
@@ -2155,7 +2153,6 @@ export const elements: {
 { id: "sirocco", name: "Sirocco", emoji: "🌬️" },
 { id: "sonic_boom", name: "Sonic Boom", emoji: "💥" },
 { id: "sun_dog", name: "Sun Dog", emoji: "🌤️" },
-{ id: "thunder", name: "Thunder", emoji: "⚡" },
 { id: "tramontane", name: "Tramontane", emoji: "🌬️" },
 { id: "vapour", name: "Vapour", emoji: "💨" },
 
@@ -2223,7 +2220,6 @@ export const elements: {
 { id: "revolution", name: "Revolution", emoji: "🪐" },
 { id: "rotation", name: "Rotation", emoji: "🔄" },
 { id: "sound", name: "Sound", emoji: "🔊" },
-{ id: "space", name: "Space", emoji: "🌌" },
 { id: "sphere", name: "Sphere", emoji: "⚪" },
 
 { id: "static_charge", name: "Static Charge", emoji: "⚡" },
@@ -3244,6 +3240,7 @@ export const elements: {
 { id: "solar_cell", name: "Solar Cell", emoji: "☀️" },
 { id: "solid", name: "Solid", emoji: "🧱" },
 { id: "space_station", name: "Space Station", emoji: "🛰️" },
+  { id: "spaceship", name: "Spaceship", emoji: "🛰️" },
 { id: "sphinx", name: "Sphinx", emoji: "🗿" },
 { id: "spider", name: "Spider", emoji: "🕷️" },
 { id: "spoon", name: "Spoon", emoji: "🥄" },
