@@ -419,6 +419,7 @@ export const elements: {
 { id: "dilemma", name: "Dilemma", emoji: "⚖️" },
 { id: "chicken", name: "Chicken", emoji: "🐔" },
 { id: "bird", name: "Bird", emoji: "🐦" },
+  { id: "pigeon", name: "Pigeon", emoji: "🐦" },
 { id: "butter", name: "Butter", emoji: "🧈" },
 { id: "continent", name: "Continent", emoji: "🌍" },
 { id: "australia", name: "Australia", emoji: "🇦🇺" },
