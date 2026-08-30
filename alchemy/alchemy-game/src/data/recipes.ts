@@ -1705,7 +1705,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "blade+japan": "katana",
 "japan+sword": "katana",
 "ninja+sword": "katana",
-"movie+house": "cinema",
+"house+movie": "cinema",
 "metal+signal": "antenna_dish",
 "metal+net": "antenna_dish",
 "human+stage": "theater",
