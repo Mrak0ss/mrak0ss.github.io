@@ -1892,7 +1892,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "energy+fire": "energy",
 "energy+light": "laser",
 "farm+feather": "cotton",
-"stick+sulfur": "matches",
+"stick+sulfur": "match",
 "egg+fish": "caviar",
 "fish+stone": "shell",
 "glass+house": "skyscraper",
@@ -6009,7 +6009,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "caravan+dog": "dog_sled",
 
 "coal+sand": "filter",
-"sulfur+wood": "matches",
+"sulfur+wood": "match",
 "steel+stone": "flint",
 "coal+flint": "bonfire",
 "fish+water": "fish_soup",
