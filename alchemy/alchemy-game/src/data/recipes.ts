@@ -4806,7 +4806,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "atmosphere+machine": "spaceship",
 "atmosphere+metal": "spaceship",
 "atmosphere+pirate_ship": "spaceship",
-"atmosphere+steamboat": "spaceship",
+"atmosphere+steamer": "spaceship",
 "atmosphere+steel": "spaceship",
 "atmosphere+train": "spaceship",
 
@@ -4840,13 +4840,13 @@ export const recipes: Record<string, RecipeOutput> = {
 
 
 "boat+wind": "sailboat",
-"cloth+steamboat": "sailboat",
-"steamboat+wind": "sailboat",
+"cloth+steamer": "sailboat",
+"steamer+wind": "sailboat",
 
 
 "human+lake": "sailor",
 "human+sailboat": "sailor",
-"human+steamboat": "sailor",
+"human+steamer": "sailor",
 
 "fire+monster": "salamander",
 "lava+monster": "salamander",
@@ -4965,7 +4965,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "illness+ocean": "seasickness",
 "illness+sailboat": "seasickness",
 "illness+sea": "seasickness",
-"illness+steamboat": "seasickness",
+"illness+steamer": "seasickness",
 
 "grass+ocean": "seaweed",
 "grass+sea": "seaweed",
@@ -4999,7 +4999,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "boat+kraken": "shipwreck",
 "kraken+pirate_ship": "shipwreck",
 "kraken+sailboat": "shipwreck",
-"kraken+steamboat": "shipwreck",
+"kraken+steamer": "shipwreck",
 
 "blade+ninja": "shuriken",
 "blade+star": "shuriken",
@@ -5183,7 +5183,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "car+space": "spaceship",
 "metal+space": "spaceship",
 "pirate_ship+space": "spaceship",
-"space+steamboat": "spaceship",
+"space+steamer": "spaceship",
 "space+steel": "spaceship",
 
 "pasta+thread": "spaghetti",
@@ -5249,11 +5249,11 @@ export const recipes: Record<string, RecipeOutput> = {
 "machine+steam": "steam_engine",
 "steam+wheel": "steam_engine",
 
-"boat+steam_engine": "steamboat",
-"ocean+steam_engine": "steamboat",
-"pirate_ship+steam_engine": "steamboat",
-"sailboat+steam_engine": "steamboat",
-"sea+steam_engine": "steamboat",
+"boat+steam_engine": "steamer",
+"ocean+steam_engine": "steamer",
+"pirate_ship+steam_engine": "steamer",
+"sailboat+steam_engine": "steamer",
+"sea+steam_engine": "steamer",
 
 "ash+metal": "steel",
 "metal+mineral": "steel",
@@ -5419,8 +5419,8 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "boat+iceberg": "titanic",
 "iceberg+legend": "titanic",
-"iceberg+steamboat": "titanic",
-"legend+steamboat": "titanic",
+"iceberg+steamer": "titanic",
+"legend+steamer": "titanic",
 
 "fire+sandwich": "toast",
 
