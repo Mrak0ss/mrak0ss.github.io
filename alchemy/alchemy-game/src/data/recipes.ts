@@ -6115,7 +6115,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "bird+horse": "pegasus",
 "tool+wood+wood": "board",
 "board+rainbow": "paint",
-"brush+paper+paint": "picture",
+"brush+paint+paper": "picture",
 "limestone+plant": "saltpeter",
 "gunpowder+rope": "dynamite",
 "gem+gold": "crown",
