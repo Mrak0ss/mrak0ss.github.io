@@ -4030,10 +4030,10 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "christmas+day": "christmas_eve",
 
-"cloud+electricity": "lightning",
-"storm+electricity": "lightning",
+"cloud+electricity": "thunder",
+"storm+electricity": "thunder",
 
-"lightning+tree": "christmas_tree",
+"thunder+tree": "christmas_tree",
 
 
 "tree+night": "carbon_dioxide",
@@ -4574,8 +4574,8 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "book+wizard": "harry_potter",
 
-"boy+lightning": "harry_potter_character",
-"harry_potter+lightning": "harry_potter_character",
+"boy+thunder": "harry_potter_character",
+"harry_potter+thunder": "harry_potter_character",
 
 "field+tractor": "harvester",
 
@@ -5270,7 +5270,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "earth+solid": "stone",
 
-"atmosphere+electricity": "lightning",
+"atmosphere+electricity": "thunder",
 "rain+wind": "storm",
 
 "big+rivulet": "stream",
@@ -5407,7 +5407,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "magic+ring": "the_one_ring",
 
 
-"god+lightning": "thor",
+"god+thunder": "thor",
 "god+storm": "thor",
 
 "cotton+cotton": "thread",
