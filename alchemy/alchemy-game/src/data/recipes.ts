@@ -6501,7 +6501,7 @@ export const recipes: Record<string, RecipeOutput> = {
   "cheese+sky": "moon",
   "clam+sand": "mussels",
   "plankton+swamp": "clam",
-  "saltpeter+oxygen": "nitrate",
+  "oxygen+saltpeter": "nitrate",
   "milk+rum": "pina_colada",
   "human+mushroom": "shaman",
   "bush+india": "tea",
