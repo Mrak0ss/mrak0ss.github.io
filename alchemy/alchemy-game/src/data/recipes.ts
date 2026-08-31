@@ -3882,7 +3882,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "sword+story": "excalibur",
 
-"windmill+story": "don_quixote",
+"story+windmill": "don_quixote",
 
 "campfire+human": "story",
 "hero+human": "story",
