@@ -815,7 +815,6 @@ export const recipes: Record<string, RecipeOutput> = {
 // FOSSIL CHAIN
 
 "butterfly+earth": "fossil",
-"fern+earth": "fossil",
 "pterodactyl+earth": "fossil",
 
 
