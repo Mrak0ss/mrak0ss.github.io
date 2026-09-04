@@ -1738,7 +1738,6 @@ export const elements: {
 { id: "slowpoke", name: "Slowpoke", emoji: "🦥" },
 { id: "slug", name: "Slug", emoji: "🐌" },
 { id: "smurf", name: "Smurf", emoji: "🔵" },
-{ id: "snail", name: "Snail", emoji: "🐌" },
 
 { id: "snow_leopard", name: "Snow Leopard", emoji: "🐆" },
 { id: "space_invader", name: "Space Invader", emoji: "👾" },
