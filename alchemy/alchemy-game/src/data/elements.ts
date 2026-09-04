@@ -21,6 +21,7 @@ export const elements: {
   // extended elements
   { id: "mud", name: "Mud", emoji: "🟫" },
 { id: "9_11", name: "9.11", emoji: "✈️" },
+  { id: "platypus", name: "Platypus", emoji: "🦆" },
   { id: "ash", name: "Ash", emoji: "⚫" },
   { id: "wind", name: "Wind", emoji: "🌬️" },
 
