@@ -350,7 +350,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "earth+moon": "eclipse",
 "hero+pantheon": "god",
 "eclipse+mythology": "omen",
-"greed+empire": "corruption",
+"empire+greed": "corruption",
 "earthquake+tsunami": "disaster",
 "animal+moon": "wolf",
 "human+wolf": "dog",
