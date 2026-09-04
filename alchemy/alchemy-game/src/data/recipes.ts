@@ -6012,7 +6012,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "sulfur+wood": "match",
 "steel+stone": "flint",
 "coal+flint": "bonfire",
-"fish+water": "fish_soup",
 "bonfire+house": "fireplace",
 
 "life+time": "death",
@@ -6527,7 +6526,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "forest+yak": "bison",
 "forest+snake": "boa_constrictor",
 "antelope+forest": "bongo",
-"dinosaur+giraffe": "brachiosaurus",
+  
 "bull+bull": "buffalo",
 "cow+cow": "bull",
 "bull+shark": "bull_shark",
@@ -6549,7 +6548,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "crocodile+hummingbird": "crocohum",
 "crocodile+mosquito": "crocosquito",
 "fish+water": "crucian_carp",
-"bird+forest": "cuckoo",
 
 "dog+giraffe": "dachshund",
 "dog+zebra": "dalmatian",
@@ -6568,14 +6566,10 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "feather+nails": "eagle",
 "eagle+hedgehog": "eaglehog",
-"water+worm": "earthworm",
 "beetle+tail": "earwig",
-"anteater+hedgehog": "echidna",
-"fish+snake": "eel",
 "eel+energy": "electric_eel",
 "hippopotamus+tapir": "elephant",
 "elephant+water": "elephant_seal",
-"bacteria+swamp": "euglena_viridis",
 "ferret+water": "european_otter",
 
 "cheetah+eagle": "falcon",
@@ -6596,7 +6590,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "caucasian_shepherd_dog+doberman_pinscher": "german_shepherd",
 "lizard+poison": "gila_monster",
 "camel+leopard": "giraffe",
-"antelope+giraffe": "giraffe_gazelle",
 "giraffe+turtle": "girturtle",
 "earth+horn": "goat",
 "butterfly+goat": "goatfly",
