@@ -6560,7 +6560,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "ear+horse": "donkey",
 "dragon+dragon": "double_headed_dragon",
 "magpie+swallow": "dove",
-"crocodile+wing": "dragon",
+
 "crocodile+dragonfly": "dragondile",
 "swamp+wasp": "dragonfly",
 
@@ -6617,7 +6617,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "bee+bumblebee": "hornet",
 "earth+hoof": "horse",
 "bird+mouse": "hummingbird",
-"dog+vulture": "hyena",
 
   "forest+lizard": "iguana",
 "dinosaur+monitor_lizard": "inostrancevia",
@@ -6645,7 +6644,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "sea_turtle+squid": "lobster",
 "ear+hedgehog": "long_eared_hedgehog",
 "muzzle+squirrel": "long_nosed_squirrel",
-"cat+snow": "lynx",
 
 "raven+seagull": "magpie",
 "beaver+squirrel": "marmot",
@@ -6767,7 +6765,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "antelope+moose": "wildebeest",
 "beaver+koala": "wombat",
 "forest+turkey": "wood_grouse",
-"bacteria+earth": "worm",
 
 "bull+hill": "yak",
 
