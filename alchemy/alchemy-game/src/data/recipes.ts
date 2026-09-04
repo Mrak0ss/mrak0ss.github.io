@@ -126,6 +126,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "skin+paper": "book",
 "ink+paper": "book",
 "tool+tree": "wood",
+  "tool+tool": "machine",
 "water+wood": "paper",
 "grass+life": "insect",
 "bird+hunter": ["feather", "blood", "meat"],
