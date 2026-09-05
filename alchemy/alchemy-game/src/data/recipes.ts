@@ -6923,7 +6923,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "king+star_wars": "darth_vader",
 "needle+wood": "darts",
 "star+death": "death_star",
-"clothing+woman": ["decollete", "dress"]
+"clothing+woman": ["decollete", "dress"],
 "earth+sun": "desert",
 "riddle+book": "detective",
 "salad+sport": "diet",
