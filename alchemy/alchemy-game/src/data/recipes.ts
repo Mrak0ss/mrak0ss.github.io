@@ -4338,7 +4338,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "decomposition+head": "ear",
 
-"ear+ring": "earrings",
+"ears+ring": "earrings",
 
 "animal+earth": "earthworm",
 "animal+field": "earthworm",
@@ -6538,7 +6538,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "paw+worm": "centipede",
 "lizard+wood": "chameleon",
 "hare+leopard": "cheetah",
-"degu+ear": "chinchilla",
+"degu+ears": "chinchilla",
 "paw+wood": "chipmunk",
 "chameleon+fish": "clownfish",
 "lion+snake": "cobra",
@@ -6555,7 +6555,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "duck+elephant": "delephant",
 "lizard+spinosaurus": "dimetrodon",
 "dog+fox": "dingo",
-"ear+horse": "donkey",
+"ears+horse": "donkey",
 "dragon+dragon": "double_headed_dragon",
 "magpie+swallow": "dove",
 
@@ -6571,7 +6571,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "ferret+water": "european_otter",
 
 "cheetah+eagle": "falcon",
-"ear+fox": "fennec",
+"ears+fox": "fennec",
 "fox+hamster": "ferret",
 "earth+slug": "field_slug",
 "beetle+fire": "firebug",
@@ -6601,7 +6601,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "muzzle+shark": "hammerhead_shark",
 "earth+squirrel": "hamster",
-"chipmunk+ear": "hare",
+"chipmunk+ears": "hare",
 "dog+hare": "haredog",
 "hare+sparrow": "harrow",
 "needle+paw": "hedgehog",
@@ -6640,7 +6640,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "paw+snake": "lizard",
 "camel+horse": "llama",
 "sea_turtle+squid": "lobster",
-"ear+hedgehog": "long_eared_hedgehog",
+"ears+hedgehog": "long_eared_hedgehog",
 "muzzle+squirrel": "long_nosed_squirrel",
 
 "raven+seagull": "magpie",
@@ -6938,4 +6938,18 @@ export const recipes: Record<string, RecipeOutput> = {
 "medicine+building": "drugstore",
 "tree+wizard": "druid",
 "gunpowder+oil": "dynamite",
+
+  "beenie+ussr": "earflaps",
+"ears+gold": "earrings",
+"island+statue": "easter_island",
+"tool+wind": "electric_fan",
+"animal+pressure": "elephant",
+"longbow+story": "elf",
+"letter+www": "email",
+"park+river": "embankment",
+"combustion_engine+ladder": "escalator",
+"ice_cream+stick": "eskimo_pie",
+"glass+scarecrow": "exhibit",
+"life+ufo": "extraterrestrial",
+"motorcycle+ski_jump": "extreme",
 };
