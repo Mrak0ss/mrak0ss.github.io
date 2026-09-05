@@ -1840,7 +1840,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "house+saw": "sawmill",
 "saw+wood": "plank",
 "chair+saw": "stool",
-"nails+wood": "table",
+"nail+wood": "table",
 "broom+tooth": "toothbrush",
 "mop+tooth": "toothbrush",
 
@@ -2845,7 +2845,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "blade+paper": "confetti",
 "paper+scissors": "confetti",
 
-"utensil+wood": "rolling-pin",
+
 
 "life+metal": "metal_golem",
 "electricity+metal_golem": "robot",
@@ -3132,7 +3132,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "gulliver's_travels+music": "royal_society",
 "diamond+stick": "sceptre",
 "fly+human": "sci_fi",
-"ball+net": "soccer",
+
 "philosophy+sign": "symbol",
 "net+table": "table_tennis",
 "cards+prophet": "tarot",
@@ -7048,20 +7048,20 @@ export const recipes: Record<string, RecipeOutput> = {
   "medicine+radiation": "x_ray",
   "snow+snow": "winter",
 "iron+rope": "wire",
-"broom+wizard": "witch",
+
 "hatchet+human": "woodcutter",
 "bird+sound": "woodpecker",
 "alphabet+alphabet": "word",
 "tank+video_game": "world_of_tanks",
 "tree+woodpecker": "worm",
-"iron+tree": "wheel",
+
 "football+sound": "whistle",
 "house+indian": "wigwam",
-"cloth+window": "window_blinds",
+
 "computer+window": "windows",
 "roof+rooster": "windvane",
 "barrel+grape": "wine",
-"arm+bird": "wing",
+
 
   "old_man+stick": "walking_cane",
 "brick+engineer": "wall",
@@ -7071,8 +7071,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "flag+gun": "war",
 "rainbow+river": "waterfall",
 "paint+plant": "watermelon",
-"sea+wind": "wave",
-"net+spider": "web",
+
+
 "contrast+pressure": "weightlessness",
 "pit+water": "well",
 "ghost+wolf": "werewolf",
@@ -7081,20 +7081,20 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "cake+plant": "vanilla",
 "flower+utensil": "vase",
-"city+water": "venice",
-"planet+woman": "venus",
+
+  
 "soldier+war": "veteran",
 "medicine+playboy": "viagra",
 "knight+norway": "viking",
 "contrast+guitar": "violin",
-"earth+fire": "volcano",
+
 "beach+sport": "volleyball",
-"doll+needle": "voodoo",
+
 "bird+meat": "vulture",
 
 
 "jeep+russia": "uaz",
-"cloth+rain": "umbrella",
+
 "flag+statue": "usa",
 "russia+war": "ussr",
 "fork+spoon": "utensil",
@@ -7102,18 +7102,18 @@ export const recipes: Record<string, RecipeOutput> = {
   "bridge+contrast": "tunnel",
 "antenna_dish+cinema": "tv",
 
-  "glass+plant": "tomato",
+
 "bone+smile": "tooth",
-"mop+tooth": "toothbrush",
+
 "fire+petrol": "torch",
 "airplane+human": "tourist",
-"bathroom+cloth": "towel",
+
 "england+fortress": "tower",
 "light+road": "traffic_light",
 "bus+electricity": "tram",
-"cloth+metal_spring": "trampoline",
-"car+robot": "Transformer",
-"map+pirate": "treasure_island",
+
+
+
 "pit+soldier": "trench",
 "bus+horns": "trolleybus",
 "car+soldier": "troop_carrier",
@@ -7126,12 +7126,12 @@ export const recipes: Record<string, RecipeOutput> = {
 "sandglass+sundial": "time",
 "iceberg+ship": "titanic",
 
-  "panzer+USSR": "t_34",
-"cloth+table": "tablecloth",
+  "tank+USSR": "t_34",
+
 "bicycle+bicycle": "tandem_bicycle",
 "boat+oil": "tanker",
-"human+road": "taxi",
-"cloth+forest": "tent",
+
+
 "bottle+medicine": "test_tube",
 "gnome+paint": "smurf",
 
@@ -7140,7 +7140,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "space+star": "universe",
 "radiation+metal": "uranium",
 "bat+blood": "vampire",
-"plant+salad": "vegetable",
+
 "ball+net": "volleyball",
 "volleyball+rope": "volleyball_net",
 
@@ -7167,11 +7167,11 @@ export const recipes: Record<string, RecipeOutput> = {
 "lenin+time": "stalin",
 "alphabet+paint": "stamp",
 "iron+steam": "boiler",
-"boat+steam_engine": "steamship",
+
 "car+road": "steering_wheel",
-"fish+pressure": "stingray",
-"chair+saw": "stool",
-"bonfire+house": "stove",
+
+
+
 "berry+plant": "strawberry",
 "box+melody": "street_organ",
 "boat+diver": "submarine",
@@ -7185,7 +7185,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "skateboard+wave": "surfing",
 "lake+time": "swamp",
 "pool+sport": "swimming",
-"shark+sword": "swordfish",
+
 
   "cartoon+mutant": "shrek",
 "gun+japan": "shuriken",
@@ -7200,14 +7200,14 @@ export const recipes: Record<string, RecipeOutput> = {
 "sleep+tale": "sleeping_beauty",
 "house+shoes": "slippers",
 "animal+morning": "sloth",
-"fire+gas": "smoke",
+
 "life+seashell": "snail",
 "animal+medicine": "snake",
 "soldier+target": "sniper",
 "winter+woman": "snow_maiden",
 "skateboard+snow": "snowboard",
 "snow+tree": "snowdrift",
-"flower+snow": "snowdrop",
+
 "olympiad+russia": "sochi",
 "clothing+legs": "socks",
 "bed+pillow": "sofa",
@@ -7227,13 +7227,13 @@ export const recipes: Record<string, RecipeOutput> = {
 "building+saw": "sawmill",
 "pressure+tool": "scales",
 "beetle+egypt": "scarab",
-"animal+time": "scarecrow",
+
 "building+child": "school",
 "bus+child": "school_bus",
-"bag+school": "schoolbag",
+
 "formula_1+man": "schumacher",
 "biceps+cinema": "schwarzenegger",
-"needle+pencil": "scribe_compass",
+
 "house+sea": "seashell",
 "briefcase+safe": "secret",
 "fire+sunflower": "seed",
@@ -7243,7 +7243,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "detective+violin": "sherlock_holmes",
 "opposite+sword": "shield",
 "boat+iron": "ship",
-"meteor+rain": "shooting_stars",
+
 "pants+scissors": "shorts",
 "biceps+rake": "shovel",
 
@@ -7253,7 +7253,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "human+nike": "ronaldo",
 "house+karlson": "roof",
 "chicken+morning": "rooster",
-"cloth+snake": "rope",
+
 
 "plane+radio": "radar",
 "raft+river": "rafting",
@@ -7265,7 +7265,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "bull+lemonade": "red_bull",
 "sport+whistle": "referee",
 "cupboard+ice": "refrigerator",
-"car+france": "renault",
+
 "gas+opposite": "respirator",
 "pressure+rope": "ribbon",
 "japan+plant": "rice",
@@ -7274,7 +7274,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "bride+gold": "ring",
 "ice+pool": "rink",
 
-  "arrow+bag": "quiver",
+
 "dough+pan": "pancakes",
 "gun+parachute": "paratrooper",
 "flour+rope": "pasta",
@@ -7282,7 +7282,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "dough+meat": "pelmeni",
 "submarine+telescope": "periscope",
 "city+fountain": "peterhof_palace",
-"swimming+usa": "phelps",
+
 "alcohol+pineapple": "pina_colada",
 "fairy_tale+golden_key": "pinocchio",
 "airplane+building": "plane_hangar",
@@ -7303,11 +7303,11 @@ export const recipes: Record<string, RecipeOutput> = {
   "desert+rain": "oasis",
 "building+sea": "oil",
 "beer+feast": "oktoberfest",
-"human+time": "old_man",
+
 "biathlon+norway": "ole_einar_bjorndalen",
 "butter+tree": "olive_oil",
 "ring+sport": "olympiad",
-"sun+tree": "orange",
+
 "violin+violin": "orchestra",
 "japan+paper_boat": "origami",
 
@@ -7337,30 +7337,30 @@ export const recipes: Record<string, RecipeOutput> = {
 "earth+road": "map",
 "planet+war": "mars",
 "umbrella+woman": "mary_poppins",
-"eye+paint": "mascara",
-"glasses+water": "mask",
-"fire+stick": "matches",
+
+
+
 "lenin+moscow": "mausoleum",
 "road+treasures": "maze",
 "cola+hamburger": "mcdonalds",
-"cow+knife": "meat",
+
 "gold+sport": "medal",
 "radio+tv": "media",
 "medicine+powder": "medicament",
-"box+medicine": "medicine_chest",
+
 "music+violin": "melody",
-"berry+sun": "melon",
+
 "car+star": "mercedes",
 "fish+legend": "mermaid",
 "swamp+legend": "merman",
 "extraterrestrial+football": "messi",
 "jump+steel": "metal_spring",
-"air+fire": "meteor",
+
 "flag+tequila": "mexico",
 "disneyland+mouse": "mickey_mouse",
 "silicon+tool": "microchip",
 "glass+life": "microscope",
-"company+windows": "microsoft",
+
 "water+wheel": "mill",
 "silence+theater": "mime",
 "box+game": "minecraft",
@@ -7372,29 +7372,29 @@ export const recipes: Record<string, RecipeOutput> = {
 "louvre+picture": "mona_lisa",
 "anchor+yacht": "monaco",
 "engineer+oil": "money",
-"hunter+snake": "mongoose",
+
 "binoculars+opposite": "monocle",
 "opposite+sun": "moon",
-"car+moon": "moonrover",
+
 "broom+stick": "mop",
 "alarm_clock+sun": "morning",
 "alphabet+sound": "morse_code",
 "crown+russia": "moscow",
 "bicycle+engine": "motorcycle",
-"cloud+earth": "mountain",
+
 "elephant+opposite": "mouse",
-"cheese+tool": "mousetrap",
+
 "cinema+theater": "movie_theater",
 "child+wolf": "mowgli",
 "human+ribbon": "mummy",
 "building+exhibit": "museum",
-"earth+rain": "mushroom",
+
 "brush+sound": "music",
 "human+radiation": "mutant",
 
   "clothing+crocodile": "lacoste",
 "ferrari+opposite": "lada",
-"car+cow": "lamborghini",
+
 "bag+computer": "laptop",
 "cowboy+rope": "lasso",
 "coffee+ice_cream": "latte",
@@ -7409,15 +7409,15 @@ export const recipes: Record<string, RecipeOutput> = {
 "bonfire+mirror": "lighthouse",
 "laser+sword": "lightsaber",
 "lemon+paint": "lime",
-"computer+penguin": "linux",
+
 "animal+king": "lion",
 "lipstick+woman": "lips",
 "paint+woman": "lipstick",
 "crocodile+opposite": "lizard",
-"steam_engine+wheel": "locomotive",
+
 "big_ben+city": "london",
 "gun+robin_hood": "longbow",
-"box+sound": "loudspeakers",
+
 "cinema+france": "louis_de_funes",
 "france+museum": "louvre",
 "beach+woman": "love",
@@ -7426,7 +7426,7 @@ export const recipes: Record<string, RecipeOutput> = {
   "kamikaze": "fighter+japan",
 "kangaroo": "animal+jump",
 "karate": "kimono+sport",
-"karlson": "jam+medicine_chest",
+"karlson": "jam+first_aid_kit",
 "kart": "engine+steering_wheel",
 "kefir": "bacterium+milk",
 "ketchup": "tomato+tomato",
@@ -7442,24 +7442,24 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "bathroom+geyser": "jacuzzi",
 "berries+fire": "jam",
-"cinema+spy": "james_bond",
+
 "flag+sun": "japan",
 "aladdin+princess": "jasmin",
 "cinema+shark": "jaws",
 "car+forest": "jeep",
-"animal+desert": "jerboa",
+
 "barrel+petrol": "jerrican",
 "mouse+tale": "jerry",
 "box+ring": "jewelry_box",
 "cinema+mask": "jim_carrey",
-"cards+clown": "joker",
+
 "flag+pirate": "jolly_roger",
 
 
 "cartoon+ice": "ice_age",
 "elephant+flag": "india",
 "man+plume": "indian",
-"paint+water": "ink",
+
 "code+door": "intercom",
 "apple+tablet": "ipad",
 "apple+fashion": "iphone",
