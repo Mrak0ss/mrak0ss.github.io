@@ -42,6 +42,7 @@ export const elements: {
 { id: "seed", name: "Seed", emoji: "🌱" },
 { id: "sand", name: "Sand", emoji: "🏖️" },
 { id: "metal", name: "Metal", emoji: "🔩" },
+  { id: "nail", name: "Nail", emoji: "🔩" },
 { id: "screw", name: "Screw", emoji: "🔩" },
 { id: "energy", name: "Energy", emoji: "⚡" },
 { id: "corpse", name: "Corpse", emoji: "💀" },
