@@ -4675,7 +4675,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "fruit+phone": "iphone",
 
 "egypt+hero": "isis",
-"egypt+princess": "isis",
 
 "blade+pumpkin": "jack_o_lantern",
 
@@ -6843,7 +6842,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "gloves+sport": "boxing",
 "clothing+decollete": "bra",
 "leaf+stick": "branch",
-"carnival+flag": "brazil",
+  
   "carnival+country": "brazil",
 "egg+tomato": "breakfast",
 "dress+woman": "bride",
@@ -6851,7 +6850,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "box+paper": "briefcase",
 "sauna+tree": "broom",
 "iron+water": "bucket",
-"bench+bus": "bus_stop",
+
 
   "plant+salad": "cabbage",
 "human+salad": "caesar",
@@ -6892,6 +6891,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "carousel+theater": "circus",
 "building+park": "city",
 "egypt+princess": "cleopatra",
+  
 "coat_hanger+hood": "cloak",
 "cart+princess": "coach",
 "clothing+stick": "coat_hanger",
@@ -6991,7 +6991,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "country+oktoberfest": "germany",
 "earth+fountain": "geyser",
 "house+life": "ghost",
-"box+ribbon": "gift",
+
 "colosseum+human": "gladiator",
 "earth+map": "globe",
 "arm+clothing": "gloves",
@@ -7001,7 +7001,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "ball+hockey_stick": "golf",
 "map+sputnik": "gps",
 "paint+wall": "graffiti",
-"needle+sound": "gramophone",
+
 "time+woman": "granny",
 "country+salad": "greece",
 "atom+sundial": "greenwich",
