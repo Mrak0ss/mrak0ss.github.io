@@ -7073,7 +7073,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "paint+plant": "watermelon",
 
 
-"contrast+pressure": "weightlessness",
+"opposite+pressure": "weightlessness",
 "pit+water": "well",
 "ghost+wolf": "werewolf",
 "animal+sea": "whale",
@@ -7086,7 +7086,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "soldier+war": "veteran",
 "medicine+playboy": "viagra",
 "knight+norway": "viking",
-"contrast+guitar": "violin",
+"guitar+opposite": "violin",
 
 "beach+sport": "volleyball",
 
@@ -7099,7 +7099,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "russia+war": "ussr",
 "fork+spoon": "utensil",
 
-  "bridge+contrast": "tunnel",
+  "bridge+opposite": "tunnel",
 "antenna_dish+cinema": "tv",
 
 
@@ -7184,7 +7184,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "batman+paint": "superman",
 "skateboard+wave": "surfing",
 "lake+time": "swamp",
-"pool+sport": "swimming",
 
 
   "cartoon+mutant": "shrek",
@@ -7231,7 +7230,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "building+child": "school",
 "bus+child": "school_bus",
 
-"formula_1+man": "schumacher",
+"formula_1+human": "schumacher",
 "biceps+cinema": "schwarzenegger",
 
 "house+sea": "seashell",
@@ -7272,8 +7271,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "game+word": "riddle",
 "binoculars+gun": "rifle",
 "bride+gold": "ring",
-"ice+pool": "rink",
-
 
 "dough+pan": "pancakes",
 "gun+parachute": "paratrooper",
@@ -7398,7 +7395,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "bag+computer": "laptop",
 "cowboy+rope": "lasso",
 "coffee+ice_cream": "latte",
-"footprints+man": "legs",
+"footprint+human": "legs",
 "gas+juice": "lemonade",
 "pyramid+ussr": "lenin",
 "city+lenin": "leningrad",
@@ -7441,7 +7438,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "kvass": "bread+water",
 
   "bathroom+geyser": "jacuzzi",
-"berries+fire": "jam",
 
 "flag+sun": "japan",
 "aladdin+princess": "jasmin",
@@ -7458,12 +7454,12 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "cartoon+ice": "ice_age",
 "elephant+flag": "india",
-"man+plume": "indian",
+"human+plume": "indian",
 
 "code+door": "intercom",
 "apple+tablet": "ipad",
 "apple+fashion": "iphone",
-"steam+tools": "iron_cast",
+"steam+tool": "iron_cast",
 "iron+sport": "iron_weight",
 "iron_cast+table": "ironing_board",
 "cinema+iron": "ironman",
