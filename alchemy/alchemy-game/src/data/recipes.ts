@@ -1443,7 +1443,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "milk+space": "milky_way",
 
 "story+lake": "nessie",
-"space+time": "tardis",
 "chocolate+cookie": "twix",
 "mountain+story": "yeti",
 
@@ -2956,7 +2955,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "point+point": "line",
 "astronomy+tide": ["mathematics", "calendar"],
 "atom+atom": "molecule",
-"time+space": "movement",
+"space+time": ["movement", "tardis"],
 "supernova+cloud": "nebula",
 "sound+sound": "noise",
 "atom+table": "periodic_table",
