@@ -3299,7 +3299,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "balcony+curtain": "awning",
 "human+plastic": "bag",
 "rubber+sphere": "ball",
-"metal+gasoline": "barrel",
+"gasoline+metal": "barrel",
 "box+weeping_willow": "basket",
 "telescope+telescope": "binoculars",
 "fire+gas": "blowtorch",
