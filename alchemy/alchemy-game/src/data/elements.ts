@@ -4940,4 +4940,5 @@ export const elements: {
 { id: "ladder", name: "Ladder", emoji: "🪜" },
   { id: "zinc", name: "Zinc", emoji: "⚙️" },
 { id: "znc_battery", name: "ZnC Battery", emoji: "🔋" },
+  { id: "gas_mask", name: "Gas Mask", emoji: "😷" },
 ];
