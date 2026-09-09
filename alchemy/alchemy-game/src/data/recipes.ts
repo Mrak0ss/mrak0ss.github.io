@@ -1494,7 +1494,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "ant+container": "ant_farm",
 "anthill+container": "ant_farm",
 "ant+glass": "ant_farm",
-"reptile+swamp": "alligator",
+"reptile+swamp": ["alligator", "crocodile"],
 "lizard+river": ["alligator", "crocodile"],
 "god+wind": "aeolus",
 "air+god": "aeolus",
@@ -5069,7 +5069,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "campfire+storm": "smoke",
 "campfire+time": "smoke",
 "campfire+water": "smoke",
-"earth+gas": "smoke",
+
 "fire+grass": "smoke",
 "fire+plant": "smoke",
 
@@ -6432,7 +6432,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "scissors+tree": "branch",
 "bird+branch+egg": "nest",
 "branch+grass": "bush",
-  "earth+fern": "bush",
+  "earth+fern": ["bush", "shrub"],
 "flower+time": "fruit",
 
 "apple+human": "health",
@@ -7458,10 +7458,10 @@ export const recipes: Record<string, RecipeOutput> = {
 "iron+sport": "iron_weight",
 "iron_cast+table": "ironing_board",
 "cinema+iron": "ironman",
-  "gunpowder+rope": "bickford_fuse",
+
   "graphite+tool": "black_lead",
   "drilling_rig+earth": "borehole",
-  "copper+zinc": "brass",
+ 
   "copper+lead": "bronze",
   "brass+candle": "candelabrum",
   "fish_yield+food_factory": "canning",
@@ -7478,12 +7478,12 @@ export const recipes: Record<string, RecipeOutput> = {
 "earth+mineral": "cinnabar",
   "fruit+sun+tropics": "citrus",
   "bark+tool": "cork",
-  "molluscs+sand": "crabs",
-"metal+rope": "crane",
-"reptile+swamp": "crocodile",
+
+"machine+metal+rope": "crane",
+
 "scuba+dry_ice": "cryogenic_scuba",
 "glass+lead": "crystal_glass",
-"copper+zinc": "cuzn_battery",
+"copper+zinc": ["cuzn_battery", "brass"],
   "cocoa+food_factory": "dark_chocolate",
   "horn+ruminant": "deer",
   "aluminium+liquid_oxygen": "dewar_flask",
@@ -7521,7 +7521,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "chlorine+hydrogen": "hcl",
 "shrub+shrub+shrub": "hedge",
 "insectivora+needle": "hedgehog",
-"gas_refinery+natural_gas": "helium",
+
 "tree+tropics": "hevea",
 "hydrogen+no2": "hno2",
 "no2+water": "hno3",
@@ -7549,13 +7549,13 @@ export const recipes: Record<string, RecipeOutput> = {
 "gear+sandglass": "mechanical_clock",
   "note+note": "music",
   "earth+vegetable_waste": "methane",
-"gas_refinery+natural_gas": "methane",
+"gas_refinery+natural_gas": ["methane", "helium"],
   "cocoa+food_factory+milk": "milk_chocolate",
 "arthropod+water": "millipede",
 
   "mineral+water": "mineral_water",
   "castle+water": "moat",
-  "molluscs+sand": "mussels",
+  "molluscs+sand": ["mussels", "crab"],
   "borehole+gas_field": "gas",
   "birds+sound": "nightingale",
   "hno3+water": "nitric_acid",
@@ -7587,17 +7587,17 @@ export const recipes: Record<string, RecipeOutput> = {
   "ash+nitric_acid": "potassium_nitrate",
 "assembly_line+saw": "powersaw_bench",
   "amphibian+sand": "reptile",
-  "rope+wood": "rope_ladder",
+
   "cereals+water": "rice",
   "caoutchouc+fire": "rubber",
 "cloven_hoofed_animals+grass": "ruminant",
   "hydrochloric_acid+sodium_hydroxide_solution": "salt_water",
 "salt+water": "salt_water",
-"stone+water": "salt_water",
+
   "oxygen_container+water": "scuba_tank",
   "glowing_lightbulb+mirror": "searchlight",
 "earth+stone": "sedimentary_rock",
-  "earth+fern": "shrub",
+  
   "ancient_footwear+snow": "skis",
   "cart+skis": "sledge",
   "electricity+fire+salt": "sodium",
@@ -7624,7 +7624,7 @@ export const recipes: Record<string, RecipeOutput> = {
   "arthropod+sand": "trilobites",
 "palm+rain": "tropics",
 "mushrooms+pig": "truffle",
-"bamboo+tool": "tube",
+"bamboo+circle+tool": "tube",
 "tube+tube": "tubing",
 "fire+fire+fire+fire+fire+fire+fire+metal": "tungsten",
   "building+wooden_ladder": "tower",
@@ -7646,8 +7646,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "tubing+water": "water_pipeline",
 "draw_well+pump+tower": "water_tower",
 "metal+water+water": "water_turbine",
-"water+wheel": "water_wheel",
-"bird+water": "water_bird",
+
+
 "mammal+water": "water_mammals",
 "rope+vegetable_oil": "wick",
 "nonruminants+nuts": "boar",
