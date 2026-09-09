@@ -1035,6 +1035,7 @@ export const elements: {
 { id: "centaur", name: "Centaur", emoji: "🏹" },
 
 { id: "boar", name: "Boar", emoji: "🐗" },
+  { id: "warthog", name: "Warthog", emoji: "🐗" },
 { id: "chill", name: "Chill", emoji: "🧊" },
 { id: "chicken_wing", name: "Chicken Wing", emoji: "🍗" },
 { id: "chicken_soup", name: "Chicken Soup", emoji: "🍲" },
