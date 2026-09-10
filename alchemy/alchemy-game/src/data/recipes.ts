@@ -3544,7 +3544,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "resin+water": "amber",
 
-"mercury+silver": "amalgam",
+"quicksilver+silver": "amalgam",
 
 "car+caterpillar_platform": "all_terrain_vehicle",
 
