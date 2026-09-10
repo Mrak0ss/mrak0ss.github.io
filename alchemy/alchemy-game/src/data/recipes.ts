@@ -7626,6 +7626,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "tube+tube": "tubing",
 "fire+fire+fire+fire+fire+fire+fire+metal": "tungsten",
   "building+wooden_ladder": "tower",
+  "philosophy+skyscraper": "tower",
   "resin+straw": "torch",
   "dewar_flask+metal": "thermos",
   "bear+gift": "teddy_bear",
