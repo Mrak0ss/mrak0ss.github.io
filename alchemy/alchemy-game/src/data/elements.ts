@@ -634,6 +634,7 @@ export const elements: {
 { id: "fossil", name: "Fossil", emoji: "🦴" },
 
 { id: "fox", name: "Fox", emoji: "🦊" },
+  { id: "vulpera", name: "Vulpera", emoji: "🦊" },
 
 { id: "fly", name: "Fly", emoji: "🪰" },
 
@@ -2972,7 +2973,6 @@ export const elements: {
 { id: "fire_hose", name: "Fire Hose", emoji: "🧑‍🚒" },
 { id: "fire_sprinkler", name: "Fire Sprinkler", emoji: "🚿" },
 { id: "fire_truck", name: "Fire Truck", emoji: "🚒" },
-{ id: "firefox", name: "Firefox", emoji: "🦊" },
 { id: "fireman", name: "Fireman", emoji: "🧑‍🚒" },
 { id: "fireplace", name: "Fireplace", emoji: "🔥" },
 { id: "firewoman", name: "Firewoman", emoji: "👩‍🚒" },
@@ -2994,7 +2994,6 @@ export const elements: {
 { id: "fortune_cookie", name: "Fortune Cookie", emoji: "🥠" },
 { id: "fossil", name: "Fossil", emoji: "🦴" },
 { id: "fountain", name: "Fountain", emoji: "⛲" },
-{ id: "fox", name: "Fox", emoji: "🦊" },
 { id: "france", name: "France", emoji: "🇫🇷" },
 { id: "frankenstein", name: "Frankenstein", emoji: "🧟" },
 { id: "french_fries", name: "French Fries", emoji: "🍟" },
@@ -4302,7 +4301,6 @@ export const elements: {
 { id: "fighter", name: "Fighter", emoji: "✈️" },
 { id: "film_camera", name: "Film Camera", emoji: "📹" },
 { id: "finland", name: "Finland", emoji: "🇫🇮" },
-{ id: "firefox", name: "Firefox", emoji: "🦊" },
 { id: "fireman", name: "Fireman", emoji: "👨‍🚒" },
 { id: "fireplace", name: "Fireplace", emoji: "🔥" },
 { id: "firewood", name: "Firewood", emoji: "🪵" },
