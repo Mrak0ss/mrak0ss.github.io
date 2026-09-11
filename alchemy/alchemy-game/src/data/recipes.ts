@@ -2836,6 +2836,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "calcium+coal": "calcite",
 "frog+human": "murloc",
+  "fox+human": "vulpera",
 "human+paint": "artist",
 "safe+philosophy": "container",
 "blade+paper": "confetti",
