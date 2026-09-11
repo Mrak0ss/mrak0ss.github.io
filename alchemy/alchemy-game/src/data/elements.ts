@@ -4952,4 +4952,10 @@ export const elements: {
   { id: "lens", name: "Lens", emoji: "🔍" },
 { id: "camera_lens", name: "Camera Lens", emoji: "📷" },
 { id: "lunette", name: "Lunette", emoji: "👓" },
+  { id: "ribs", name: "Ribs", emoji: "🍖" },
+  { id: "lion", name: "Lion", emoji: "🦁" },
+{ id: "letter", name: "Letter", emoji: "✉️" },
+{ id: "laundry", name: "Laundry", emoji: "🧺" },
+{ id: "lantern", name: "Lantern", emoji: "🏮" },
+{ id: "las_vegas", name: "Las Vegas", emoji: "🎰" },
 ];
