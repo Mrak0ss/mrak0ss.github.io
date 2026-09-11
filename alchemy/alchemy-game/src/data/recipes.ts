@@ -7651,4 +7651,16 @@ export const recipes: Record<string, RecipeOutput> = {
 "carbon+zinc": "znc_battery",
   "horse+paint": "zebra",
 "animal+hand": "paw",
+    "stone+wheel": "quern",
+
+"factory+book": "printing_house",
+  "road+stone": "pavement",
+  "order+work": "assembly_line",
+  "cloth+glass": "cellophane",
+  "city+eiffel_tower": "paris",
+  "candy+wood": "lollipop",
+  "gold+rainbow": "leprechaun",
+  "glass+diamond": "lens",
+  "lens+camera": "camera_lens",
+  "lens+lens": "lunette",
 };
