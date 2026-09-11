@@ -7664,4 +7664,10 @@ export const recipes: Record<string, RecipeOutput> = {
   "glass+diamond": "lens",
   "lens+camera": "camera_lens",
   "lens+lens": "lunette",
+  "bbq+pig": "ribs",
+  "cat+desert": "lion",
+
+"clothing+washing_machine": "laundry",
+"lamp+metal": "lantern",
+"city+desert": "las_vegas",
 };
