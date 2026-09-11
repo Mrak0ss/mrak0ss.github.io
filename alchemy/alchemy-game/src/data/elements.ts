@@ -4943,4 +4943,5 @@ export const elements: {
 { id: "znc_battery", name: "ZnC Battery", emoji: "🔋" },
   { id: "gas_mask", name: "Gas Mask", emoji: "😷" },
   { id: "fart", name: "Fart", emoji: "💨" },
+{ id: "paw", name: "Paw", emoji: "🐾" },
 ];
