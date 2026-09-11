@@ -7601,11 +7601,11 @@ export const recipes: Record<string, RecipeOutput> = {
 "map+star": "star_chart",
 "metal+robot+steam": "steam_turbine",
 "insect+tree": "stick_insect",
-"coal+fire+stone": "stove",
+
 "cereals+metal": "straw",
-"bacteria+stone": "stromatolites",
+
 "boat+oxygen_container": "submarine",
-"sugar+water": "sugar_water",
+
 "oxygen+sulfur": "sulfur_dioxide",
 "oxygen+sulfur_dioxide": "sulfur_trioxide",
 "sulfur_trioxide+water": "sulfuric_acid",
