@@ -1314,7 +1314,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "land+ocean": "continent",
 "land+sea": "continent",
 "earth+space": "planet",
-"opposite+ yin_yang": "chaos",
 "new+old": "opposite",
 "day+night": "opposite",
 "cold+hot": "opposite",
@@ -3512,6 +3511,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "speed+video_game": ["speedrun", "need_for_speed"],
 
 "opposite+snail": "speed",
+  "opposite+small": "big",
 
 "opposite+speed": "slow",
 "bark+spices": "cinnamon",
