@@ -7658,4 +7658,5 @@ export const recipes: Record<string, RecipeOutput> = {
   "fire+fire+metal": "zinc",
 "carbon+zinc": "znc_battery",
   "horse+paint": "zebra",
+"animal+hand": "paw",
 };
