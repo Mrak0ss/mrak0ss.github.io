@@ -73,16 +73,12 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "bacteria+swamp": "sulfur",
 
-  // 🌊 bacteria + water → plankton
   "bacteria+water": "plankton",
 
-  // 🪱 bacteria + earth → worm
   "bacteria+earth": "worm",
 
-  // 🪨 bacteria + stone → stromatolite
   "bacteria+stone": "stromatolite",
 
-  // 🍶 bacteria + wine → vinegar (you referenced wine but didn’t define it)
   "bacteria+wine": "vinegar",
 "alcohol+grape": "wine",
 
@@ -551,8 +547,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "star+star": "space",
 "space+space": "solar_system",
 
-// ASH RECIPES
-
 "book+fire": "ash",
 "cigarettes+fire": "ash",
 "corpse+fire": "ash",
@@ -577,19 +571,15 @@ export const recipes: Record<string, RecipeOutput> = {
 "light+vampire": "ash",
 "pressure+volcano": "lava",
 "sun+vampire": "ash",
-// ASH RESULT RECIPES
 
 "ash+fat": "soap",
 "ash+glass": "ashtray",
 "ash+lava": "volcano",
 "ash+life": "ghost",
 "bird+fire": "phoenix",
-// AVIAN FLU RECIPES
 
 "bird+flu": "avian_flu",
 "chicken+flu": "avian_flu",
-
-// B ELEMENTS
 
 "human+woman": "baby",
 "baby+time": "child",
@@ -625,8 +615,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "seed+sugar": "beetroot",
 "air+sugar": "cotton_candy",
 "cloud+sugar": "cotton_candy",
-
-// SAMPLE C RECIPES
 
 "bread+cream": "cake",
 "dough+sweet": "cake",
@@ -709,7 +697,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "human+tobacco": "cancer",
 "tobacco+woman": "cancer",
 "cancer+time": "corpse",
-// CAT RECIPES
 
 "animal+yarn": "cat",
 
@@ -778,26 +765,18 @@ export const recipes: Record<string, RecipeOutput> = {
 "loop+loop": "infinity",
 "metal+coal": "steel",
 "human+robot": "cyborg",
-// DAM
-
 
 "beaver+branch": "dam",
 "beaver+stick": "dam",
 "beaver+tree": "dam",
 "dam+river": "lake",
 
-// DIET
-
 "diet+obesity": "human",
 "human+yogurt": "diet",
-
-// DINOSAUR
 
 "earth+egg": "dinosaur",
 "big+lizard": "dinosaur",
 "dinosaur+dinosaur": "egg",
-
-// DINOSAUR RESULTS
 
 "air+dinosaur": "pterodactyl",
 "dinosaur+earth": "fossil",
@@ -805,193 +784,105 @@ export const recipes: Record<string, RecipeOutput> = {
 "dinosaur+stone": "fossil",
 "dinosaur+water": "plesiosauria",
 
-// BLOOD / HUNTER INTERACTIONS
-
 "dinosaur+hunter": "corpse",
 "dinosaur+human": "corpse",
 "dinosaur+warrior": "corpse",
 
-// FOSSIL CHAIN
-
 "butterfly+earth": "fossil",
 "pterodactyl+earth": "fossil",
 
-
-
-
-// ZOMBIE
-
-
 "corpse+life": "zombie",
-
-// ZOMBIE RESULTS
-
 
 "paper+zombie": "mummy",
 "electricity+zombie": "frankenstein",
 
-
-// GOLEM
-
 "clay+life": "golem",
 "golem+life": "human",
 
-// ZOO CHAIN
-
 "animal+museum": "zoo",
 
-// EXTRA RELATED CHAINS
-
 "coffin+earth": "grave",
-// E-BOOK
 
 "book+micro": "e_book",
-
-// EGYPT
 
 "country+mummy": "egypt",
 "country+scarab": "egypt",
 
-// ELECTRIC EEL
-
 "electricity+snake": "electric_eel",
-
-// ELECTRIC RAY
 
 "electricity+fish": "electric_ray",
 
-// ELECTRICITY
-
-
 "glass+wool": "electricity",
-
-// ELEPHANT
 
 "earth+whale": "elephant",
 "animal+india": "elephant",
 "country+elephant": "india",
 
-// ENERGY
-
 "fire+peat": "energy",
 "lava_golem+water": "energy",
 
-// EXPLOSION
-
 "fire+gasoline": "explosion",
-
-// EXTRA ELECTRICITY RESULTS
 
 "electricity+metal": "wire",
 
-// EXTRA EGG RESULTS
-
 "air+egg": "bird",
-
-// EXTRA EXPLOSION RESULTS
 
 "explosion+metal": "bomb",
 "explosion+stone": "dust",
 
-
-// FISH
-
 "animal+water": "fish",
 "egg+water": "fish",
 
-// FLOUR
-
-
 "wheat+windmill": "flour",
-
-// FOG
-
 
 "cloud+swamp": "fog",
 "swamp+worm": "snake",
 
-// FRUIT
-
 "flower+tree": "fruit",
 "sun+tree": "fruit",
-
-// FIREPLACE
 
 
 "fire+house": "fireplace",
 
-// FIREMAN
-
 "fire+hero": "fireman",
-
-// FLUTE
 
 "music+wood": "flute",
 "wind+wood": "flute",
-// FOX
 
 "chicken+hunter": "fox",
 
-// FLY
-
 "air+insect": "fly",
-
-// FLOWER
 
 "plant+sun": "flower",
 
-// EXTRA FLOUR RESULTS
-
 "flour+egg": "pasta",
-
-// EXTRA FRUIT RESULTS
-
 
 "fruit+water": "juice",
 "fruit+pressure": "juice",
-// FABERGE EGG
 
 "egg+jewelry": "faberge_egg",
 "diamond+egg": "faberge_egg",
 "egg+ruby": "faberge_egg",
 
-// SALO
-
 "knife+pig": ["fat", "salo"],
-
-// FERN
 
 "moss+swamp": "fern",
 
-// FINLAND
-
 "country+sauna": "finland",
-
-// FISHERMAN
 
 "fish+human": "fisherman",
 "fish+hunter": "fisherman",
 "human+fishing_rod": "fisherman",
 "bamboo+fisherman": "fishing_rod",
 
-// FONDUE
-
 "cheese+fire": "fondue",
-
 
 "country+eiffel_tower": "france",
 "country+perfume": "france",
 
-// FRIED CHICKEN
-
 "chicken+fire": "fried_chicken",
 
-// FUGU
-
 "fish+poison": "fugu",
-
-// EXTRA RESULT CHAINS FROM THESE ELEMENTS
-
 
 "fisherman+water": "boat",
 
@@ -1002,94 +893,57 @@ export const recipes: Record<string, RecipeOutput> = {
 "fried_chicken+human": "colonel",
 
 "fugu+human": "corpse",
-// GHOSTBUSTERS
 
 "ghost+hunter": "ghostbusters",
 
-// HEN COOP
-
 "chicken+house": "hen_coop",
-
-// HONEY
 
 "bee+flower": "honey",
 "bee+sugar": "honey",
 "bee+time": "honey",
 
-// HOUSE M.D.
-
 "doctor+house": "house_m_d",
 "doctor+vicodin": "house_m_d",
 
-// HYDROGEN
-
 "electricity+water": ["hydroelectricity", "hydrogen"],
 
-// EXTRA RESULTS FROM THESE ELEMENTS
-
-
 "hen_coop+egg": "chicken",
-
 
 "hydrogen+oxygen": "water",
 
 "hydrogen+fire": "explosion",
 
-
 "house+human": "family",
-// ITALY
 
 "country+venice": "italy",
 "country+pizza": "italy",
 
-// IODINE
-
 "algae+fire": "iodine",
-
-// IDEA
 
 "human+lightbulb": "idea",
 "lightbulb+woman": "idea",
-
-// ICELAND
 
 "country+volcano": "iceland",
 "country+ice": "iceland",
 
 "fish+seaweed": "sushi",
 
-// JAPAN
-
 "country+sushi": "japan",
 "country+sun": "japan",
 "country+totoro": "japan",
 
-// KILT
-
 "clothing+scotland": "kilt",
-
-// KNIFE
 
 "meat+tool": "knife",
 
-// EXTRA ITALY RESULTS
-
 "car+italy": "fiat",
-
-// EXTRA IDEA RESULTS
 
 "idea+sound": "music",
 
-// EXTRA ICELAND RESULTS
-
 "iceland+fire": "volcano",
-
-// EXTRA JAPAN RESULTS
 
 "japan+monster": "godzilla",
 "japan+robot": "gundam",
-
-// EXTRA KNIFE RESULTS
 
 "knife+knife": "scissors",
 "blade+blade": "scissors",
@@ -1099,78 +953,48 @@ export const recipes: Record<string, RecipeOutput> = {
 "animal+knife": "skin",
 "cow+knife": "skin",
 
-// RELATED CHAINS
-
 "metal+wind": "sound",
 "sound+wire": "phone",
 
 "forest+ghost": "totoro",
 
-// PIZZA
-
 "cheese+dough": "pizza",
 "dough+tomato": "pizza",
-
-// SUSHI
 
 "fish+rice": "sushi",
 "algae+fish": "sushi",
 
-// STAKE
-
 "vampire+wood": "stake",
 "knife+wood": "stake",
-
-// PEAT
 
 "plant+swamp": "peat",
 "pressure+swamp": "peat",
 "swamp+time": "peat",
 "swamp+tree": "peat",
 
-// SCOTCH WHISKY
-
 "alcohol+scotland": "scotch_whisky",
 "alcohol+peat": "scotch_whisky",
 "alcohol+smoke": "scotch_whisky",
-
-// SCOTLAND
 
 "bagpipe+country": "scotland",
 "country+kilt": "scotland",
 "country+scotch_whisky": "scotland",
 
-
-// EXTRA SUSHI RESULTS
-
 "sushi+country": "japan",
 "sushi+human": "cook",
 
-// EXTRA STAKE RESULTS
-
 "stake+vampire": "corpse",
-
-// EXTRA PEAT RESULTS
 
 "peat+pressure": "coal",
 
-// EXTRA SCOTCH WHISKY RESULTS
-
 "scotch_whisky+human": "drunk",
-
-// EXTRA SCOTLAND RESULTS
 
 "cloth+scotland": "kilt",
 "music+scotland": "bagpipe",
 
-
-// LEECH
-
 "blood+worm": "leech",
 
 "metal+thunder": "lightning_rod",
-
-// EXTRA RESULTS
 
 "corpse+lightning_rod": "frankenstein",
 
@@ -1178,37 +1002,20 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "corpse+electricity": "frankenstein",
 
-
-// LIMESTONE
-
 "shell+stone": "limestone",
 
-// LIME
-
 "fire+limestone": "lime",
-
-// LOBSTER
 
 "crab+water": "lobster",
 "scorpion+water": "lobster",
 
-// SCORPION
-
 "beetle+sand": "scorpion",
-
-// SUGAR
 
 "lime+reed": "sugar",
 
-// SALTPETER
-
 "limestone+manure": "saltpeter",
 
-// EXTRA SCORPION RESULTS
-
 "scorpion+tool": "poison",
-
-// EXTRA SALTPETER RESULTS
 
 "saltpeter+sulfur": "gunpowder",
 
@@ -1232,57 +1039,35 @@ export const recipes: Record<string, RecipeOutput> = {
 "animal+sugar": "ant",
 "engineer+sugar": "willy_wonka",
 
-// MUSEUM
-
 "fossil+house": "museum",
 "building+history": "museum",
-
-// MOLOTOV COCKTAIL
 
 "bottle+fire": "molotov_cocktail",
 "alcohol+cloth": "molotov_cocktail",
 "alcohol+fire": "molotov_cocktail",
 
-// MITE
-
 "dust+life": "mite",
-
-// MICROCHIP
 
 "computer+metal": "microchip",
 "silicon+transistor": "microchip",
 "silicon+silicon": "microchip",
 
-
-// MENTOS
-
 "mint+sugar": "mentos",
 "coca_cola+geyser": "mentos",
-
-// MCDONALDS
 
 "capitalism+hamburger": "mcdonalds",
 "coca_cola+sandwich": "mcdonalds",
 
-// MANURE
-
 "grass+livestock": "manure",
 
-// EXTRA RESULTS (ZED-STYLE CHAINS)
-
-// MUSHROOM SYSTEMS
 "forest+mushroom": "mycelium",
 
-// MUSEUM SYSTEM
 "fossil+museum": "knowledge",
 
-// MICROCHIP SYSTEM
 "human+microchip": "cyborg",
 
-// MCDONALDS SYSTEM
 "human+mcdonalds": "obesity",
 
-// MANURE SYSTEM
 "manure+time": "fertilizer",
 "beetle+manure": "scarab",
 
@@ -3960,8 +3745,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "human+bird": "angel",
 
-// USER_PROVIDED
-
 "cinema+spy": "james_bond",
 "spy+united_kingdom": "james_bond",
 
@@ -5500,8 +5283,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "dinosaur+king": "tyrannosaurus_rex",
   "rainbow+rainbow": "double_rainbow",
 
-  // U
-
 "alien+container": "ufo",
 "alien+sky": "ufo",
 "alien+space_station": "ufo",
@@ -5516,9 +5297,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "container+galaxy_cluster": "universe",
 "container+space": "universe",
 "galaxy_cluster+galaxy_cluster": "universe",
-
-
-// V
 
 "broom+electricity": "vacuum_cleaner",
 "broom+machine": "vacuum_cleaner",
@@ -5592,9 +5370,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "desert+owl": "vulture",
 "desert+penguin": "vulture",
 "desert+pigeon": "vulture",
-
-
-// W
 
 "cart+cow": "wagon",
 "cart+horse": "wagon",
@@ -5727,9 +5502,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "book+human": "writer",
 "human+pencil": "writer",
 
-
-// Y
-
 "antarctica+legend": "yeti",
 "glacier+legend": "yeti",
 "legend+mountain": "yeti",
@@ -5740,9 +5512,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "immortality+tree": "yggdrasil",
 
 "bacteria+ice_cream": "yogurt",
-
-
-// Z
 
 "god+mount_olympus": "zeus",
 "god+sky": "zeus",
@@ -7670,4 +7439,19 @@ export const recipes: Record<string, RecipeOutput> = {
 "clothing+washing_machine": "laundry",
 "lamp+metal": "lantern",
 "city+desert": "las_vegas",
+
+"diamond+flower": "woman",
+"diamond+perfume": "woman",
+"flower+perfume": "woman",
+"human+milk": "woman",
+"cloth+woman": "clothing",
+"gun+woman": "soldier",
+"fish+woman": "mermaid",
+"scientist+woman": "library",
+"obesity+woman": "mcdonalds",
+"poison+woman": "corpse",
+"steam+woman": "sauna",
+"woman+tobacco": "cancer",
+"vampire+woman": "twilight_saga",
+"woman+yogurt": "diet",
 };
