@@ -4117,7 +4117,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "ant+human": "dwarf",
 
-"decomposition+head": "ear",
+"decomposition+head": "ears",
 
 "ears+ring": "earrings",
 
