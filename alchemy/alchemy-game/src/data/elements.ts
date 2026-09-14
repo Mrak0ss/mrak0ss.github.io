@@ -4958,4 +4958,5 @@ export const elements: {
 { id: "laundry", name: "Laundry", emoji: "🧺" },
 { id: "lantern", name: "Lantern", emoji: "🏮" },
 { id: "las_vegas", name: "Las Vegas", emoji: "🎰" },
+  { id: "islam", name: "Islam", emoji: "☪️" },
 ];
