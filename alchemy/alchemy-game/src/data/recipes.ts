@@ -7454,4 +7454,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "woman+tobacco": "cancer",
 "vampire+woman": "twilight_saga",
 "woman+yogurt": "diet",
+  "desert+god": "islam",
+"desert+religion": "islam",
 };
