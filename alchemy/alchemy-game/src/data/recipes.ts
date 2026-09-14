@@ -7455,4 +7455,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "woman+yogurt": "diet",
   "desert+god": "islam",
 "desert+religion": "islam",
+  "peacock+scissors": "tail",
+  "fox+scissors": "tail",
+  "dog+scissors": "tail",
 };
