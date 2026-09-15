@@ -2826,7 +2826,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "skin+thorn": "sting",
 "life+pressure": "stress",
 "heat+skin": "sweat",
-"coin+head": "tails",
+"coin+head": "tail",
 "drop+salt": "tear",
 "feather+skin": "tickle",
 "dentist+tool": "tooth",
