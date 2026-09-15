@@ -7164,7 +7164,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "gift+jeep": "lexus",
 "book+building": "library",
 "ladder+skyscraper": "lift",
-"cigarettes+fire": "lighter",
+"cigarettes+fire+tool": "lighter",
 "bonfire+mirror": "lighthouse",
 "laser+sword": "lightsaber",
 "lemon+paint": "lime",
