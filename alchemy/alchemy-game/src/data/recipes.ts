@@ -119,7 +119,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "book+book": "library",
 "book+house": "library",
 "feather+paper": "book",
-"skin+paper": "book",
+"paper+skin": "book",
 "ink+paper": "book",
 "tool+tree": "wood",
   "tool+tool": "machine",
@@ -1868,7 +1868,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "laundry+wood": "clip",
 "ice+meteor": "comet",
 "silver+tool": "cutlery",
-"skin+clothing": "case",
+"clothing+skin": "case",
 "statue+tool": "chisel",
 "toys+wheel": "carousel",
 
