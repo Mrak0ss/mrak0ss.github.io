@@ -5705,7 +5705,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "house+straw": "barn",
 "alcohol+fir": "gin",
 "bacteria+sugar": "yeast",
-"snowboard+stick": "ski",
+"snowboard+stick": "skis",
 "moss+taiga": "reindeer_moss",
 "animal+reindeer_moss": "northern_deer",
 "crayfish+sea": "lobster",
