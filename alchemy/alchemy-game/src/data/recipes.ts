@@ -4732,10 +4732,10 @@ export const recipes: Record<string, RecipeOutput> = {
 "dog+sea": "seal",
 "dog+water": "seal",
 
-"airplane+lake": "seaplane",
-"airplane+ocean": "seaplane",
-"airplane+sea": "seaplane",
-"airplane+water": "seaplane",
+"lake+plane": "seaplane",
+"ocean+plane": "seaplane",
+"plane+sea": "seaplane",
+"plane+water": "seaplane",
 
 "boat+illness": "seasickness",
 "illness+lake": "seasickness",
@@ -4954,7 +4954,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "space+village": "space_station",
 "space+wall": "space_station",
 
-"airplane+space": "spaceship",
+"plane+space": "spaceship",
 "astronaut+container": "spaceship",
 "boat+space": "spaceship",
 "car+space": "spaceship",
@@ -6799,7 +6799,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "genie+ussr": "hottabych",
 "forest+rifle": "hunter",
 "building+waterfall": "hydroelectric_station",
-"airplane+skis": "hydroplane",
+"plane+skis": "hydroplane",
 
   "animal+paint": "zebra",
 "butterfly+scales": "zero",
@@ -6873,7 +6873,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "bone+smile": "tooth",
 
 "fire+petrol": "torch",
-"airplane+human": "tourist",
+"human+plane": "tourist",
 
 "england+fortress": "tower",
 "light+road": "traffic_light",
@@ -7044,7 +7044,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "alcohol+pineapple": "pina_colada",
 "fairy_tale+golden_key": "pinocchio",
-"airplane+building": "plane_hangar",
+"building+plane": "plane_hangar",
 "hare+love": "playboy",
 "disneyland+dog": "pluto",
 "billiards+target": "pocket",
