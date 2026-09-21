@@ -25,7 +25,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "fire+magma": "lava",
 "air+lava": "stone",
 "coal+pressure": "diamond",
-
  
   "pressure+stone": "granite",
   "fire+tree": "coal",
@@ -36,7 +35,6 @@ export const recipes: Record<string, RecipeOutput> = {
   "earth+seed": "tree",
 
   "stone+wind": "sand",
-
 
   "fire+stone": "metal",
 
@@ -557,7 +555,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "fire_elemental+water": "ash",
 
-
 "fire+moss": "ash",
 "fire+paper": "ash",
 "fire+snake": "ash",
@@ -716,11 +713,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "lightbulb+tree": "christmas_tree",
 "christmas_tree+old_man": "santa",
 
-
 "paper+tobacco": "cigarettes",
-
-
-
 
 "mexico+seed": "cocoa",
 
@@ -3483,7 +3476,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "book+of_the_dead+container": "pyramid",
 
-
 "black_magic+human": "sacrifice",
 
 "animal+black_magic": "sacrifice",
@@ -3638,7 +3630,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "corpse+story": ["frankenstein", "zombie"],
 
-
 "cthulhu+story": "necronomicon",
 
 "garden+story": "gnome",
@@ -3787,7 +3778,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "glass+horizon": "binoculars",
 
-
 "air+life": "bird",
 
 "bird+house": "birdhouse",
@@ -3815,7 +3805,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "thunder+tree": "christmas_tree",
 
-
 "tree+night": "carbon_dioxide",
 "night+plant": "carbon_dioxide",
 
@@ -3832,10 +3821,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "metal+witch": "cauldron",
 "steel+witch": "cauldron",
 
-
-
 "sun+snowman": "carrot",
-
 
 "car+phone": "carpool",
 "taxi+taxi": "carpool",
@@ -3863,7 +3849,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "desert+livestock": "camel",
 
 "day+note": "calendar",
-
 
 "desert+plant": "cactus",
 "plant+sand": "cactus",
@@ -3901,9 +3886,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "flower+gift": "bouquet",
 
-
 "book+shop": "bookshop",
-
 
 "tree+pottery": "bonsai_tree",
 "tree+scissors": "bonsai_tree",
@@ -3915,7 +3898,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "blade+glass": "blender",
 
 "glasses+horizon": "binoculars",
-
 
 "human+sleep": "bed",
 
@@ -3932,17 +3914,13 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "fireplace+wool": "christmas_stocking",
 
-
 "star+tree": "christmas_tree",
-
-
 
 "line+octagon": "circle",
 
 "saw_blade+tool": "circular_saw",
 
 "elephant+tent": "circus",
-
 
 "skyscraper+skyscraper": "city",
 
@@ -3952,18 +3930,12 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "mud+sand": "clay",
 
-
-
 "electricity+time": "clock",
 "time+wheel": "clock",
 
 "clothing+house": "closet",
 
-
-
 "cloud+hdd": "cloud_storage",
-
-
 
 "clown+fish": "clownfish",
 
@@ -3976,10 +3948,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "coconut+tool": "coconut_milk",
 "coconut+milk": "coconut_milk",
 
-
 "analysis+money": "coin",
-
-
 
 "hair+tool": "comb",
 
@@ -4008,19 +3977,11 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "windows+woman": "cortana",
 
-
-
 "cotton+sugar": "cotton_candy",
-
-
-
-
 
 "human+lasso": "cowboy",
 
 "brain+computer": "cpu",
-
-
 
 "baby+bed": "crib",
 
@@ -4129,8 +4090,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "book+electricity": "e_book",
 
-
-
 "bird+bird": "egg",
 "life+rock": "egg",
 "lizard+lizard": "egg",
@@ -4148,9 +4107,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "france+steel": "eiffel_tower",
 
 "electricity+toothbrush": "electric_toothbrush",
-
-
-
 
 "light+solar_cell": "electricity",
 "solar_cell+sun": "electricity",
@@ -4174,9 +4130,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "human+internet": "facebook",
 
 "company+house": "factory",
-
-
-
 
 "human_torch+the_thing": "fantastic_four",
 
@@ -4208,7 +4161,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "light+tool": "flashlight",
 
-
 "rain+time": "flood",
 
 "computer+memory": "floppy_disk",
@@ -4219,16 +4171,12 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "dinosaur+rock": "fossil",
 
-
 "animal+chicken": "fox",
 
 "country+croissant": "france",
 "cheese+country": "france",
 
-
-
 "oil+vegetable": "french_fries",
-
 
 "electricity+cold": "fridge",
 "ice+metal": "fridge",
@@ -5183,7 +5131,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "magic+ring": "the_one_ring",
 
-
 "god+thunder": "thor",
 "god+storm": "thor",
 
@@ -5675,7 +5622,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "desert+shellfish": "scorpion",
 "bug+water": "water_strider",
 "bee+pollen": "honey",
-
 
 "reed+worm": "fishing_rod",
 "reed+water": "lake",
@@ -6873,13 +6819,10 @@ export const recipes: Record<string, RecipeOutput> = {
 "bone+smile": "tooth",
 
 "fire+petrol": "torch",
-"human+plane": "tourist",
 
 "england+fortress": "tower",
 "light+road": "traffic_light",
 "bus+electricity": "tram",
-
-
 
 "pit+soldier": "trench",
 "bus+horns": "trolleybus",
@@ -7096,8 +7039,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "earth+road": "map",
 "planet+war": "mars",
 "umbrella+woman": "mary_poppins",
-
-
 
 "lenin+moscow": "mausoleum",
 "road+treasures": "maze",
