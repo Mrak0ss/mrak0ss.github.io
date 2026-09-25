@@ -1693,6 +1693,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "metal+whirlpool": "screw",
 "microchip+scientist": "computer",
 "moon+radio_wave": "satellite",
+  "metal+radio_wave": "antenna",
 "paper+wood": "kite",
 "toy+wind": "fan",
 "sunflower+tool": "oil",
@@ -1960,6 +1961,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "bald_rat+yorkshire_terrier": "chihuahua",
 "dragon+pikachu": "charmander",
 "aye_aye+mickey_mouse": "cheburashka",
+  "monkey+russia": "cheburashka",
 "cartoon+cat": "cheshire_cat",
 "hamster+rhino": "chinchilla",
 "monster+star_wars": "chewbacca",
@@ -1999,6 +2001,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "beaver+dove": "duck",
 "beaver+scorpion": "duckbill",
+  "island+lemur": "madagascar",
 
 "cartoon+elephant": "dumbo",
 "dwarf+octopus": "dumbo_octopus",
@@ -2135,7 +2138,16 @@ export const recipes: Record<string, RecipeOutput> = {
 "mantis+shrimp": "mantis_shrimp",
 "cat+pig": "manul",
 
-
+"cloud+microsoft": "microsoft_azure",
+"watch+microsoft": "microsoft_band",
+"internet_explorer+time": "microsoft_edge",
+"microsoft+numbers": "microsoft_excel",
+"microsoft+note": "microsoft_onenote",
+"e_mail+microsoft": "microsoft_outlook",
+"microsoft+presentation": "microsoft_powerpoint",
+"microsoft+text": "microsoft_word",
+  "airport+metal": "metal_detector",
+  
 "cat+pikachu": "meowth",
 
 "cartoon+mouse": "mickey_mouse",
@@ -2402,14 +2414,16 @@ export const recipes: Record<string, RecipeOutput> = {
 "country+jungle": "brazil",
 
 "hero+star": "captain_picard",
+  "hero+star_wars": "luke_skywalker",
 
 "captain_picard+spaceship": "uss_enterprise",
 
 "oxygen+science": "chemistry",
 
-"knight+wood": "chess",
+"knight+wood": ["chess", "chess_knight"],
 
 "internet+google": "google_chrome",
+  "apple+computer": "mac",
 
 "arena+rome": "colosseum",
 "italy+monument": "colosseum",
@@ -2974,6 +2988,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "human+philosophy": "thinker",
 "grave+thief": "tomb_raider",
 "animal+doctor": "veterinarian",
+  "cpu+source_code": "app",
 
 "government+terminator": "arnold_schwarzenegger",
 "gentleman+thief": "arsene_lupin",
@@ -3667,6 +3682,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "evil+wizard": "necromancer",
 "curse+wizard": "necromancer",
 "curse+witch": "necromancer",
+  "popcorn+vegetable": "corn",
 
 "demon+monster": "oni",
 
@@ -3731,6 +3747,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "alien+computer": "android",
 
 "line+line": "angle",
+  "city+dog": "animal_shelter",
 
 "computer+mask": "anonymous",
 
@@ -3748,6 +3765,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "book+website": "amazon",
 
 "austria+mountain_range": "alps",
+  "country+mountain": "austria",
 
 "mountain+mountain": "mountain_range",
 
@@ -3770,13 +3788,19 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "beach+umbrella": "beach_umbrella",
 "sun+umbrella": "beach_umbrella",
-
+"bed+decomposition": "bed_sheets",
 "crayon+robot": "bender",
 "pencil+robot": "bender",
 
 "brain+spoon": "bent_spoon",
+  "sushi+box": "bento_box",
+  "germany+skyscraper": "berlin_tv_tower",
+"united_kingdom+clock": "big_ben",
+"road+image": "billboard",
+"website+microsoft": "bing",
 
 "glass+horizon": "binoculars",
+  "tree+russia": "birch",
 
 "air+life": "bird",
 
@@ -3786,6 +3810,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "night+paint": "black",
 
 "hole+space": "black_hole",
+  "glass+blade": "blender",
 
 "bird+livestock": "chicken",
 "egg+livestock": "chicken",
@@ -3831,12 +3856,11 @@ export const recipes: Record<string, RecipeOutput> = {
 "car+rain": "car_wipers",
 "car+soap": "car_wash",
 
-"wheel+metal": "car",
-
-"shield+hero": "captain_america",
+"hero+shield": "captain_america",
 
 "boy+hat": "cap",
 "girl+hat": "cap",
+  "house+spain": "casa_batillo",
 
 "gunpowder+castle": "cannon",
 
@@ -3854,6 +3878,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "plant+sand": "cactus",
 
 "car+mountain": "cable_car",
+  "caterpillar+pokemon": "caterpie",
 
 "milk+energy": "butter",
 
@@ -3893,6 +3918,8 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "dvd+time": "blu_ray",
 
+"book+time": "bookmark",
+"gate+germany": "brandenburg_gate",
 "paint+sky": "blue",
 
 "blade+glass": "blender",
@@ -3907,6 +3934,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "house+fireplace": "chimney",
 
 "fire+pepper": "chilli_pepper",
+  "castle+mexico": "chichen_itza",
 
 "cacao+sugar": "chocolate",
 
@@ -4013,7 +4041,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "darth_vader+star": "death_star",
 
-"brain+problem": "decomposition",
+"brain+problem": ["analysis", "decomposition"],
 
 "box+car": "delivery_truck",
 
@@ -4021,12 +4049,14 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "country+windmill": "denmark",
 "country+lego_brick": "denmark",
+  "tooth+metal": "dental_braces",
 
 "cactus+sand": "desert",
 
 "magnifying_glass+thief": "detective",
 
 "detective+hat": "detective_hat",
+  "astronaut+head": "astronaut_helmet",
 
 "angel+pitchfork": "devil",
 "angel+fire": "devil",
@@ -4053,6 +4083,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "spain+windmill": "don_quixote",
 
 "alarm_clock+door": "door_alarm",
+  "ninja_cat+woman": "dona_sarkar",
 
 "door+paper": "door_hanger",
 
@@ -4063,8 +4094,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "bed+bed": "double_bed",
 
 "dragon+pokemon": "dratini",
-
-"clothing+female": "dress",
 
 "skin+wood": "drum",
 
@@ -4098,7 +4127,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "box+pokemon_egg": "egg_incubator",
 "glass+pokemon_egg": "egg_incubator",
 
-
 "egg+watch": "egg_timer",
 
 "country+pyramid": "egypt",
@@ -4120,6 +4148,17 @@ export const recipes: Record<string, RecipeOutput> = {
 "love+ring": "engagement_ring",
 
 "book+tablet": "e_reader",
+  "bow+wood": "chess_bishop",
+"clock+chess_bishop": "chess_clock",
+"clock+chess_king": "chess_clock",
+"clock+chess_knight": "chess_clock",
+"clock+chess_pawn": "chess_clock",
+"clock+chess_queen": "chess_clock",
+"clock+chess_rook": "chess_clock",
+"king+wood": "chess_king",
+"soldier+wood": "chess_pawn",
+"queen+wood": "chess_queen",
+"castle+wood": "chess_rook",
 
 "coin+internet": ["ethereum", "bitcoin"],
 
@@ -4185,6 +4224,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "alcohol+beach": "fruit_punch",
 
 "boy+professor": "fry",
+  "human+ninja_cat": "gabe_aul",
 
 "constellation+star": "galaxy",
 "constellation+constellation": "galaxy",
@@ -4254,7 +4294,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "antenna+earth": "gps",
 "antenna+the_earth": "gps",
 
-"female_graduate+hat": "graduate_hat",
 "graduate+hat": "graduate_hat",
 
 "music+needle": "gramophone",
@@ -4278,7 +4317,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "hero+ring": "green_lantern",
 
 "glass+plant": "greenhouse",
-
 
 "human+scythe": "grim_reaper",
 "corpse+scythe": "grim_reaper",
@@ -4311,6 +4349,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "house+time": "haunted_house",
 
 "avengers+bow": "hawkeye",
+  "captain_america+ironman": "avengers",
 
 "farmer+grass": "hay",
 
@@ -4324,7 +4363,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "fence+plant": "hedge",
 "fence+leaf": "hedge",
-
 
 "plane+windmill": "helicopter",
 
@@ -4353,7 +4391,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "livestock+horseshoe": "horse",
 
 "horse+metal": "horseshoe",
-
 
 "ambulance+house": "hospital",
 
@@ -7399,4 +7436,13 @@ export const recipes: Record<string, RecipeOutput> = {
   "peacock+scissors": "tail",
   "fox+scissors": "tail",
   "dog+scissors": "tail",
+
+  "student+time": "graduate",
+"boy+university": "student",
+"human+factory": "worker",
+"japan+cat": "maneki",
+"monkey+pokemon": "mankey",
+"ball+glass": "marble",
+"ultra_ball+ultra_ball": "master_ball",
+"doll+wood": "matryoshka",
 };
