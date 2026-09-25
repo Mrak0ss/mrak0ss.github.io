@@ -3918,7 +3918,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "dvd+time": "blu_ray",
 
-"book+time": "bookmark",
 "gate+germany": "brandenburg_gate",
 "paint+sky": "blue",
 
@@ -7465,7 +7464,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "bomb+rocket": "missile",
 "sky+train": "monorail",
-"hero+the_matrix": "morpheus",
+"hero+the_matrix": ["morpheus", "neo"],
 "boy+rick_sanchez": "morty",
 "bicycle+mountain": "mountain_bike",
   "movie+music": "movie_soundtrack",
@@ -7473,7 +7472,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "bread+india": "naan",
 "company+space": "nasa",
-"hero+the_matrix": "neo",
 "glasses+human": "nerd",
 "country+windmill": "netherlands",
 "computer+computer": "network",
