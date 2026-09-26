@@ -3903,7 +3903,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "mud+sun": "brick",
 
-"baby+car": "boy",
+
 
 "cube+paper": "box",
 
@@ -4200,7 +4200,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "rain+time": "flood",
 
-"computer+memory": "floppy_disk",
+"computer+memory": ["floppy_disk", "ram_memory"],
 
 "rock+wheat": "flour",
 
@@ -6076,7 +6076,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "bed+human": "sleep",
 "fish+kite": "manta_ray",
-"needle+paper": "punched_card",
+"needle+paper": ["punched_card", "pin"],
 "gravity+soil": "planet",
 
 "money+skin": "wallet",
@@ -7384,7 +7384,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "draw_well+pump+tower": "water_tower",
 "metal+water+water": "water_turbine",
 
-
 "mammal+water": "water_mammals",
 "rope+vegetable_oil": "wick",
 "nonruminants+nuts": "boar",
@@ -7504,14 +7503,13 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "bird+pokemon": "pidgey",
 "seaplane+human": "pilot",
-"needle+paper": "pin",
+
 "lamp+life": "pixar_lamp",
 "eye+planet": "planetarium",
 "planet+dwarf": "pluto",
 "decomposition+line": "point",
 "house+pokemon": "pokeball",
 "animal+cartoon": "pokemon",
-"egg+pokemon": "pokemon_egg",
 "map+pokemon": "pokemon_go",
 "bear+ice": "polar_bear",
 "bear+winter": "polar_bear",
@@ -7546,10 +7544,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "ground+train": "railroad_track",
 "railroad_track+railroad_track": "railroad_track_switch",
-"house+train": "railway_station",
-"male+sheep": "ram",
-"computer+memory": "ram_memory",
-"analysis+fruit": "raspberry",
 "ant+computer": "raspberry_pi",
 "computer+raspberry": "raspberry_pi",
 
@@ -7560,9 +7554,9 @@ export const recipes: Record<string, RecipeOutput> = {
 "blood+paint": "red",
 "angle+square": "rhombus",
 "cart+mountain": "roller_coaster",
-"mountain+train": "roller_coaster",
+
 "football+warrior": "rugby",
-"pencil+wood": "ruler",
+
 "money+russia": "russian_ruble",
   "alcohol+rice": "sake",
 
@@ -7584,7 +7578,7 @@ export const recipes: Record<string, RecipeOutput> = {
   "football+house": "stadium",
 "soccer+house": "stadium",
   "image+phone": "selfie",
-"image+phone": "selfie",
+
 "phone+photo": "selfie",
   "robot+the_matrix": "sentinel",
 
@@ -7600,11 +7594,12 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "baby+cart": "stroller",
 "baby+car": "stroller",
+  "baby+blue": "boy",
+  "baby+pink": "boy",
 
 "movie+text": "subtitles",
   "castle+india": "taj_mahal",
 "music+spain": "tango",
-"car+phone": "taxi",
   "japan+castle": "temple",
 "car+computer": "tesla",
 "earth+planet": "the_earth",
