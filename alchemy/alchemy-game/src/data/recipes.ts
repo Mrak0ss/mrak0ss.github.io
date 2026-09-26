@@ -7524,7 +7524,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "garden+water": "pond",
 "dog+wool": "poodle",
 "ice+juice": "popsicle",
-  "wall_socket+wire": "power_plug",
+  "ac_outlet+wire": "power_plug",
 "alien+meat": "predator",
 "image+meeting": "presentation",
 "glass+rainbow": "prism",
@@ -7619,12 +7619,10 @@ export const recipes: Record<string, RecipeOutput> = {
 "ruler+triangle": "triangular_ruler",
 "bicycle+wheel": "tricycle",
 
-"bus+electricity": "trolleybus",
 "fish+sun": "tropical_fish",
 "rose+united_kingdom": "tudor_rose",
-"engineer+mountain": "tunnel",
 "antenna+tv": "tv_antenna",
-"dinosaur+meat": "tyrannosaurus_rex",
+
 "great_ball+great_ball": "ultra_ball",
 "bicycle+clown": "unicycle",
 "school+school": "university",
@@ -7642,12 +7640,10 @@ export const recipes: Record<string, RecipeOutput> = {
 "microsoft+source_code": "visual_studio",
 "computer+video": "vlc",
 "room+time": "waiting_room",
-"electricity+wall": "wall_socket",
+
 "leather+money": "wallet",
-"wizard+wood": "wand",
 "box+house": "warehouse",
 "clothing+soap": "washing_machine",
-
 "window+window": "windows",
 "time+windows_phone": "windows_10_mobile",
 "love+windows": "windows_insider",
@@ -7665,5 +7661,4 @@ export const recipes: Record<string, RecipeOutput> = {
 "sun+paint": "yellow",
   "bat+pokemon": "zubat",
 "hero+storm": "marvel_storm",
-"house+pokemon": "pokeball",
 };
