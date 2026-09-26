@@ -7464,7 +7464,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "bomb+rocket": "missile",
 "sky+train": "monorail",
-"hero+the_matrix": ["morpheus", "neo"],
+"hero+the_matrix": ["morpheus", "neo", "trinity"],
 "boy+rick_sanchez": "morty",
 "bicycle+mountain": "mountain_bike",
   "movie+music": "movie_soundtrack",
@@ -7564,4 +7564,63 @@ export const recipes: Record<string, RecipeOutput> = {
 "football+warrior": "rugby",
 "pencil+wood": "ruler",
 "money+russia": "russian_ruble",
+  "alcohol+rice": "sake",
+
+"cherry+japan": "sakura",
+
+"italy+sausage": "salami",
+
+"russia+tea": "samovar",
+
+"armor+don_quixote": "sancho_panza",
+
+"hat+santa": "santas_hat",
+
+"fish+sushi": "sashimi",
+  "book+boy": "school",
+"book+girl": "school",
+
+"school+bus": "school_bus",
+  "football+house": "stadium",
+"soccer+house": "stadium",
+  "image+phone": "selfie",
+"image+phone": "selfie",
+"phone+photo": "selfie",
+  "robot+the_matrix": "sentinel",
+
+  "spock+spock": "star_trek",
+"star_trek+spaceship": "star_trek_communicator",
+"smartphone+star_trek": "star_trek_communicator",
+"telephone+star_trek": "star_trek_communicator",
+  "apple_inc+human": "steve_jobs",
+
+"city+light": "street_light",
+"broom+city": "street_sweeper",
+"broom+car": "street_sweeper",
+
+"baby+cart": "stroller",
+"baby+car": "stroller",
+
+"movie+text": "subtitles",
+  "castle+india": "taj_mahal",
+"music+spain": "tango",
+"car+phone": "taxi",
+  "japan+castle": "temple",
+"car+computer": "tesla",
+"earth+planet": "the_earth",
+"hero+lightning": "the_flash",
+"source_code+the_earth": "the_matrix",
+"hero+rock": "the_thing",
+  "music+zombie": "thriller",
+"egg+pokemon": "togepi",
+"money+road": "tollbooth",
+
+  "tooth+toothbrush": "toothpaste",
+"bull+human": "toreador",
+"gate+japan": "torii",
+"italy+skyscraper": "tower_of_pisa",
+"car+city": "traffic_jam",
+"angle+line": "triangle",
+"ruler+triangle": "triangular_ruler",
+"bicycle+wheel": "tricycle",
 };
