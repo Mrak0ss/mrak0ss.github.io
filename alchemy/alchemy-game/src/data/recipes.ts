@@ -3893,8 +3893,6 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "bee+bee": "bumblebee",
 
-"cow+male": "bull",
-
 "paint+wood": "brown",
 
 "river+steel": "bridge",
@@ -3902,8 +3900,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "love+woman": "bride",
 
 "mud+sun": "brick",
-
-
 
 "cube+paper": "box",
 
@@ -7635,7 +7631,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "italy+mask": "venetian_mask",
 "alien+spiderman": "venom",
 "internet+video": "vimeo",
-"blue_color+red_color": "violet_color",
+"blue+red": "violet",
 "computer+glasses": "virtual_reality",
 "microsoft+source_code": "visual_studio",
 "computer+video": "vlc",
@@ -7653,8 +7649,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "tablet+windows": "windows_tablet",
 "time+windows": "windows_xp",
 "alcohol+ireland": "whiskey",
-"cloud+paint": "white_color",
-"milk+paint": "white_color",
+"cloud+paint": "white",
+"milk+paint": "white",
 "warrior+woman": "wonder_woman",
 "apple_inc+source_code": "xcode",
 "marvel_storm+wolverine": "x_men",
