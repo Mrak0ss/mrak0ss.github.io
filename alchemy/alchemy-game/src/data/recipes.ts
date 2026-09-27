@@ -7650,7 +7650,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "phone+windows": "windows_mobile",
 "time+windows_mobile": "windows_phone",
 "microsoft+tablet": "windows_tablet",
-"windows+tablet": "windows_tablet",
+"tablet+windows": "windows_tablet",
 "time+windows": "windows_xp",
 "alcohol+ireland": "whiskey",
 "cloud+paint": "white_color",
@@ -7658,7 +7658,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "warrior+woman": "wonder_woman",
 "apple_inc+source_code": "xcode",
 "marvel_storm+wolverine": "x_men",
-"sun+paint": "yellow",
+"paint+sun": "yellow",
   "bat+pokemon": "zubat",
 "hero+storm": "marvel_storm",
 };
