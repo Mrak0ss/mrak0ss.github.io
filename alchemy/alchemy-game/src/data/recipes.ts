@@ -3795,7 +3795,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "brain+spoon": "bent_spoon",
   "sushi+box": "bento_box",
   "germany+skyscraper": "berlin_tv_tower",
-"united_kingdom+clock": "big_ben",
+"clock+united_kingdom": "big_ben",
 "road+image": "billboard",
 "website+microsoft": "bing",
 
