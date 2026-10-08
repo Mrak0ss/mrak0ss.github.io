@@ -5607,7 +5607,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "air+flower": "fragrance",
 "flower+fragrance": "pollen",
 "flower+wall": "ivy",
-"fog+island": "great_britain",
+"fog+island": "united_kingdom",
 "cloud+sprout": "cotton",
 
 "jungle+river": "amazon_jungle",
@@ -6224,7 +6224,7 @@ export const recipes: Record<string, RecipeOutput> = {
   "grass+humus": "cereals",
   "compost+worm": "wormy_compost",
 "earth+wormy_compost": "humus",
-  "beer+great_britain": "ale",
+  "beer+united_kingdom": "ale",
   "columbus+continent": "america",
   "country+potato": "belarus",
   "country+tree": "canada",
