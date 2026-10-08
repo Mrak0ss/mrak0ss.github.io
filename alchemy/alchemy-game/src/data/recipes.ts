@@ -145,7 +145,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "earth+earth": "earthquake",
 "earth+steam": "geyser",
 "earth+earthquake": "mountain",
-"island+island": "arelago",
+"island+island": "archipelago",
 "sea+volcano": "island",
 "lava+pressure": "volcano",
 "air+stone": "sand",
