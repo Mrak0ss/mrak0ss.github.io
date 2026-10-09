@@ -6867,7 +6867,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "sandglass+sundial": "time",
 "iceberg+ship": "titanic",
 
-  "tank+USSR": "t_34",
+  "tank+ussr": "t_34",
 
 "bicycle+bicycle": "tandem_bicycle",
 "boat+oil": "tanker",
