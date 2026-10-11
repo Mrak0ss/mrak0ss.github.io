@@ -96,7 +96,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "human+metal": "tool",
 
-"stone+tool": "statue",
+"stone+tool": ["statue", "sculpture"],
 
 "farmer+tree": "fruit",
 "life+tree": "ent",
@@ -3004,7 +3004,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "asthma+helmet": "darth_vader",
 "apple+princess": "dead_snow_white",
 "cowboy+crime": "desperado",
-"crossroad+robert_johnson": "devil",
+"crossroad+robert_johnson": ["devil", "tuning"],
 "comics+duck": "donald_duck",
 "alien+crustacean": "dr_zoidberg",
 "alien+doctor": "dr_zoidberg",
@@ -7670,7 +7670,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "boy_scout+rope": "knot",
 "brick+mathematics": "masonry",
 "river+wheel": "mill",
-
 "brick+oven": "kiln",
 "canal+castle": "moat",
 "computer+secret": "password",
@@ -7711,7 +7710,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "religion+singing": "hymns",
 "pressure+volcanic_rock": "jewel",
 "argonauts+siren": "lyre",
-"mirror+smoke": "magic",
 "coconut+seed": "maracas",
 "head+island": "moai",
 "line+painting": "monet",
@@ -7719,10 +7717,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "stick+drums": "percussion",
 "cube+painting": "picasso",
 "drums+time": "rhythm",
-"stone+tool": "sculpture",
 "point+painting": "seraut",
 "infinity+monkey": "shakespeare",
-"crossroad+robert_johnson": "tuning",
 "bow+guitar": "violin",
 "music+seasons": "vivaldi",
 "oasis+oasis": "gallaghers",
