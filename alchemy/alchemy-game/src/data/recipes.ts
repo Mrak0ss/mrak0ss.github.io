@@ -6036,7 +6036,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "coin+electricity": "bitcoin",
 "board+metal": "shield",
 "paper+time": "calendar",
-"tooth+tool": "toothbrush",
+"tool+tooth": "toothbrush",
 "chain+stick+stick": "nunchaku",
 "ruler+time": "stopwatch",
 "air+paper": "hand_fan",
