@@ -1708,8 +1708,8 @@ export const elements: {
 { id: "road_runner", name: "Road Runner", emoji: "🐦" },
 { id: "robocop", name: "Robocop", emoji: "🤖" },
 
-{ id: "sabre_toothed_squirrel", name: "Sabre-toothed Squirrel", emoji: "🐿️" },
-{ id: "sabre_toothed_tiger", name: "Sabre-toothed Tiger", emoji: "🐅" },
+{ id: "sabertooth_squirrel", name: "Sabertooth Squirrel", emoji: "🐿️" },
+{ id: "sabertooth_tiger", name: "Sabertooth Tiger", emoji: "🐅" },
 { id: "sage_grouse", name: "Sage-grouse", emoji: "🐦" },
 
 { id: "salamander", name: "Salamander", emoji: "🦎" },
