@@ -2224,7 +2224,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "cuckoo+ostrich": "road_runner",
 "terminator+termite": "robocop",
 
-"mammoth+squirrel": "sabre_toothed_squirrel",
+"mammoth+squirrel": "sabertooth_squirrel",
 "mammoth+tiger": "sabertooth_tiger",
 "pheasant+turkey": "sage_grouse",
 
