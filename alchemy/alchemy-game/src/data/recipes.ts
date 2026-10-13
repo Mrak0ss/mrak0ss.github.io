@@ -4793,7 +4793,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "atmosphere+cloud": "sky",
 "atmosphere+sun": "sky",
 
-"big+house": "skyscraper",
+"big+house": ["skyscraper", "building"],
 "cloud+house": "skyscraper",
 "house+sky": "skyscraper",
 "sky+village": "skyscraper",
@@ -7662,7 +7662,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "canal+roman_empire": "aqueduct",
 "brick+cement": "building",
   "wall+wall+wall+wall": "building",
-  "big+house": "building",
 "agriculture+calendar": "crop_rotation",
 "magnet+needle": "compass",
 "cow+private_property": "firebranding",
