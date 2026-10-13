@@ -7203,7 +7203,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
 "sulfuric_acid+water+wood": "cellulose",
 "molluscs+water": "cephalopod",
-"internal_combustion_engine+saw": "chain_saw",
+"combustion_engine+saw": "chain_saw",
 "cuzn_battery+fire": "chemical_rubbish",
 "chemical_rubbish+container": "chemical_waste",
 "chlorine+methane": "chloroform",
