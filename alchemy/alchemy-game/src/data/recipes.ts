@@ -6973,7 +6973,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "house+sea": "seashell",
 "briefcase+safe": "secret",
 "fire+sunflower": "seed",
-"rope+timber": "seesaw",
 "car+needle": "sewing_machine",
 "light+opposite": "shadow",
 "detective+violin": "sherlock_holmes",
