@@ -151,6 +151,7 @@ export const elements: {
 { id: "brick", name: "Brick", emoji: "🧱" },
 { id: "wall", name: "Wall", emoji: "🧱" },
 { id: "house", name: "House", emoji: "🏠" },
+  { id: "building", name: "Building", emoji: "🏠" },
 { id: "village", name: "Village", emoji: "🏘️" },
 { id: "city", name: "City", emoji: "🌆" },
 { id: "explosion", name: "Explosion", emoji: "💥" },
