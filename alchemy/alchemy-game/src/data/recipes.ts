@@ -7662,6 +7662,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "canal+earth": "agriculture",
 "canal+roman_empire": "aqueduct",
 "brick+cement": "building",
+  "wall+wall+wall+wall": "building",
+  "big+house": "building",
 "agriculture+calendar": "crop_rotation",
 "magnet+needle": "compass",
 "cow+private_property": "firebranding",
