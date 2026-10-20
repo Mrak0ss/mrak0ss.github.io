@@ -7382,7 +7382,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "rope+vegetable_oil": "wick",
 "nonruminants+nuts": "boar",
 "active_robot+metal+wind": "wind_turbine",
-"incomplete_building+wheel": "windmill",
+"building+wheel": "windmill",
   "all_terrain_vehicle+wood": "wood_transporter",
 "moat+rope_ladder": "bridge",
 "rope_ladder+wood": "ladder",
