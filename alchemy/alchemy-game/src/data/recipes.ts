@@ -6678,7 +6678,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "clay+woman": "doll",
 "duck+cartoon": "donald_duck",
 "house+lock": "door",
-"medicine+building": "drugstore",
+"building+medicine": "drugstore",
 "tree+wizard": "druid",
 "gunpowder+oil": "dynamite",
 
@@ -7055,7 +7055,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "cloak+karate": "ninja",
 "mobile_phone+company": "nokia",
 "ice+map": "north_pole",
-"energy+building": "nuclear_power_plant",
+"building+energy": "nuclear_power_plant",
 
   "knife+mexico": "machete",
 "engineer+rifle": "machine_gun",
@@ -7244,8 +7244,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "gas_pipeline+oil_refinery": "gas_refinery",
 "wheel+iron": "gear",
 "animal+long_neck": "giraffe",
-"grain+building": "grain_elevator",
-"grain_elevator+building": "granary",
+"building+grain": "grain_elevator",
+"building+grain_elevator": "granary",
 
   "minerals+volcano": "graphite",
 "carbon+potassium_nitrate+sulfur": "gunpowder",
