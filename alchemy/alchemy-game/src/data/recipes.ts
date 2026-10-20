@@ -6678,7 +6678,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "clay+woman": "doll",
 "duck+cartoon": "donald_duck",
 "house+lock": "door",
-"building+medicine": "drugstore",
+"building+medicine": ["drugstore", "hospital"],
 "tree+wizard": "druid",
 "gunpowder+oil": "dynamite",
 
@@ -6770,7 +6770,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "clothing+robin_hood": "hood",
 "horse+iron": "horseshoe",
 "rope+water": "hose",
-"building+medicine": "hospital",
 "dough+sausage": "hot_dog",
 "building+tourist": "hotel",
 "genie+ussr": "hottabych",
