@@ -6780,7 +6780,7 @@ export const recipes: Record<string, RecipeOutput> = {
   "animal+paint": "zebra",
 "butterfly+scales": "zero",
 "mountain+olympiad": "zeus",
-"Football+France": "zidane",
+"football+france": "zidane",
 "cage+sloth": "zoo",
 "knight+mask": "zorro",
   "sea+sport": "yacht",
