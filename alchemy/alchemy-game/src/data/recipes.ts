@@ -7597,7 +7597,7 @@ export const recipes: Record<string, RecipeOutput> = {
   "japan+castle": "temple",
 "car+computer": "tesla",
 "earth+planet": "the_earth",
-"hero+lightning": "the_flash",
+"hero+thunder": "the_flash",
 "source_code+the_earth": "the_matrix",
 "hero+rock": "the_thing",
   "music+zombie": "thriller",
