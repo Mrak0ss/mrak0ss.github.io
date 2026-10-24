@@ -7430,8 +7430,8 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "student+time": "graduate",
 "boy+university": "student",
-"human+factory": "worker",
-"japan+cat": "maneki",
+"factory+human": "worker",
+"cat+japan": "maneki",
 "monkey+pokemon": "mankey",
 "ball+glass": "marble",
 "ultra_ball+ultra_ball": "master_ball",
