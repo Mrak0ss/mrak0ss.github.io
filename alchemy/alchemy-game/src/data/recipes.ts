@@ -7594,7 +7594,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "movie+text": "subtitles",
   "castle+india": "taj_mahal",
 "music+spain": "tango",
-  "japan+castle": "temple",
+  "castle+japan": "temple",
 "car+computer": "tesla",
 "earth+planet": "the_earth",
 "hero+thunder": "the_flash",
